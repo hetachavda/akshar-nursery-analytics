@@ -1,0 +1,4 @@
+order_date,customer_phone,customer_type,village,crop,variety,method,quantity,unit_price_inr,discount_pct,payment_mode,channel,fulfilment,notes
+2026-09-01,98XXXXXX01,Retail farmer,Thasra,Chilli,VNR 332 (Rani),Pro-tray,1500,1.70,0,UPI,Walk-in,Self pickup,
+2026-09-01,98XXXXXX02,Wholesale / dealer,Dakor,Chilli,US 1081,Pro-tray,8000,1.80,10,Credit,Phone call,Van delivery,30-day credit
+2026-09-01,98XXXXXX03,Retail farmer,Jesapura,Tobacco,428,Nursery bed,9000,0.13,0,Cash,Walk-in,Self pickup,

@@ -1,0 +1,252 @@
+{
+  "total_revenue": 22841661.95,
+  "total_seedlings": 28260340,
+  "total_orders": 6824,
+  "total_customers": 3001,
+  "avg_order_value": 3347.254095838218,
+  "revenue_2024": 6744491.3,
+  "revenue_2025": 8424228.49,
+  "growth_2025_vs_2024_pct": 24.90532073189864,
+  "ytd_revenue_2026": 7672942.16,
+  "ytd_growth_2026_vs_2025_pct": 32.98485619331617,
+  "peak_season_share_pct": 70.31516062691752,
+  "chilli_share_pct": 64.89988899428573,
+  "top_variety": "VNR 332 (Rani), VNR Seeds",
+  "varieties_for_80pct": 12,
+  "variety_count": 16,
+  "chilli_protray_2024": 57.558670918535455,
+  "chilli_protray_2026": 70.5594129143258,
+  "wholesale_share_pct": 47.946095008204956,
+  "retention_2024_to_2025_pct": 62.01469045120671,
+  "overall_margin_pct": 24.214284197477152,
+  "tobacco_margin_pct": 18.50425141605729,
+  "tobacco_profit_per_1000": 21.46530099469399,
+  "chilli_tray_profit_per_1000": 475.14466728381853,
+  "chilli_tray_margin_pct": 31.39988789257225,
+  "chilli_bed_margin_pct": 12.48532002003922,
+  "protray_unsold_pct": 10.282400523832179,
+  "whatsapp_2026_pct": 25.01233349777997,
+  "findings": [
+    "Growing business. Revenue grew 25% in 2025 and is up 33% for January to August 2026 against the same months of 2025.",
+    "Very seasonal. June to September brings 70% of all revenue. Chilli seed must be sown from late April to be ready for the June rush.",
+    "Chilli is the core. Chilli is 65% of revenue; VNR 332 (Rani) from VNR Seeds is the single biggest variety. 12 of 16 varieties make 80% of revenue.",
+    "Pro-tray is winning. Chilli pro-tray share rose from 58% to 71%. Pro-tray chilli sells 43% higher and earns a 31% gross margin, against 12% for bed chilli, where lower germination wastes costly hybrid seed.",
+    "Dealers matter. Wholesale and dealer customers are 48% of revenue with an average order of \u20b98,962, but 38% of their revenue is on credit.",
+    "Loyal farmers. 62% of 2024's new customers bought again in 2025.",
+    "Tobacco is volume, not profit. Tobacco 428 is the largest crop by seedling count but earns about \u20b921 gross profit per 1,000 seedlings, against \u20b9475 for pro-tray chilli.",
+    "Waste to cut. About 10% of pro-tray seedlings raised go unsold, mostly from over-sowing as a buffer.",
+    "Going digital. WhatsApp orders reached 25% in 2026 and UPI rose from 33% to 50% of revenue."
+  ],
+  "recommendations": [
+    "Book seed and cocopeat for chilli, capsicum and tomato by April, using the sowing plan in section 10.",
+    "Cut unsold pro-tray seedlings from about 10% to 5% by taking advance orders (with a deposit) on WhatsApp and sowing to order.",
+    "Push pro-tray for chilli and capsicum: higher price, higher germination and better margin per seedling.",
+    "Set a credit limit and a 30-day due date for dealers, and track outstanding amounts weekly.",
+    "Keep tobacco for customer loyalty, but price it per 1,000 with a small increase or bundle it with chilli orders.",
+    "Use the website and WhatsApp for pre-season booking, and ask satisfied farmers for Google reviews after each season."
+  ],
+  "annual": [
+    {
+      "year": 2024,
+      "revenue": 6744491.3,
+      "seedlings": 9339490,
+      "orders": 2195,
+      "customers": 953,
+      "avg_order_value": 3072.6611845102507
+    },
+    {
+      "year": 2025,
+      "revenue": 8424228.49,
+      "seedlings": 10798040,
+      "orders": 2602,
+      "customers": 1740,
+      "avg_order_value": 3237.5974212144506
+    },
+    {
+      "year": 2026,
+      "revenue": 7672942.16,
+      "seedlings": 8122810,
+      "orders": 2027,
+      "customers": 1632,
+      "avg_order_value": 3785.3686038480514
+    }
+  ],
+  "plan": [
+    {
+      "crop": "Chilli",
+      "month": "Sep",
+      "forecast_seedlings": 641000.0,
+      "seeds_to_sow": 810300.0,
+      "sow_by": "31 Jul",
+      "growth_vs_2025": "+26%"
+    },
+    {
+      "crop": "Chilli",
+      "month": "Oct",
+      "forecast_seedlings": 286700.0,
+      "seeds_to_sow": 362300.0,
+      "sow_by": "30 Aug",
+      "growth_vs_2025": "+26%"
+    },
+    {
+      "crop": "Chilli",
+      "month": "Nov",
+      "forecast_seedlings": 268500.0,
+      "seeds_to_sow": 339400.0,
+      "sow_by": "30 Sep",
+      "growth_vs_2025": "+26%"
+    },
+    {
+      "crop": "Chilli",
+      "month": "Dec",
+      "forecast_seedlings": 131000.0,
+      "seeds_to_sow": 165600.0,
+      "sow_by": "30 Oct",
+      "growth_vs_2025": "+26%"
+    },
+    {
+      "crop": "Capsicum",
+      "month": "Sep",
+      "forecast_seedlings": 48500.0,
+      "seeds_to_sow": 57500.0,
+      "sow_by": "25 Jul",
+      "growth_vs_2025": "+18%"
+    },
+    {
+      "crop": "Capsicum",
+      "month": "Oct",
+      "forecast_seedlings": 44200.0,
+      "seeds_to_sow": 52400.0,
+      "sow_by": "24 Aug",
+      "growth_vs_2025": "+18%"
+    },
+    {
+      "crop": "Capsicum",
+      "month": "Nov",
+      "forecast_seedlings": 6100.0,
+      "seeds_to_sow": 7300.0,
+      "sow_by": "24 Sep",
+      "growth_vs_2025": "+18%"
+    },
+    {
+      "crop": "Capsicum",
+      "month": "Dec",
+      "forecast_seedlings": 5600.0,
+      "seeds_to_sow": 6600.0,
+      "sow_by": "24 Oct",
+      "growth_vs_2025": "+18%"
+    },
+    {
+      "crop": "Tomato",
+      "month": "Sep",
+      "forecast_seedlings": 53600.0,
+      "seeds_to_sow": 66800.0,
+      "sow_by": "06 Aug",
+      "growth_vs_2025": "+19%"
+    },
+    {
+      "crop": "Tomato",
+      "month": "Oct",
+      "forecast_seedlings": 93100.0,
+      "seeds_to_sow": 116000.0,
+      "sow_by": "05 Sep",
+      "growth_vs_2025": "+19%"
+    },
+    {
+      "crop": "Tomato",
+      "month": "Nov",
+      "forecast_seedlings": 48900.0,
+      "seeds_to_sow": 61000.0,
+      "sow_by": "06 Oct",
+      "growth_vs_2025": "+19%"
+    },
+    {
+      "crop": "Tomato",
+      "month": "Dec",
+      "forecast_seedlings": 38200.0,
+      "seeds_to_sow": 47500.0,
+      "sow_by": "05 Nov",
+      "growth_vs_2025": "+19%"
+    },
+    {
+      "crop": "Brinjal",
+      "month": "Sep",
+      "forecast_seedlings": 37800.0,
+      "seeds_to_sow": 48500.0,
+      "sow_by": "02 Aug",
+      "growth_vs_2025": "+6%"
+    },
+    {
+      "crop": "Brinjal",
+      "month": "Oct",
+      "forecast_seedlings": 23200.0,
+      "seeds_to_sow": 29800.0,
+      "sow_by": "01 Sep",
+      "growth_vs_2025": "+6%"
+    },
+    {
+      "crop": "Brinjal",
+      "month": "Nov",
+      "forecast_seedlings": 20600.0,
+      "seeds_to_sow": 26400.0,
+      "sow_by": "02 Oct",
+      "growth_vs_2025": "+6%"
+    },
+    {
+      "crop": "Brinjal",
+      "month": "Dec",
+      "forecast_seedlings": 29700.0,
+      "seeds_to_sow": 38200.0,
+      "sow_by": "01 Nov",
+      "growth_vs_2025": "+6%"
+    },
+    {
+      "crop": "Marigold",
+      "month": "Sep",
+      "forecast_seedlings": 79100.0,
+      "seeds_to_sow": 96700.0,
+      "sow_by": "07 Aug",
+      "growth_vs_2025": "+35%"
+    },
+    {
+      "crop": "Marigold",
+      "month": "Oct",
+      "forecast_seedlings": 94700.0,
+      "seeds_to_sow": 115800.0,
+      "sow_by": "06 Sep",
+      "growth_vs_2025": "+35%"
+    },
+    {
+      "crop": "Marigold",
+      "month": "Nov",
+      "forecast_seedlings": 60300.0,
+      "seeds_to_sow": 73700.0,
+      "sow_by": "07 Oct",
+      "growth_vs_2025": "+35%"
+    },
+    {
+      "crop": "Marigold",
+      "month": "Dec",
+      "forecast_seedlings": 20500.0,
+      "seeds_to_sow": 25000.0,
+      "sow_by": "06 Nov",
+      "growth_vs_2025": "+35%"
+    },
+    {
+      "crop": "Tobacco",
+      "month": "Sep",
+      "forecast_seedlings": 1523200.0,
+      "seeds_to_sow": 1962600.0,
+      "sow_by": "15 Jul",
+      "growth_vs_2025": "-3%"
+    },
+    {
+      "crop": "Tobacco",
+      "month": "Oct",
+      "forecast_seedlings": 279500.0,
+      "seeds_to_sow": 360200.0,
+      "sow_by": "14 Aug",
+      "growth_vs_2025": "-3%"
+    }
+  ]
+}

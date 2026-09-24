@@ -1,0 +1,3002 @@
+customer_id,customer_type,village,distance_km,first_order_date
+C0001,Retail farmer,Umreth,22,2024-01-01
+C0002,Retail farmer,Dakor,12,2024-01-01
+C0003,Home gardener,Mahudha,30,2024-01-01
+C0004,Retail farmer,Mahudha,30,2024-01-01
+C0005,Wholesale / dealer,Jesapura,1,2024-01-02
+C0006,Retail farmer,Mithapura,1,2024-01-05
+C0007,Retail farmer,Mithapura,1,2024-01-05
+C0008,Wholesale / dealer,Thasra,9,2024-01-06
+C0009,Wholesale / dealer,Mahudha,30,2024-01-06
+C0010,Home gardener,Nadiad,38,2024-01-07
+C0011,Home gardener,Dakor,12,2024-01-09
+C0012,Retail farmer,Kathlal,35,2024-01-10
+C0013,Home gardener,Dakor,12,2024-01-10
+C0014,Home gardener,Sevalia,18,2024-01-12
+C0015,Retail farmer,Nadiad,38,2024-01-12
+C0016,Retail farmer,Thasra,9,2024-01-14
+C0017,Retail farmer,Dakor,12,2024-01-15
+C0018,Retail farmer,Mithapura,1,2024-01-16
+C0019,Retail farmer,Thasra,9,2024-01-17
+C0020,Retail farmer,Thasra,9,2024-01-17
+C0021,Retail farmer,Kathlal,35,2024-01-17
+C0022,Retail farmer,Anand,42,2024-01-21
+C0023,Retail farmer,Sevalia,18,2024-01-22
+C0024,Retail farmer,Jesapura,1,2024-01-23
+C0025,Retail farmer,Anand,42,2024-01-24
+C0026,Retail farmer,Balasinor,28,2024-01-24
+C0027,Retail farmer,Jesapura,1,2024-01-26
+C0028,Retail farmer,Dakor,12,2024-01-26
+C0029,Retail farmer,Mahudha,30,2024-01-27
+C0030,Retail farmer,Sevalia,18,2024-01-27
+C0031,Retail farmer,Jesapura,1,2024-01-30
+C0032,Retail farmer,Jesapura,1,2024-02-01
+C0033,Home gardener,Thasra,9,2024-02-01
+C0034,Retail farmer,Nadiad,38,2024-02-01
+C0035,Home gardener,Nadiad,38,2024-02-01
+C0036,Retail farmer,Anand,42,2024-02-02
+C0037,Retail farmer,Mithapura,1,2024-02-05
+C0038,Retail farmer,Mithapura,1,2024-02-06
+C0039,Retail farmer,Thasra,9,2024-02-08
+C0040,Retail farmer,Umreth,22,2024-02-09
+C0041,Retail farmer,Dakor,12,2024-02-11
+C0042,Retail farmer,Thasra,9,2024-02-12
+C0043,Retail farmer,Dakor,12,2024-02-12
+C0044,Retail farmer,Thasra,9,2024-02-13
+C0045,Retail farmer,Jesapura,1,2024-02-13
+C0046,Wholesale / dealer,Kapadvanj,40,2024-02-14
+C0047,Retail farmer,Mithapura,1,2024-02-14
+C0048,Retail farmer,Mithapura,1,2024-02-15
+C0049,Retail farmer,Mithapura,1,2024-02-20
+C0050,Retail farmer,Kapadvanj,40,2024-02-21
+C0051,Retail farmer,Sevalia,18,2024-02-24
+C0052,Retail farmer,Dakor,12,2024-02-25
+C0053,Retail farmer,Thasra,9,2024-02-25
+C0054,Retail farmer,Kapadvanj,40,2024-02-25
+C0055,Retail farmer,Sevalia,18,2024-02-28
+C0056,Retail farmer,Umreth,22,2024-02-28
+C0057,Retail farmer,Anand,42,2024-02-28
+C0058,Retail farmer,Kapadvanj,40,2024-03-02
+C0059,Retail farmer,Nadiad,38,2024-03-03
+C0060,Retail farmer,Nadiad,38,2024-03-04
+C0061,Retail farmer,Balasinor,28,2024-03-06
+C0062,Retail farmer,Thasra,9,2024-03-07
+C0063,Retail farmer,Dakor,12,2024-03-08
+C0064,Retail farmer,Nadiad,38,2024-03-09
+C0065,Retail farmer,Anand,42,2024-03-10
+C0066,Wholesale / dealer,Nadiad,38,2024-03-11
+C0067,Retail farmer,Jesapura,1,2024-03-13
+C0068,Wholesale / dealer,Thasra,9,2024-03-16
+C0069,Retail farmer,Dakor,12,2024-03-16
+C0070,Home gardener,Anand,42,2024-03-19
+C0071,Retail farmer,Anand,42,2024-03-22
+C0072,Retail farmer,Umreth,22,2024-03-22
+C0073,Retail farmer,Dakor,12,2024-03-22
+C0074,Retail farmer,Dakor,12,2024-03-24
+C0075,Retail farmer,Anand,42,2024-03-25
+C0076,Retail farmer,Jesapura,1,2024-03-28
+C0077,Retail farmer,Nadiad,38,2024-04-02
+C0078,Retail farmer,Anand,42,2024-04-03
+C0079,Wholesale / dealer,Thasra,9,2024-04-04
+C0080,Retail farmer,Thasra,9,2024-04-05
+C0081,Retail farmer,Thasra,9,2024-04-06
+C0082,Retail farmer,Dakor,12,2024-04-07
+C0083,Wholesale / dealer,Nadiad,38,2024-04-08
+C0084,Retail farmer,Thasra,9,2024-04-09
+C0085,Retail farmer,Sevalia,18,2024-04-11
+C0086,Home gardener,Mahudha,30,2024-04-12
+C0087,Home gardener,Umreth,22,2024-04-12
+C0088,Retail farmer,Umreth,22,2024-04-13
+C0089,Retail farmer,Kapadvanj,40,2024-04-14
+C0090,Retail farmer,Nadiad,38,2024-04-14
+C0091,Retail farmer,Mahudha,30,2024-04-15
+C0092,Home gardener,Dakor,12,2024-04-15
+C0093,Retail farmer,Dakor,12,2024-04-15
+C0094,Home gardener,Mahudha,30,2024-04-16
+C0095,Retail farmer,Thasra,9,2024-04-18
+C0096,Retail farmer,Mahudha,30,2024-04-18
+C0097,Home gardener,Kathlal,35,2024-04-19
+C0098,Retail farmer,Dakor,12,2024-04-19
+C0099,Retail farmer,Mithapura,1,2024-04-21
+C0100,Retail farmer,Mahudha,30,2024-04-22
+C0101,Retail farmer,Mahudha,30,2024-04-23
+C0102,Retail farmer,Jesapura,1,2024-04-23
+C0103,Retail farmer,Nadiad,38,2024-04-24
+C0104,Retail farmer,Dakor,12,2024-04-26
+C0105,Retail farmer,Dakor,12,2024-04-27
+C0106,Retail farmer,Kapadvanj,40,2024-04-29
+C0107,Retail farmer,Umreth,22,2024-05-01
+C0108,Retail farmer,Kathlal,35,2024-05-02
+C0109,Retail farmer,Umreth,22,2024-05-02
+C0110,Retail farmer,Kathlal,35,2024-05-02
+C0111,Retail farmer,Thasra,9,2024-05-02
+C0112,Retail farmer,Anand,42,2024-05-02
+C0113,Retail farmer,Sevalia,18,2024-05-03
+C0114,Retail farmer,Kapadvanj,40,2024-05-03
+C0115,Retail farmer,Balasinor,28,2024-05-04
+C0116,Retail farmer,Dakor,12,2024-05-04
+C0117,Retail farmer,Balasinor,28,2024-05-04
+C0118,Retail farmer,Jesapura,1,2024-05-04
+C0119,Retail farmer,Thasra,9,2024-05-05
+C0120,Retail farmer,Thasra,9,2024-05-05
+C0121,Retail farmer,Kapadvanj,40,2024-05-05
+C0122,Retail farmer,Kapadvanj,40,2024-05-06
+C0123,Retail farmer,Kapadvanj,40,2024-05-06
+C0124,Retail farmer,Anand,42,2024-05-06
+C0125,Wholesale / dealer,Mahudha,30,2024-05-07
+C0126,Home gardener,Thasra,9,2024-05-07
+C0127,Retail farmer,Mithapura,1,2024-05-09
+C0128,Retail farmer,Kapadvanj,40,2024-05-10
+C0129,Retail farmer,Umreth,22,2024-05-10
+C0130,Retail farmer,Sevalia,18,2024-05-10
+C0131,Retail farmer,Kathlal,35,2024-05-11
+C0132,Retail farmer,Kathlal,35,2024-05-11
+C0133,Retail farmer,Nadiad,38,2024-05-12
+C0134,Retail farmer,Umreth,22,2024-05-12
+C0135,Home gardener,Jesapura,1,2024-05-13
+C0136,Retail farmer,Balasinor,28,2024-05-13
+C0137,Home gardener,Balasinor,28,2024-05-14
+C0138,Retail farmer,Sevalia,18,2024-05-14
+C0139,Wholesale / dealer,Anand,42,2024-05-15
+C0140,Retail farmer,Mithapura,1,2024-05-15
+C0141,Home gardener,Thasra,9,2024-05-16
+C0142,Retail farmer,Mahudha,30,2024-05-18
+C0143,Retail farmer,Mahudha,30,2024-05-18
+C0144,Retail farmer,Kapadvanj,40,2024-05-18
+C0145,Retail farmer,Nadiad,38,2024-05-19
+C0146,Retail farmer,Balasinor,28,2024-05-19
+C0147,Retail farmer,Umreth,22,2024-05-19
+C0148,Retail farmer,Sevalia,18,2024-05-20
+C0149,Retail farmer,Mithapura,1,2024-05-20
+C0150,Retail farmer,Thasra,9,2024-05-21
+C0151,Retail farmer,Anand,42,2024-05-21
+C0152,Retail farmer,Sevalia,18,2024-05-22
+C0153,Home gardener,Dakor,12,2024-05-23
+C0154,Retail farmer,Sevalia,18,2024-05-23
+C0155,Home gardener,Dakor,12,2024-05-25
+C0156,Retail farmer,Balasinor,28,2024-05-25
+C0157,Home gardener,Kathlal,35,2024-05-26
+C0158,Retail farmer,Kapadvanj,40,2024-05-28
+C0159,Retail farmer,Thasra,9,2024-05-28
+C0160,Retail farmer,Nadiad,38,2024-05-28
+C0161,Retail farmer,Jesapura,1,2024-05-28
+C0162,Retail farmer,Jesapura,1,2024-05-28
+C0163,Retail farmer,Thasra,9,2024-05-29
+C0164,Retail farmer,Kapadvanj,40,2024-05-29
+C0165,Retail farmer,Jesapura,1,2024-05-31
+C0166,Retail farmer,Jesapura,1,2024-06-01
+C0167,Wholesale / dealer,Sevalia,18,2024-06-01
+C0168,Retail farmer,Anand,42,2024-06-01
+C0169,Retail farmer,Dakor,12,2024-06-01
+C0170,Retail farmer,Kathlal,35,2024-06-01
+C0171,Home gardener,Kathlal,35,2024-06-02
+C0172,Retail farmer,Thasra,9,2024-06-03
+C0173,Retail farmer,Kathlal,35,2024-06-03
+C0174,Retail farmer,Balasinor,28,2024-06-03
+C0175,Retail farmer,Dakor,12,2024-06-04
+C0176,Retail farmer,Umreth,22,2024-06-04
+C0177,Home gardener,Dakor,12,2024-06-05
+C0178,Retail farmer,Dakor,12,2024-06-05
+C0179,Retail farmer,Nadiad,38,2024-06-05
+C0180,Retail farmer,Thasra,9,2024-06-05
+C0181,Retail farmer,Sevalia,18,2024-06-06
+C0182,Wholesale / dealer,Dakor,12,2024-06-07
+C0183,Retail farmer,Kathlal,35,2024-06-07
+C0184,Retail farmer,Balasinor,28,2024-06-07
+C0185,Retail farmer,Dakor,12,2024-06-07
+C0186,Retail farmer,Anand,42,2024-06-07
+C0187,Retail farmer,Kapadvanj,40,2024-06-08
+C0188,Retail farmer,Thasra,9,2024-06-08
+C0189,Retail farmer,Balasinor,28,2024-06-08
+C0190,Home gardener,Dakor,12,2024-06-08
+C0191,Retail farmer,Nadiad,38,2024-06-09
+C0192,Retail farmer,Kapadvanj,40,2024-06-09
+C0193,Retail farmer,Thasra,9,2024-06-09
+C0194,Retail farmer,Thasra,9,2024-06-09
+C0195,Retail farmer,Dakor,12,2024-06-10
+C0196,Retail farmer,Mahudha,30,2024-06-11
+C0197,Retail farmer,Mahudha,30,2024-06-11
+C0198,Retail farmer,Thasra,9,2024-06-11
+C0199,Retail farmer,Dakor,12,2024-06-11
+C0200,Retail farmer,Nadiad,38,2024-06-11
+C0201,Retail farmer,Dakor,12,2024-06-11
+C0202,Home gardener,Nadiad,38,2024-06-12
+C0203,Wholesale / dealer,Mithapura,1,2024-06-12
+C0204,Retail farmer,Mahudha,30,2024-06-12
+C0205,Retail farmer,Jesapura,1,2024-06-12
+C0206,Retail farmer,Mahudha,30,2024-06-13
+C0207,Retail farmer,Anand,42,2024-06-13
+C0208,Retail farmer,Kapadvanj,40,2024-06-13
+C0209,Retail farmer,Umreth,22,2024-06-14
+C0210,Retail farmer,Umreth,22,2024-06-14
+C0211,Retail farmer,Nadiad,38,2024-06-14
+C0212,Wholesale / dealer,Mithapura,1,2024-06-14
+C0213,Home gardener,Mithapura,1,2024-06-14
+C0214,Retail farmer,Thasra,9,2024-06-15
+C0215,Wholesale / dealer,Nadiad,38,2024-06-15
+C0216,Retail farmer,Umreth,22,2024-06-16
+C0217,Retail farmer,Kapadvanj,40,2024-06-16
+C0218,Home gardener,Umreth,22,2024-06-16
+C0219,Retail farmer,Thasra,9,2024-06-17
+C0220,Retail farmer,Mithapura,1,2024-06-17
+C0221,Retail farmer,Mithapura,1,2024-06-17
+C0222,Retail farmer,Dakor,12,2024-06-17
+C0223,Retail farmer,Umreth,22,2024-06-17
+C0224,Wholesale / dealer,Mithapura,1,2024-06-18
+C0225,Retail farmer,Thasra,9,2024-06-18
+C0226,Retail farmer,Dakor,12,2024-06-18
+C0227,Retail farmer,Anand,42,2024-06-19
+C0228,Retail farmer,Thasra,9,2024-06-19
+C0229,Wholesale / dealer,Jesapura,1,2024-06-19
+C0230,Retail farmer,Jesapura,1,2024-06-19
+C0231,Retail farmer,Anand,42,2024-06-19
+C0232,Home gardener,Thasra,9,2024-06-19
+C0233,Wholesale / dealer,Mithapura,1,2024-06-19
+C0234,Retail farmer,Mithapura,1,2024-06-20
+C0235,Retail farmer,Kapadvanj,40,2024-06-20
+C0236,Retail farmer,Umreth,22,2024-06-21
+C0237,Retail farmer,Kapadvanj,40,2024-06-21
+C0238,Retail farmer,Kathlal,35,2024-06-22
+C0239,Retail farmer,Anand,42,2024-06-22
+C0240,Retail farmer,Kathlal,35,2024-06-23
+C0241,Retail farmer,Anand,42,2024-06-23
+C0242,Retail farmer,Dakor,12,2024-06-23
+C0243,Retail farmer,Nadiad,38,2024-06-23
+C0244,Retail farmer,Jesapura,1,2024-06-23
+C0245,Retail farmer,Nadiad,38,2024-06-24
+C0246,Retail farmer,Anand,42,2024-06-24
+C0247,Retail farmer,Balasinor,28,2024-06-24
+C0248,Wholesale / dealer,Dakor,12,2024-06-24
+C0249,Wholesale / dealer,Dakor,12,2024-06-24
+C0250,Retail farmer,Mithapura,1,2024-06-24
+C0251,Retail farmer,Nadiad,38,2024-06-25
+C0252,Retail farmer,Dakor,12,2024-06-25
+C0253,Home gardener,Jesapura,1,2024-06-25
+C0254,Retail farmer,Nadiad,38,2024-06-26
+C0255,Retail farmer,Balasinor,28,2024-06-26
+C0256,Wholesale / dealer,Umreth,22,2024-06-26
+C0257,Retail farmer,Sevalia,18,2024-06-26
+C0258,Retail farmer,Sevalia,18,2024-06-27
+C0259,Retail farmer,Jesapura,1,2024-06-27
+C0260,Home gardener,Sevalia,18,2024-06-27
+C0261,Retail farmer,Thasra,9,2024-06-27
+C0262,Wholesale / dealer,Dakor,12,2024-06-28
+C0263,Retail farmer,Mahudha,30,2024-06-28
+C0264,Home gardener,Thasra,9,2024-06-28
+C0265,Retail farmer,Anand,42,2024-06-28
+C0266,Wholesale / dealer,Kapadvanj,40,2024-06-28
+C0267,Retail farmer,Anand,42,2024-06-28
+C0268,Retail farmer,Dakor,12,2024-06-28
+C0269,Retail farmer,Mithapura,1,2024-06-29
+C0270,Retail farmer,Mahudha,30,2024-06-29
+C0271,Wholesale / dealer,Nadiad,38,2024-06-29
+C0272,Retail farmer,Sevalia,18,2024-06-29
+C0273,Retail farmer,Umreth,22,2024-06-29
+C0274,Retail farmer,Umreth,22,2024-06-30
+C0275,Retail farmer,Thasra,9,2024-06-30
+C0276,Retail farmer,Mahudha,30,2024-06-30
+C0277,Retail farmer,Sevalia,18,2024-06-30
+C0278,Retail farmer,Jesapura,1,2024-07-01
+C0279,Retail farmer,Umreth,22,2024-07-01
+C0280,Retail farmer,Thasra,9,2024-07-01
+C0281,Retail farmer,Dakor,12,2024-07-01
+C0282,Retail farmer,Nadiad,38,2024-07-01
+C0283,Retail farmer,Thasra,9,2024-07-01
+C0284,Retail farmer,Sevalia,18,2024-07-01
+C0285,Retail farmer,Balasinor,28,2024-07-01
+C0286,Retail farmer,Mithapura,1,2024-07-02
+C0287,Wholesale / dealer,Anand,42,2024-07-02
+C0288,Retail farmer,Dakor,12,2024-07-02
+C0289,Retail farmer,Dakor,12,2024-07-02
+C0290,Retail farmer,Umreth,22,2024-07-02
+C0291,Home gardener,Mahudha,30,2024-07-02
+C0292,Wholesale / dealer,Anand,42,2024-07-02
+C0293,Home gardener,Kathlal,35,2024-07-02
+C0294,Retail farmer,Kapadvanj,40,2024-07-02
+C0295,Retail farmer,Thasra,9,2024-07-03
+C0296,Retail farmer,Sevalia,18,2024-07-03
+C0297,Retail farmer,Thasra,9,2024-07-03
+C0298,Home gardener,Dakor,12,2024-07-03
+C0299,Retail farmer,Sevalia,18,2024-07-03
+C0300,Retail farmer,Thasra,9,2024-07-03
+C0301,Retail farmer,Sevalia,18,2024-07-03
+C0302,Home gardener,Dakor,12,2024-07-03
+C0303,Retail farmer,Anand,42,2024-07-03
+C0304,Retail farmer,Mithapura,1,2024-07-03
+C0305,Retail farmer,Mithapura,1,2024-07-04
+C0306,Home gardener,Mahudha,30,2024-07-04
+C0307,Retail farmer,Kapadvanj,40,2024-07-04
+C0308,Retail farmer,Umreth,22,2024-07-04
+C0309,Retail farmer,Anand,42,2024-07-04
+C0310,Retail farmer,Balasinor,28,2024-07-04
+C0311,Retail farmer,Dakor,12,2024-07-04
+C0312,Wholesale / dealer,Dakor,12,2024-07-05
+C0313,Retail farmer,Mithapura,1,2024-07-05
+C0314,Retail farmer,Mahudha,30,2024-07-05
+C0315,Retail farmer,Dakor,12,2024-07-05
+C0316,Retail farmer,Sevalia,18,2024-07-05
+C0317,Retail farmer,Nadiad,38,2024-07-05
+C0318,Retail farmer,Kathlal,35,2024-07-05
+C0319,Wholesale / dealer,Umreth,22,2024-07-05
+C0320,Home gardener,Balasinor,28,2024-07-06
+C0321,Retail farmer,Thasra,9,2024-07-06
+C0322,Retail farmer,Kapadvanj,40,2024-07-06
+C0323,Wholesale / dealer,Umreth,22,2024-07-06
+C0324,Retail farmer,Thasra,9,2024-07-06
+C0325,Retail farmer,Thasra,9,2024-07-07
+C0326,Retail farmer,Kathlal,35,2024-07-07
+C0327,Retail farmer,Sevalia,18,2024-07-07
+C0328,Retail farmer,Dakor,12,2024-07-07
+C0329,Retail farmer,Balasinor,28,2024-07-07
+C0330,Retail farmer,Kathlal,35,2024-07-07
+C0331,Retail farmer,Jesapura,1,2024-07-07
+C0332,Retail farmer,Nadiad,38,2024-07-07
+C0333,Retail farmer,Jesapura,1,2024-07-07
+C0334,Retail farmer,Kapadvanj,40,2024-07-07
+C0335,Retail farmer,Jesapura,1,2024-07-07
+C0336,Retail farmer,Umreth,22,2024-07-08
+C0337,Retail farmer,Balasinor,28,2024-07-08
+C0338,Retail farmer,Umreth,22,2024-07-08
+C0339,Home gardener,Mahudha,30,2024-07-08
+C0340,Wholesale / dealer,Umreth,22,2024-07-09
+C0341,Retail farmer,Umreth,22,2024-07-09
+C0342,Retail farmer,Nadiad,38,2024-07-09
+C0343,Retail farmer,Jesapura,1,2024-07-09
+C0344,Retail farmer,Mithapura,1,2024-07-09
+C0345,Retail farmer,Kapadvanj,40,2024-07-09
+C0346,Retail farmer,Balasinor,28,2024-07-09
+C0347,Wholesale / dealer,Anand,42,2024-07-09
+C0348,Retail farmer,Mahudha,30,2024-07-09
+C0349,Retail farmer,Nadiad,38,2024-07-10
+C0350,Retail farmer,Thasra,9,2024-07-10
+C0351,Retail farmer,Nadiad,38,2024-07-10
+C0352,Retail farmer,Mahudha,30,2024-07-10
+C0353,Retail farmer,Sevalia,18,2024-07-10
+C0354,Retail farmer,Kathlal,35,2024-07-11
+C0355,Retail farmer,Kathlal,35,2024-07-11
+C0356,Home gardener,Thasra,9,2024-07-11
+C0357,Retail farmer,Sevalia,18,2024-07-11
+C0358,Retail farmer,Kapadvanj,40,2024-07-11
+C0359,Home gardener,Thasra,9,2024-07-12
+C0360,Retail farmer,Nadiad,38,2024-07-12
+C0361,Wholesale / dealer,Umreth,22,2024-07-12
+C0362,Retail farmer,Kapadvanj,40,2024-07-12
+C0363,Wholesale / dealer,Anand,42,2024-07-12
+C0364,Retail farmer,Mahudha,30,2024-07-12
+C0365,Retail farmer,Kapadvanj,40,2024-07-12
+C0366,Retail farmer,Mahudha,30,2024-07-12
+C0367,Retail farmer,Mahudha,30,2024-07-13
+C0368,Retail farmer,Mahudha,30,2024-07-13
+C0369,Retail farmer,Thasra,9,2024-07-13
+C0370,Retail farmer,Thasra,9,2024-07-13
+C0371,Retail farmer,Thasra,9,2024-07-13
+C0372,Retail farmer,Thasra,9,2024-07-14
+C0373,Retail farmer,Balasinor,28,2024-07-14
+C0374,Retail farmer,Mithapura,1,2024-07-14
+C0375,Retail farmer,Dakor,12,2024-07-14
+C0376,Home gardener,Mahudha,30,2024-07-14
+C0377,Retail farmer,Dakor,12,2024-07-15
+C0378,Retail farmer,Mahudha,30,2024-07-15
+C0379,Retail farmer,Kapadvanj,40,2024-07-15
+C0380,Retail farmer,Kapadvanj,40,2024-07-15
+C0381,Retail farmer,Dakor,12,2024-07-16
+C0382,Home gardener,Mithapura,1,2024-07-16
+C0383,Retail farmer,Sevalia,18,2024-07-16
+C0384,Retail farmer,Mahudha,30,2024-07-16
+C0385,Retail farmer,Dakor,12,2024-07-16
+C0386,Retail farmer,Kapadvanj,40,2024-07-16
+C0387,Retail farmer,Kapadvanj,40,2024-07-16
+C0388,Retail farmer,Dakor,12,2024-07-16
+C0389,Home gardener,Balasinor,28,2024-07-16
+C0390,Retail farmer,Jesapura,1,2024-07-17
+C0391,Retail farmer,Sevalia,18,2024-07-17
+C0392,Retail farmer,Anand,42,2024-07-17
+C0393,Retail farmer,Jesapura,1,2024-07-17
+C0394,Retail farmer,Nadiad,38,2024-07-17
+C0395,Home gardener,Umreth,22,2024-07-17
+C0396,Retail farmer,Thasra,9,2024-07-17
+C0397,Retail farmer,Nadiad,38,2024-07-18
+C0398,Home gardener,Anand,42,2024-07-18
+C0399,Retail farmer,Kathlal,35,2024-07-18
+C0400,Retail farmer,Kapadvanj,40,2024-07-19
+C0401,Retail farmer,Mithapura,1,2024-07-19
+C0402,Retail farmer,Mahudha,30,2024-07-19
+C0403,Home gardener,Dakor,12,2024-07-19
+C0404,Wholesale / dealer,Anand,42,2024-07-19
+C0405,Retail farmer,Umreth,22,2024-07-19
+C0406,Retail farmer,Umreth,22,2024-07-19
+C0407,Retail farmer,Thasra,9,2024-07-20
+C0408,Retail farmer,Anand,42,2024-07-20
+C0409,Wholesale / dealer,Sevalia,18,2024-07-20
+C0410,Wholesale / dealer,Sevalia,18,2024-07-20
+C0411,Retail farmer,Balasinor,28,2024-07-20
+C0412,Retail farmer,Thasra,9,2024-07-20
+C0413,Retail farmer,Umreth,22,2024-07-20
+C0414,Wholesale / dealer,Kathlal,35,2024-07-21
+C0415,Retail farmer,Umreth,22,2024-07-21
+C0416,Retail farmer,Kathlal,35,2024-07-21
+C0417,Wholesale / dealer,Jesapura,1,2024-07-21
+C0418,Wholesale / dealer,Anand,42,2024-07-22
+C0419,Home gardener,Nadiad,38,2024-07-22
+C0420,Retail farmer,Thasra,9,2024-07-22
+C0421,Retail farmer,Anand,42,2024-07-22
+C0422,Retail farmer,Dakor,12,2024-07-23
+C0423,Retail farmer,Nadiad,38,2024-07-23
+C0424,Retail farmer,Kapadvanj,40,2024-07-23
+C0425,Retail farmer,Nadiad,38,2024-07-24
+C0426,Retail farmer,Thasra,9,2024-07-24
+C0427,Wholesale / dealer,Jesapura,1,2024-07-25
+C0428,Retail farmer,Sevalia,18,2024-07-25
+C0429,Retail farmer,Jesapura,1,2024-07-25
+C0430,Retail farmer,Mahudha,30,2024-07-26
+C0431,Home gardener,Nadiad,38,2024-07-26
+C0432,Retail farmer,Umreth,22,2024-07-26
+C0433,Retail farmer,Nadiad,38,2024-07-26
+C0434,Retail farmer,Umreth,22,2024-07-26
+C0435,Retail farmer,Mahudha,30,2024-07-26
+C0436,Retail farmer,Kapadvanj,40,2024-07-26
+C0437,Retail farmer,Jesapura,1,2024-07-26
+C0438,Retail farmer,Dakor,12,2024-07-26
+C0439,Home gardener,Kapadvanj,40,2024-07-26
+C0440,Retail farmer,Kathlal,35,2024-07-27
+C0441,Retail farmer,Kapadvanj,40,2024-07-27
+C0442,Home gardener,Thasra,9,2024-07-27
+C0443,Retail farmer,Thasra,9,2024-07-27
+C0444,Retail farmer,Kathlal,35,2024-07-27
+C0445,Retail farmer,Thasra,9,2024-07-27
+C0446,Home gardener,Sevalia,18,2024-07-27
+C0447,Retail farmer,Sevalia,18,2024-07-28
+C0448,Retail farmer,Mithapura,1,2024-07-28
+C0449,Retail farmer,Jesapura,1,2024-07-28
+C0450,Retail farmer,Mahudha,30,2024-07-28
+C0451,Retail farmer,Mithapura,1,2024-07-28
+C0452,Retail farmer,Mahudha,30,2024-07-28
+C0453,Retail farmer,Anand,42,2024-07-29
+C0454,Retail farmer,Kathlal,35,2024-07-29
+C0455,Retail farmer,Dakor,12,2024-07-29
+C0456,Retail farmer,Balasinor,28,2024-07-29
+C0457,Retail farmer,Sevalia,18,2024-07-29
+C0458,Retail farmer,Jesapura,1,2024-07-29
+C0459,Retail farmer,Dakor,12,2024-07-30
+C0460,Retail farmer,Thasra,9,2024-07-30
+C0461,Retail farmer,Anand,42,2024-07-31
+C0462,Retail farmer,Mithapura,1,2024-07-31
+C0463,Retail farmer,Umreth,22,2024-07-31
+C0464,Retail farmer,Mahudha,30,2024-07-31
+C0465,Retail farmer,Thasra,9,2024-07-31
+C0466,Retail farmer,Umreth,22,2024-07-31
+C0467,Retail farmer,Mahudha,30,2024-08-01
+C0468,Retail farmer,Thasra,9,2024-08-01
+C0469,Retail farmer,Umreth,22,2024-08-01
+C0470,Retail farmer,Balasinor,28,2024-08-01
+C0471,Retail farmer,Mithapura,1,2024-08-01
+C0472,Retail farmer,Sevalia,18,2024-08-01
+C0473,Retail farmer,Mahudha,30,2024-08-01
+C0474,Retail farmer,Dakor,12,2024-08-02
+C0475,Wholesale / dealer,Thasra,9,2024-08-02
+C0476,Retail farmer,Mahudha,30,2024-08-02
+C0477,Retail farmer,Sevalia,18,2024-08-02
+C0478,Wholesale / dealer,Nadiad,38,2024-08-02
+C0479,Retail farmer,Kapadvanj,40,2024-08-02
+C0480,Retail farmer,Thasra,9,2024-08-02
+C0481,Retail farmer,Mithapura,1,2024-08-02
+C0482,Home gardener,Mithapura,1,2024-08-02
+C0483,Retail farmer,Thasra,9,2024-08-03
+C0484,Retail farmer,Nadiad,38,2024-08-03
+C0485,Wholesale / dealer,Mithapura,1,2024-08-03
+C0486,Wholesale / dealer,Thasra,9,2024-08-03
+C0487,Home gardener,Umreth,22,2024-08-04
+C0488,Retail farmer,Kathlal,35,2024-08-04
+C0489,Retail farmer,Kathlal,35,2024-08-04
+C0490,Retail farmer,Jesapura,1,2024-08-04
+C0491,Retail farmer,Anand,42,2024-08-04
+C0492,Retail farmer,Kapadvanj,40,2024-08-04
+C0493,Retail farmer,Dakor,12,2024-08-04
+C0494,Wholesale / dealer,Umreth,22,2024-08-04
+C0495,Home gardener,Thasra,9,2024-08-05
+C0496,Home gardener,Kapadvanj,40,2024-08-05
+C0497,Retail farmer,Nadiad,38,2024-08-05
+C0498,Retail farmer,Sevalia,18,2024-08-05
+C0499,Retail farmer,Balasinor,28,2024-08-05
+C0500,Wholesale / dealer,Kathlal,35,2024-08-05
+C0501,Wholesale / dealer,Thasra,9,2024-08-05
+C0502,Retail farmer,Mahudha,30,2024-08-05
+C0503,Wholesale / dealer,Mithapura,1,2024-08-06
+C0504,Retail farmer,Thasra,9,2024-08-06
+C0505,Retail farmer,Sevalia,18,2024-08-06
+C0506,Retail farmer,Mithapura,1,2024-08-06
+C0507,Retail farmer,Mithapura,1,2024-08-06
+C0508,Retail farmer,Thasra,9,2024-08-06
+C0509,Retail farmer,Anand,42,2024-08-07
+C0510,Retail farmer,Nadiad,38,2024-08-07
+C0511,Retail farmer,Kathlal,35,2024-08-07
+C0512,Retail farmer,Mithapura,1,2024-08-07
+C0513,Retail farmer,Umreth,22,2024-08-07
+C0514,Wholesale / dealer,Mithapura,1,2024-08-08
+C0515,Retail farmer,Mithapura,1,2024-08-08
+C0516,Retail farmer,Kathlal,35,2024-08-08
+C0517,Retail farmer,Jesapura,1,2024-08-08
+C0518,Home gardener,Jesapura,1,2024-08-08
+C0519,Home gardener,Jesapura,1,2024-08-08
+C0520,Retail farmer,Anand,42,2024-08-08
+C0521,Retail farmer,Nadiad,38,2024-08-08
+C0522,Wholesale / dealer,Sevalia,18,2024-08-09
+C0523,Retail farmer,Dakor,12,2024-08-09
+C0524,Retail farmer,Dakor,12,2024-08-09
+C0525,Retail farmer,Jesapura,1,2024-08-09
+C0526,Retail farmer,Dakor,12,2024-08-09
+C0527,Retail farmer,Dakor,12,2024-08-09
+C0528,Retail farmer,Balasinor,28,2024-08-09
+C0529,Retail farmer,Anand,42,2024-08-09
+C0530,Wholesale / dealer,Kapadvanj,40,2024-08-09
+C0531,Retail farmer,Thasra,9,2024-08-10
+C0532,Retail farmer,Umreth,22,2024-08-10
+C0533,Retail farmer,Kapadvanj,40,2024-08-10
+C0534,Retail farmer,Sevalia,18,2024-08-10
+C0535,Retail farmer,Balasinor,28,2024-08-10
+C0536,Retail farmer,Jesapura,1,2024-08-10
+C0537,Retail farmer,Nadiad,38,2024-08-10
+C0538,Retail farmer,Anand,42,2024-08-10
+C0539,Retail farmer,Kathlal,35,2024-08-10
+C0540,Retail farmer,Anand,42,2024-08-11
+C0541,Retail farmer,Sevalia,18,2024-08-11
+C0542,Retail farmer,Dakor,12,2024-08-11
+C0543,Retail farmer,Sevalia,18,2024-08-11
+C0544,Retail farmer,Balasinor,28,2024-08-11
+C0545,Retail farmer,Dakor,12,2024-08-11
+C0546,Retail farmer,Dakor,12,2024-08-11
+C0547,Retail farmer,Anand,42,2024-08-11
+C0548,Retail farmer,Jesapura,1,2024-08-11
+C0549,Retail farmer,Balasinor,28,2024-08-11
+C0550,Wholesale / dealer,Nadiad,38,2024-08-11
+C0551,Wholesale / dealer,Mithapura,1,2024-08-12
+C0552,Retail farmer,Thasra,9,2024-08-12
+C0553,Retail farmer,Umreth,22,2024-08-12
+C0554,Retail farmer,Nadiad,38,2024-08-12
+C0555,Wholesale / dealer,Mithapura,1,2024-08-12
+C0556,Retail farmer,Kathlal,35,2024-08-13
+C0557,Home gardener,Balasinor,28,2024-08-13
+C0558,Retail farmer,Kathlal,35,2024-08-13
+C0559,Retail farmer,Jesapura,1,2024-08-13
+C0560,Wholesale / dealer,Umreth,22,2024-08-13
+C0561,Retail farmer,Umreth,22,2024-08-13
+C0562,Retail farmer,Kapadvanj,40,2024-08-13
+C0563,Retail farmer,Thasra,9,2024-08-13
+C0564,Retail farmer,Umreth,22,2024-08-14
+C0565,Retail farmer,Nadiad,38,2024-08-14
+C0566,Retail farmer,Mithapura,1,2024-08-14
+C0567,Retail farmer,Mithapura,1,2024-08-14
+C0568,Retail farmer,Balasinor,28,2024-08-14
+C0569,Retail farmer,Umreth,22,2024-08-14
+C0570,Retail farmer,Nadiad,38,2024-08-14
+C0571,Retail farmer,Mithapura,1,2024-08-14
+C0572,Retail farmer,Nadiad,38,2024-08-15
+C0573,Retail farmer,Jesapura,1,2024-08-15
+C0574,Home gardener,Nadiad,38,2024-08-15
+C0575,Retail farmer,Kathlal,35,2024-08-15
+C0576,Retail farmer,Thasra,9,2024-08-15
+C0577,Wholesale / dealer,Kapadvanj,40,2024-08-15
+C0578,Wholesale / dealer,Thasra,9,2024-08-15
+C0579,Wholesale / dealer,Kathlal,35,2024-08-15
+C0580,Retail farmer,Mithapura,1,2024-08-16
+C0581,Wholesale / dealer,Kapadvanj,40,2024-08-16
+C0582,Retail farmer,Sevalia,18,2024-08-16
+C0583,Home gardener,Kapadvanj,40,2024-08-17
+C0584,Retail farmer,Dakor,12,2024-08-17
+C0585,Retail farmer,Sevalia,18,2024-08-17
+C0586,Retail farmer,Umreth,22,2024-08-17
+C0587,Retail farmer,Mithapura,1,2024-08-17
+C0588,Retail farmer,Thasra,9,2024-08-17
+C0589,Retail farmer,Mithapura,1,2024-08-17
+C0590,Retail farmer,Mithapura,1,2024-08-18
+C0591,Retail farmer,Balasinor,28,2024-08-18
+C0592,Retail farmer,Kathlal,35,2024-08-18
+C0593,Retail farmer,Kathlal,35,2024-08-18
+C0594,Retail farmer,Nadiad,38,2024-08-18
+C0595,Retail farmer,Umreth,22,2024-08-18
+C0596,Wholesale / dealer,Kapadvanj,40,2024-08-18
+C0597,Retail farmer,Anand,42,2024-08-19
+C0598,Retail farmer,Mithapura,1,2024-08-19
+C0599,Retail farmer,Anand,42,2024-08-19
+C0600,Retail farmer,Mithapura,1,2024-08-19
+C0601,Retail farmer,Jesapura,1,2024-08-19
+C0602,Retail farmer,Thasra,9,2024-08-19
+C0603,Wholesale / dealer,Mahudha,30,2024-08-19
+C0604,Retail farmer,Jesapura,1,2024-08-19
+C0605,Retail farmer,Dakor,12,2024-08-19
+C0606,Retail farmer,Mithapura,1,2024-08-19
+C0607,Retail farmer,Nadiad,38,2024-08-20
+C0608,Retail farmer,Thasra,9,2024-08-20
+C0609,Retail farmer,Nadiad,38,2024-08-20
+C0610,Retail farmer,Sevalia,18,2024-08-21
+C0611,Retail farmer,Umreth,22,2024-08-21
+C0612,Retail farmer,Kapadvanj,40,2024-08-21
+C0613,Retail farmer,Jesapura,1,2024-08-21
+C0614,Retail farmer,Mahudha,30,2024-08-21
+C0615,Home gardener,Dakor,12,2024-08-21
+C0616,Retail farmer,Dakor,12,2024-08-21
+C0617,Retail farmer,Kapadvanj,40,2024-08-22
+C0618,Home gardener,Jesapura,1,2024-08-22
+C0619,Retail farmer,Umreth,22,2024-08-22
+C0620,Retail farmer,Sevalia,18,2024-08-22
+C0621,Retail farmer,Thasra,9,2024-08-22
+C0622,Retail farmer,Mahudha,30,2024-08-22
+C0623,Retail farmer,Umreth,22,2024-08-22
+C0624,Retail farmer,Thasra,9,2024-08-23
+C0625,Wholesale / dealer,Balasinor,28,2024-08-23
+C0626,Wholesale / dealer,Umreth,22,2024-08-23
+C0627,Retail farmer,Mithapura,1,2024-08-23
+C0628,Retail farmer,Mahudha,30,2024-08-23
+C0629,Retail farmer,Dakor,12,2024-08-23
+C0630,Retail farmer,Thasra,9,2024-08-23
+C0631,Retail farmer,Dakor,12,2024-08-23
+C0632,Retail farmer,Kathlal,35,2024-08-24
+C0633,Retail farmer,Anand,42,2024-08-24
+C0634,Retail farmer,Jesapura,1,2024-08-24
+C0635,Retail farmer,Umreth,22,2024-08-24
+C0636,Retail farmer,Balasinor,28,2024-08-24
+C0637,Retail farmer,Thasra,9,2024-08-24
+C0638,Wholesale / dealer,Mithapura,1,2024-08-24
+C0639,Retail farmer,Umreth,22,2024-08-24
+C0640,Wholesale / dealer,Thasra,9,2024-08-25
+C0641,Retail farmer,Nadiad,38,2024-08-25
+C0642,Retail farmer,Nadiad,38,2024-08-25
+C0643,Retail farmer,Anand,42,2024-08-25
+C0644,Retail farmer,Kathlal,35,2024-08-25
+C0645,Home gardener,Nadiad,38,2024-08-25
+C0646,Retail farmer,Mithapura,1,2024-08-26
+C0647,Retail farmer,Thasra,9,2024-08-26
+C0648,Retail farmer,Dakor,12,2024-08-26
+C0649,Retail farmer,Thasra,9,2024-08-26
+C0650,Retail farmer,Dakor,12,2024-08-27
+C0651,Retail farmer,Mithapura,1,2024-08-27
+C0652,Retail farmer,Sevalia,18,2024-08-27
+C0653,Retail farmer,Kapadvanj,40,2024-08-27
+C0654,Retail farmer,Umreth,22,2024-08-27
+C0655,Retail farmer,Dakor,12,2024-08-28
+C0656,Retail farmer,Kapadvanj,40,2024-08-28
+C0657,Wholesale / dealer,Nadiad,38,2024-08-28
+C0658,Retail farmer,Jesapura,1,2024-08-29
+C0659,Home gardener,Kapadvanj,40,2024-08-29
+C0660,Retail farmer,Sevalia,18,2024-08-30
+C0661,Wholesale / dealer,Umreth,22,2024-08-30
+C0662,Wholesale / dealer,Thasra,9,2024-08-30
+C0663,Retail farmer,Thasra,9,2024-08-30
+C0664,Retail farmer,Kathlal,35,2024-08-30
+C0665,Wholesale / dealer,Sevalia,18,2024-08-30
+C0666,Retail farmer,Anand,42,2024-08-30
+C0667,Retail farmer,Thasra,9,2024-08-31
+C0668,Home gardener,Thasra,9,2024-08-31
+C0669,Retail farmer,Kathlal,35,2024-08-31
+C0670,Retail farmer,Kapadvanj,40,2024-08-31
+C0671,Retail farmer,Umreth,22,2024-09-01
+C0672,Retail farmer,Thasra,9,2024-09-01
+C0673,Retail farmer,Thasra,9,2024-09-01
+C0674,Wholesale / dealer,Nadiad,38,2024-09-01
+C0675,Retail farmer,Thasra,9,2024-09-01
+C0676,Retail farmer,Thasra,9,2024-09-01
+C0677,Retail farmer,Thasra,9,2024-09-02
+C0678,Retail farmer,Thasra,9,2024-09-02
+C0679,Home gardener,Dakor,12,2024-09-02
+C0680,Retail farmer,Nadiad,38,2024-09-02
+C0681,Retail farmer,Kapadvanj,40,2024-09-02
+C0682,Retail farmer,Dakor,12,2024-09-03
+C0683,Wholesale / dealer,Umreth,22,2024-09-03
+C0684,Retail farmer,Kathlal,35,2024-09-03
+C0685,Retail farmer,Umreth,22,2024-09-04
+C0686,Retail farmer,Dakor,12,2024-09-04
+C0687,Retail farmer,Dakor,12,2024-09-04
+C0688,Retail farmer,Sevalia,18,2024-09-04
+C0689,Retail farmer,Jesapura,1,2024-09-04
+C0690,Retail farmer,Nadiad,38,2024-09-04
+C0691,Retail farmer,Anand,42,2024-09-04
+C0692,Retail farmer,Thasra,9,2024-09-05
+C0693,Retail farmer,Dakor,12,2024-09-05
+C0694,Retail farmer,Sevalia,18,2024-09-05
+C0695,Retail farmer,Thasra,9,2024-09-05
+C0696,Retail farmer,Dakor,12,2024-09-06
+C0697,Home gardener,Kapadvanj,40,2024-09-06
+C0698,Retail farmer,Kathlal,35,2024-09-06
+C0699,Retail farmer,Mahudha,30,2024-09-06
+C0700,Retail farmer,Anand,42,2024-09-06
+C0701,Retail farmer,Balasinor,28,2024-09-06
+C0702,Retail farmer,Dakor,12,2024-09-07
+C0703,Wholesale / dealer,Kapadvanj,40,2024-09-07
+C0704,Home gardener,Jesapura,1,2024-09-08
+C0705,Retail farmer,Mithapura,1,2024-09-08
+C0706,Retail farmer,Dakor,12,2024-09-08
+C0707,Retail farmer,Balasinor,28,2024-09-08
+C0708,Retail farmer,Mithapura,1,2024-09-08
+C0709,Retail farmer,Nadiad,38,2024-09-08
+C0710,Home gardener,Jesapura,1,2024-09-09
+C0711,Retail farmer,Balasinor,28,2024-09-09
+C0712,Retail farmer,Mahudha,30,2024-09-09
+C0713,Wholesale / dealer,Sevalia,18,2024-09-09
+C0714,Home gardener,Mahudha,30,2024-09-10
+C0715,Retail farmer,Dakor,12,2024-09-10
+C0716,Retail farmer,Nadiad,38,2024-09-10
+C0717,Retail farmer,Nadiad,38,2024-09-10
+C0718,Wholesale / dealer,Anand,42,2024-09-11
+C0719,Retail farmer,Kathlal,35,2024-09-12
+C0720,Retail farmer,Sevalia,18,2024-09-12
+C0721,Retail farmer,Kapadvanj,40,2024-09-12
+C0722,Retail farmer,Umreth,22,2024-09-12
+C0723,Retail farmer,Kapadvanj,40,2024-09-12
+C0724,Retail farmer,Nadiad,38,2024-09-12
+C0725,Retail farmer,Thasra,9,2024-09-12
+C0726,Retail farmer,Dakor,12,2024-09-13
+C0727,Retail farmer,Anand,42,2024-09-13
+C0728,Retail farmer,Kathlal,35,2024-09-13
+C0729,Wholesale / dealer,Jesapura,1,2024-09-13
+C0730,Retail farmer,Kapadvanj,40,2024-09-13
+C0731,Wholesale / dealer,Dakor,12,2024-09-13
+C0732,Retail farmer,Sevalia,18,2024-09-13
+C0733,Retail farmer,Dakor,12,2024-09-14
+C0734,Retail farmer,Dakor,12,2024-09-14
+C0735,Home gardener,Balasinor,28,2024-09-14
+C0736,Retail farmer,Sevalia,18,2024-09-14
+C0737,Retail farmer,Dakor,12,2024-09-14
+C0738,Retail farmer,Mithapura,1,2024-09-15
+C0739,Retail farmer,Jesapura,1,2024-09-15
+C0740,Retail farmer,Mithapura,1,2024-09-15
+C0741,Retail farmer,Mahudha,30,2024-09-16
+C0742,Retail farmer,Thasra,9,2024-09-16
+C0743,Retail farmer,Sevalia,18,2024-09-16
+C0744,Retail farmer,Dakor,12,2024-09-16
+C0745,Retail farmer,Anand,42,2024-09-16
+C0746,Home gardener,Anand,42,2024-09-16
+C0747,Retail farmer,Thasra,9,2024-09-16
+C0748,Retail farmer,Kapadvanj,40,2024-09-17
+C0749,Retail farmer,Dakor,12,2024-09-17
+C0750,Retail farmer,Dakor,12,2024-09-17
+C0751,Retail farmer,Thasra,9,2024-09-17
+C0752,Retail farmer,Jesapura,1,2024-09-17
+C0753,Retail farmer,Umreth,22,2024-09-18
+C0754,Retail farmer,Dakor,12,2024-09-18
+C0755,Retail farmer,Mithapura,1,2024-09-18
+C0756,Retail farmer,Kapadvanj,40,2024-09-18
+C0757,Retail farmer,Jesapura,1,2024-09-18
+C0758,Wholesale / dealer,Mahudha,30,2024-09-19
+C0759,Home gardener,Anand,42,2024-09-19
+C0760,Retail farmer,Thasra,9,2024-09-19
+C0761,Home gardener,Sevalia,18,2024-09-19
+C0762,Wholesale / dealer,Kathlal,35,2024-09-20
+C0763,Retail farmer,Dakor,12,2024-09-20
+C0764,Retail farmer,Kapadvanj,40,2024-09-20
+C0765,Retail farmer,Jesapura,1,2024-09-20
+C0766,Retail farmer,Kapadvanj,40,2024-09-20
+C0767,Retail farmer,Sevalia,18,2024-09-20
+C0768,Retail farmer,Kathlal,35,2024-09-21
+C0769,Wholesale / dealer,Nadiad,38,2024-09-21
+C0770,Retail farmer,Kapadvanj,40,2024-09-21
+C0771,Retail farmer,Balasinor,28,2024-09-21
+C0772,Retail farmer,Sevalia,18,2024-09-21
+C0773,Wholesale / dealer,Anand,42,2024-09-21
+C0774,Retail farmer,Umreth,22,2024-09-22
+C0775,Retail farmer,Dakor,12,2024-09-22
+C0776,Retail farmer,Nadiad,38,2024-09-22
+C0777,Retail farmer,Jesapura,1,2024-09-22
+C0778,Retail farmer,Mahudha,30,2024-09-22
+C0779,Home gardener,Balasinor,28,2024-09-22
+C0780,Retail farmer,Dakor,12,2024-09-22
+C0781,Retail farmer,Dakor,12,2024-09-22
+C0782,Retail farmer,Anand,42,2024-09-22
+C0783,Retail farmer,Mithapura,1,2024-09-23
+C0784,Retail farmer,Mithapura,1,2024-09-23
+C0785,Retail farmer,Thasra,9,2024-09-24
+C0786,Retail farmer,Mithapura,1,2024-09-24
+C0787,Retail farmer,Umreth,22,2024-09-25
+C0788,Retail farmer,Thasra,9,2024-09-25
+C0789,Retail farmer,Kapadvanj,40,2024-09-25
+C0790,Retail farmer,Thasra,9,2024-09-25
+C0791,Retail farmer,Dakor,12,2024-09-26
+C0792,Retail farmer,Umreth,22,2024-09-26
+C0793,Retail farmer,Kapadvanj,40,2024-09-26
+C0794,Retail farmer,Thasra,9,2024-09-27
+C0795,Retail farmer,Nadiad,38,2024-09-27
+C0796,Retail farmer,Anand,42,2024-09-27
+C0797,Retail farmer,Balasinor,28,2024-09-28
+C0798,Retail farmer,Mithapura,1,2024-09-28
+C0799,Home gardener,Umreth,22,2024-09-28
+C0800,Home gardener,Kathlal,35,2024-09-29
+C0801,Retail farmer,Thasra,9,2024-09-29
+C0802,Home gardener,Umreth,22,2024-09-29
+C0803,Wholesale / dealer,Thasra,9,2024-09-29
+C0804,Retail farmer,Umreth,22,2024-09-29
+C0805,Retail farmer,Sevalia,18,2024-09-29
+C0806,Retail farmer,Mithapura,1,2024-09-29
+C0807,Retail farmer,Nadiad,38,2024-09-29
+C0808,Retail farmer,Mithapura,1,2024-09-29
+C0809,Retail farmer,Umreth,22,2024-09-29
+C0810,Retail farmer,Kathlal,35,2024-09-30
+C0811,Retail farmer,Kathlal,35,2024-09-30
+C0812,Wholesale / dealer,Dakor,12,2024-09-30
+C0813,Retail farmer,Kathlal,35,2024-09-30
+C0814,Retail farmer,Nadiad,38,2024-10-01
+C0815,Retail farmer,Kapadvanj,40,2024-10-01
+C0816,Retail farmer,Mithapura,1,2024-10-01
+C0817,Retail farmer,Dakor,12,2024-10-02
+C0818,Retail farmer,Mithapura,1,2024-10-02
+C0819,Wholesale / dealer,Kathlal,35,2024-10-02
+C0820,Retail farmer,Balasinor,28,2024-10-03
+C0821,Retail farmer,Dakor,12,2024-10-03
+C0822,Home gardener,Dakor,12,2024-10-03
+C0823,Retail farmer,Anand,42,2024-10-03
+C0824,Retail farmer,Thasra,9,2024-10-04
+C0825,Retail farmer,Kapadvanj,40,2024-10-04
+C0826,Retail farmer,Nadiad,38,2024-10-05
+C0827,Retail farmer,Thasra,9,2024-10-06
+C0828,Retail farmer,Umreth,22,2024-10-06
+C0829,Retail farmer,Kathlal,35,2024-10-06
+C0830,Retail farmer,Dakor,12,2024-10-07
+C0831,Retail farmer,Sevalia,18,2024-10-07
+C0832,Retail farmer,Sevalia,18,2024-10-08
+C0833,Retail farmer,Mahudha,30,2024-10-10
+C0834,Retail farmer,Jesapura,1,2024-10-10
+C0835,Retail farmer,Thasra,9,2024-10-10
+C0836,Retail farmer,Balasinor,28,2024-10-10
+C0837,Retail farmer,Thasra,9,2024-10-11
+C0838,Retail farmer,Mahudha,30,2024-10-12
+C0839,Retail farmer,Jesapura,1,2024-10-12
+C0840,Retail farmer,Mahudha,30,2024-10-12
+C0841,Retail farmer,Nadiad,38,2024-10-12
+C0842,Retail farmer,Mahudha,30,2024-10-12
+C0843,Home gardener,Sevalia,18,2024-10-12
+C0844,Retail farmer,Thasra,9,2024-10-13
+C0845,Retail farmer,Kapadvanj,40,2024-10-13
+C0846,Retail farmer,Kathlal,35,2024-10-13
+C0847,Wholesale / dealer,Umreth,22,2024-10-15
+C0848,Retail farmer,Kapadvanj,40,2024-10-15
+C0849,Retail farmer,Kapadvanj,40,2024-10-15
+C0850,Retail farmer,Nadiad,38,2024-10-15
+C0851,Wholesale / dealer,Umreth,22,2024-10-15
+C0852,Retail farmer,Nadiad,38,2024-10-16
+C0853,Retail farmer,Dakor,12,2024-10-17
+C0854,Retail farmer,Nadiad,38,2024-10-17
+C0855,Retail farmer,Kathlal,35,2024-10-19
+C0856,Retail farmer,Mahudha,30,2024-10-19
+C0857,Retail farmer,Thasra,9,2024-10-20
+C0858,Retail farmer,Anand,42,2024-10-20
+C0859,Retail farmer,Sevalia,18,2024-10-20
+C0860,Home gardener,Thasra,9,2024-10-21
+C0861,Retail farmer,Dakor,12,2024-10-21
+C0862,Retail farmer,Balasinor,28,2024-10-22
+C0863,Wholesale / dealer,Thasra,9,2024-10-23
+C0864,Retail farmer,Balasinor,28,2024-10-23
+C0865,Retail farmer,Jesapura,1,2024-10-24
+C0866,Home gardener,Sevalia,18,2024-10-24
+C0867,Retail farmer,Nadiad,38,2024-10-25
+C0868,Retail farmer,Anand,42,2024-10-25
+C0869,Retail farmer,Kapadvanj,40,2024-10-25
+C0870,Home gardener,Dakor,12,2024-10-26
+C0871,Retail farmer,Nadiad,38,2024-10-26
+C0872,Wholesale / dealer,Thasra,9,2024-10-26
+C0873,Retail farmer,Kapadvanj,40,2024-10-27
+C0874,Wholesale / dealer,Umreth,22,2024-10-27
+C0875,Retail farmer,Thasra,9,2024-10-27
+C0876,Retail farmer,Umreth,22,2024-10-28
+C0877,Retail farmer,Anand,42,2024-10-29
+C0878,Retail farmer,Balasinor,28,2024-10-30
+C0879,Retail farmer,Balasinor,28,2024-10-30
+C0880,Retail farmer,Dakor,12,2024-10-30
+C0881,Retail farmer,Mahudha,30,2024-10-31
+C0882,Retail farmer,Mithapura,1,2024-10-31
+C0883,Retail farmer,Nadiad,38,2024-10-31
+C0884,Retail farmer,Jesapura,1,2024-11-01
+C0885,Retail farmer,Thasra,9,2024-11-02
+C0886,Retail farmer,Dakor,12,2024-11-02
+C0887,Home gardener,Balasinor,28,2024-11-02
+C0888,Retail farmer,Jesapura,1,2024-11-02
+C0889,Retail farmer,Dakor,12,2024-11-03
+C0890,Home gardener,Thasra,9,2024-11-04
+C0891,Home gardener,Balasinor,28,2024-11-04
+C0892,Wholesale / dealer,Thasra,9,2024-11-04
+C0893,Retail farmer,Kapadvanj,40,2024-11-05
+C0894,Home gardener,Kapadvanj,40,2024-11-05
+C0895,Retail farmer,Sevalia,18,2024-11-07
+C0896,Retail farmer,Mithapura,1,2024-11-08
+C0897,Retail farmer,Mithapura,1,2024-11-08
+C0898,Retail farmer,Kapadvanj,40,2024-11-09
+C0899,Retail farmer,Kapadvanj,40,2024-11-09
+C0900,Retail farmer,Kapadvanj,40,2024-11-10
+C0901,Retail farmer,Mithapura,1,2024-11-10
+C0902,Retail farmer,Mithapura,1,2024-11-10
+C0903,Wholesale / dealer,Mahudha,30,2024-11-11
+C0904,Retail farmer,Thasra,9,2024-11-11
+C0905,Retail farmer,Kapadvanj,40,2024-11-12
+C0906,Retail farmer,Kathlal,35,2024-11-12
+C0907,Retail farmer,Balasinor,28,2024-11-12
+C0908,Wholesale / dealer,Dakor,12,2024-11-14
+C0909,Home gardener,Umreth,22,2024-11-14
+C0910,Retail farmer,Mithapura,1,2024-11-15
+C0911,Retail farmer,Jesapura,1,2024-11-15
+C0912,Home gardener,Kapadvanj,40,2024-11-15
+C0913,Retail farmer,Jesapura,1,2024-11-16
+C0914,Retail farmer,Mithapura,1,2024-11-17
+C0915,Wholesale / dealer,Dakor,12,2024-11-18
+C0916,Retail farmer,Dakor,12,2024-11-18
+C0917,Retail farmer,Thasra,9,2024-11-18
+C0918,Wholesale / dealer,Umreth,22,2024-11-18
+C0919,Retail farmer,Jesapura,1,2024-11-18
+C0920,Retail farmer,Thasra,9,2024-11-19
+C0921,Wholesale / dealer,Thasra,9,2024-11-23
+C0922,Retail farmer,Mithapura,1,2024-11-24
+C0923,Home gardener,Thasra,9,2024-11-25
+C0924,Retail farmer,Kapadvanj,40,2024-11-27
+C0925,Home gardener,Thasra,9,2024-11-28
+C0926,Wholesale / dealer,Anand,42,2024-11-29
+C0927,Wholesale / dealer,Balasinor,28,2024-11-29
+C0928,Wholesale / dealer,Thasra,9,2024-11-29
+C0929,Retail farmer,Anand,42,2024-11-30
+C0930,Retail farmer,Balasinor,28,2024-12-01
+C0931,Wholesale / dealer,Umreth,22,2024-12-04
+C0932,Retail farmer,Thasra,9,2024-12-05
+C0933,Retail farmer,Mahudha,30,2024-12-06
+C0934,Wholesale / dealer,Umreth,22,2024-12-07
+C0935,Retail farmer,Nadiad,38,2024-12-08
+C0936,Retail farmer,Nadiad,38,2024-12-09
+C0937,Retail farmer,Thasra,9,2024-12-09
+C0938,Retail farmer,Nadiad,38,2024-12-09
+C0939,Retail farmer,Anand,42,2024-12-10
+C0940,Retail farmer,Thasra,9,2024-12-10
+C0941,Retail farmer,Nadiad,38,2024-12-12
+C0942,Retail farmer,Dakor,12,2024-12-13
+C0943,Retail farmer,Anand,42,2024-12-13
+C0944,Retail farmer,Mahudha,30,2024-12-18
+C0945,Retail farmer,Dakor,12,2024-12-20
+C0946,Retail farmer,Umreth,22,2024-12-21
+C0947,Retail farmer,Thasra,9,2024-12-23
+C0948,Retail farmer,Thasra,9,2024-12-26
+C0949,Retail farmer,Balasinor,28,2024-12-28
+C0950,Retail farmer,Umreth,22,2024-12-29
+C0951,Retail farmer,Kapadvanj,40,2024-12-30
+C0952,Retail farmer,Dakor,12,2024-12-31
+C0953,Retail farmer,Nadiad,38,2024-12-31
+C0954,Retail farmer,Sevalia,18,2025-01-03
+C0955,Retail farmer,Umreth,22,2025-01-03
+C0956,Home gardener,Thasra,9,2025-01-03
+C0957,Retail farmer,Thasra,9,2025-01-04
+C0958,Retail farmer,Mahudha,30,2025-01-04
+C0959,Retail farmer,Mahudha,30,2025-01-04
+C0960,Home gardener,Nadiad,38,2025-01-05
+C0961,Wholesale / dealer,Nadiad,38,2025-01-06
+C0962,Retail farmer,Anand,42,2025-01-06
+C0963,Retail farmer,Dakor,12,2025-01-08
+C0964,Retail farmer,Jesapura,1,2025-01-08
+C0965,Retail farmer,Sevalia,18,2025-01-08
+C0966,Wholesale / dealer,Kathlal,35,2025-01-09
+C0967,Retail farmer,Nadiad,38,2025-01-11
+C0968,Retail farmer,Jesapura,1,2025-01-12
+C0969,Home gardener,Kathlal,35,2025-01-13
+C0970,Retail farmer,Jesapura,1,2025-01-14
+C0971,Retail farmer,Kapadvanj,40,2025-01-14
+C0972,Retail farmer,Dakor,12,2025-01-14
+C0973,Retail farmer,Nadiad,38,2025-01-15
+C0974,Retail farmer,Dakor,12,2025-01-17
+C0975,Retail farmer,Nadiad,38,2025-01-17
+C0976,Home gardener,Umreth,22,2025-01-17
+C0977,Retail farmer,Kapadvanj,40,2025-01-18
+C0978,Retail farmer,Anand,42,2025-01-18
+C0979,Retail farmer,Nadiad,38,2025-01-19
+C0980,Retail farmer,Thasra,9,2025-01-19
+C0981,Wholesale / dealer,Jesapura,1,2025-01-19
+C0982,Home gardener,Nadiad,38,2025-01-20
+C0983,Home gardener,Nadiad,38,2025-01-20
+C0984,Retail farmer,Anand,42,2025-01-23
+C0985,Retail farmer,Umreth,22,2025-01-26
+C0986,Retail farmer,Anand,42,2025-01-27
+C0987,Home gardener,Kapadvanj,40,2025-01-27
+C0988,Retail farmer,Anand,42,2025-01-27
+C0989,Retail farmer,Kapadvanj,40,2025-01-28
+C0990,Retail farmer,Dakor,12,2025-01-28
+C0991,Retail farmer,Jesapura,1,2025-01-31
+C0992,Home gardener,Dakor,12,2025-01-31
+C0993,Retail farmer,Balasinor,28,2025-01-31
+C0994,Home gardener,Kathlal,35,2025-01-31
+C0995,Home gardener,Dakor,12,2025-02-01
+C0996,Retail farmer,Anand,42,2025-02-02
+C0997,Retail farmer,Anand,42,2025-02-03
+C0998,Retail farmer,Sevalia,18,2025-02-05
+C0999,Retail farmer,Umreth,22,2025-02-06
+C1000,Home gardener,Nadiad,38,2025-02-06
+C1001,Retail farmer,Thasra,9,2025-02-06
+C1002,Retail farmer,Kapadvanj,40,2025-02-08
+C1003,Retail farmer,Kapadvanj,40,2025-02-09
+C1004,Retail farmer,Mahudha,30,2025-02-09
+C1005,Retail farmer,Umreth,22,2025-02-09
+C1006,Retail farmer,Dakor,12,2025-02-09
+C1007,Retail farmer,Dakor,12,2025-02-13
+C1008,Retail farmer,Sevalia,18,2025-02-13
+C1009,Retail farmer,Mithapura,1,2025-02-14
+C1010,Retail farmer,Jesapura,1,2025-02-16
+C1011,Retail farmer,Mahudha,30,2025-02-16
+C1012,Retail farmer,Jesapura,1,2025-02-16
+C1013,Home gardener,Umreth,22,2025-02-16
+C1014,Home gardener,Kathlal,35,2025-02-18
+C1015,Retail farmer,Sevalia,18,2025-02-19
+C1016,Home gardener,Jesapura,1,2025-02-19
+C1017,Retail farmer,Dakor,12,2025-02-20
+C1018,Retail farmer,Mithapura,1,2025-02-21
+C1019,Home gardener,Dakor,12,2025-02-22
+C1020,Wholesale / dealer,Dakor,12,2025-02-23
+C1021,Retail farmer,Umreth,22,2025-02-23
+C1022,Home gardener,Anand,42,2025-02-23
+C1023,Retail farmer,Balasinor,28,2025-02-26
+C1024,Retail farmer,Mahudha,30,2025-02-27
+C1025,Retail farmer,Thasra,9,2025-03-01
+C1026,Retail farmer,Anand,42,2025-03-02
+C1027,Retail farmer,Mithapura,1,2025-03-02
+C1028,Home gardener,Mithapura,1,2025-03-02
+C1029,Home gardener,Thasra,9,2025-03-02
+C1030,Retail farmer,Umreth,22,2025-03-03
+C1031,Retail farmer,Dakor,12,2025-03-04
+C1032,Home gardener,Sevalia,18,2025-03-06
+C1033,Retail farmer,Mithapura,1,2025-03-07
+C1034,Home gardener,Sevalia,18,2025-03-08
+C1035,Retail farmer,Kathlal,35,2025-03-10
+C1036,Retail farmer,Thasra,9,2025-03-10
+C1037,Retail farmer,Thasra,9,2025-03-11
+C1038,Retail farmer,Anand,42,2025-03-12
+C1039,Wholesale / dealer,Mahudha,30,2025-03-14
+C1040,Retail farmer,Kapadvanj,40,2025-03-15
+C1041,Retail farmer,Umreth,22,2025-03-16
+C1042,Retail farmer,Sevalia,18,2025-03-16
+C1043,Retail farmer,Umreth,22,2025-03-17
+C1044,Retail farmer,Thasra,9,2025-03-17
+C1045,Retail farmer,Kathlal,35,2025-03-22
+C1046,Retail farmer,Umreth,22,2025-03-22
+C1047,Wholesale / dealer,Sevalia,18,2025-03-22
+C1048,Retail farmer,Mahudha,30,2025-03-23
+C1049,Retail farmer,Thasra,9,2025-03-24
+C1050,Retail farmer,Kathlal,35,2025-03-25
+C1051,Home gardener,Nadiad,38,2025-03-25
+C1052,Wholesale / dealer,Mahudha,30,2025-03-26
+C1053,Retail farmer,Thasra,9,2025-03-26
+C1054,Retail farmer,Nadiad,38,2025-03-26
+C1055,Retail farmer,Mithapura,1,2025-03-30
+C1056,Wholesale / dealer,Kapadvanj,40,2025-03-31
+C1057,Retail farmer,Thasra,9,2025-04-01
+C1058,Retail farmer,Jesapura,1,2025-04-01
+C1059,Wholesale / dealer,Thasra,9,2025-04-01
+C1060,Retail farmer,Dakor,12,2025-04-03
+C1061,Retail farmer,Kathlal,35,2025-04-03
+C1062,Retail farmer,Sevalia,18,2025-04-03
+C1063,Retail farmer,Kapadvanj,40,2025-04-03
+C1064,Retail farmer,Thasra,9,2025-04-03
+C1065,Retail farmer,Thasra,9,2025-04-04
+C1066,Retail farmer,Jesapura,1,2025-04-04
+C1067,Home gardener,Kathlal,35,2025-04-04
+C1068,Wholesale / dealer,Nadiad,38,2025-04-05
+C1069,Retail farmer,Dakor,12,2025-04-07
+C1070,Retail farmer,Jesapura,1,2025-04-08
+C1071,Retail farmer,Kapadvanj,40,2025-04-08
+C1072,Retail farmer,Mahudha,30,2025-04-10
+C1073,Retail farmer,Mahudha,30,2025-04-11
+C1074,Retail farmer,Sevalia,18,2025-04-11
+C1075,Retail farmer,Kathlal,35,2025-04-12
+C1076,Wholesale / dealer,Mithapura,1,2025-04-13
+C1077,Retail farmer,Thasra,9,2025-04-13
+C1078,Retail farmer,Nadiad,38,2025-04-13
+C1079,Home gardener,Mithapura,1,2025-04-15
+C1080,Retail farmer,Kathlal,35,2025-04-15
+C1081,Retail farmer,Sevalia,18,2025-04-15
+C1082,Retail farmer,Thasra,9,2025-04-16
+C1083,Retail farmer,Thasra,9,2025-04-16
+C1084,Retail farmer,Kapadvanj,40,2025-04-17
+C1085,Home gardener,Dakor,12,2025-04-20
+C1086,Retail farmer,Dakor,12,2025-04-20
+C1087,Retail farmer,Thasra,9,2025-04-21
+C1088,Wholesale / dealer,Nadiad,38,2025-04-22
+C1089,Retail farmer,Anand,42,2025-04-22
+C1090,Retail farmer,Balasinor,28,2025-04-22
+C1091,Retail farmer,Sevalia,18,2025-04-23
+C1092,Retail farmer,Kapadvanj,40,2025-04-23
+C1093,Wholesale / dealer,Jesapura,1,2025-04-24
+C1094,Retail farmer,Mithapura,1,2025-04-25
+C1095,Retail farmer,Sevalia,18,2025-04-25
+C1096,Retail farmer,Jesapura,1,2025-04-26
+C1097,Retail farmer,Kathlal,35,2025-04-29
+C1098,Retail farmer,Nadiad,38,2025-04-30
+C1099,Wholesale / dealer,Nadiad,38,2025-05-01
+C1100,Retail farmer,Thasra,9,2025-05-01
+C1101,Retail farmer,Kapadvanj,40,2025-05-02
+C1102,Retail farmer,Thasra,9,2025-05-02
+C1103,Retail farmer,Sevalia,18,2025-05-03
+C1104,Retail farmer,Balasinor,28,2025-05-03
+C1105,Retail farmer,Mithapura,1,2025-05-03
+C1106,Retail farmer,Dakor,12,2025-05-04
+C1107,Retail farmer,Nadiad,38,2025-05-04
+C1108,Retail farmer,Kapadvanj,40,2025-05-04
+C1109,Retail farmer,Thasra,9,2025-05-04
+C1110,Retail farmer,Umreth,22,2025-05-04
+C1111,Retail farmer,Mahudha,30,2025-05-05
+C1112,Retail farmer,Anand,42,2025-05-07
+C1113,Home gardener,Thasra,9,2025-05-07
+C1114,Retail farmer,Mithapura,1,2025-05-08
+C1115,Retail farmer,Mithapura,1,2025-05-08
+C1116,Retail farmer,Nadiad,38,2025-05-08
+C1117,Retail farmer,Jesapura,1,2025-05-08
+C1118,Retail farmer,Mahudha,30,2025-05-09
+C1119,Retail farmer,Sevalia,18,2025-05-09
+C1120,Retail farmer,Thasra,9,2025-05-10
+C1121,Retail farmer,Dakor,12,2025-05-10
+C1122,Retail farmer,Mahudha,30,2025-05-10
+C1123,Retail farmer,Nadiad,38,2025-05-11
+C1124,Retail farmer,Balasinor,28,2025-05-12
+C1125,Retail farmer,Jesapura,1,2025-05-13
+C1126,Retail farmer,Jesapura,1,2025-05-13
+C1127,Wholesale / dealer,Jesapura,1,2025-05-13
+C1128,Retail farmer,Anand,42,2025-05-13
+C1129,Wholesale / dealer,Thasra,9,2025-05-14
+C1130,Retail farmer,Dakor,12,2025-05-14
+C1131,Retail farmer,Nadiad,38,2025-05-15
+C1132,Retail farmer,Thasra,9,2025-05-15
+C1133,Wholesale / dealer,Kathlal,35,2025-05-15
+C1134,Retail farmer,Nadiad,38,2025-05-16
+C1135,Retail farmer,Mahudha,30,2025-05-16
+C1136,Retail farmer,Kapadvanj,40,2025-05-16
+C1137,Retail farmer,Nadiad,38,2025-05-16
+C1138,Retail farmer,Mithapura,1,2025-05-16
+C1139,Wholesale / dealer,Thasra,9,2025-05-17
+C1140,Retail farmer,Nadiad,38,2025-05-18
+C1141,Retail farmer,Anand,42,2025-05-18
+C1142,Retail farmer,Umreth,22,2025-05-18
+C1143,Retail farmer,Thasra,9,2025-05-18
+C1144,Retail farmer,Anand,42,2025-05-18
+C1145,Home gardener,Mithapura,1,2025-05-19
+C1146,Retail farmer,Sevalia,18,2025-05-20
+C1147,Retail farmer,Kapadvanj,40,2025-05-21
+C1148,Retail farmer,Mahudha,30,2025-05-23
+C1149,Retail farmer,Umreth,22,2025-05-23
+C1150,Retail farmer,Dakor,12,2025-05-24
+C1151,Retail farmer,Thasra,9,2025-05-24
+C1152,Retail farmer,Kathlal,35,2025-05-24
+C1153,Home gardener,Mahudha,30,2025-05-24
+C1154,Retail farmer,Dakor,12,2025-05-25
+C1155,Wholesale / dealer,Thasra,9,2025-05-26
+C1156,Retail farmer,Sevalia,18,2025-05-26
+C1157,Retail farmer,Kapadvanj,40,2025-05-26
+C1158,Home gardener,Balasinor,28,2025-05-27
+C1159,Wholesale / dealer,Umreth,22,2025-05-28
+C1160,Home gardener,Thasra,9,2025-05-28
+C1161,Retail farmer,Nadiad,38,2025-05-29
+C1162,Home gardener,Thasra,9,2025-05-29
+C1163,Retail farmer,Umreth,22,2025-05-30
+C1164,Retail farmer,Thasra,9,2025-05-30
+C1165,Retail farmer,Dakor,12,2025-05-30
+C1166,Retail farmer,Thasra,9,2025-05-30
+C1167,Retail farmer,Mithapura,1,2025-05-31
+C1168,Retail farmer,Nadiad,38,2025-05-31
+C1169,Retail farmer,Balasinor,28,2025-05-31
+C1170,Home gardener,Kapadvanj,40,2025-05-31
+C1171,Retail farmer,Mithapura,1,2025-06-01
+C1172,Retail farmer,Umreth,22,2025-06-01
+C1173,Retail farmer,Jesapura,1,2025-06-01
+C1174,Retail farmer,Dakor,12,2025-06-02
+C1175,Retail farmer,Kathlal,35,2025-06-02
+C1176,Wholesale / dealer,Nadiad,38,2025-06-02
+C1177,Wholesale / dealer,Anand,42,2025-06-03
+C1178,Retail farmer,Anand,42,2025-06-03
+C1179,Retail farmer,Kapadvanj,40,2025-06-03
+C1180,Retail farmer,Mithapura,1,2025-06-03
+C1181,Home gardener,Jesapura,1,2025-06-03
+C1182,Retail farmer,Thasra,9,2025-06-03
+C1183,Retail farmer,Dakor,12,2025-06-03
+C1184,Retail farmer,Nadiad,38,2025-06-03
+C1185,Retail farmer,Sevalia,18,2025-06-03
+C1186,Retail farmer,Jesapura,1,2025-06-04
+C1187,Retail farmer,Kapadvanj,40,2025-06-04
+C1188,Retail farmer,Kapadvanj,40,2025-06-04
+C1189,Retail farmer,Mithapura,1,2025-06-04
+C1190,Home gardener,Umreth,22,2025-06-04
+C1191,Home gardener,Sevalia,18,2025-06-04
+C1192,Retail farmer,Umreth,22,2025-06-05
+C1193,Retail farmer,Balasinor,28,2025-06-05
+C1194,Retail farmer,Umreth,22,2025-06-05
+C1195,Retail farmer,Mithapura,1,2025-06-05
+C1196,Retail farmer,Nadiad,38,2025-06-05
+C1197,Retail farmer,Umreth,22,2025-06-05
+C1198,Retail farmer,Jesapura,1,2025-06-05
+C1199,Retail farmer,Mahudha,30,2025-06-06
+C1200,Retail farmer,Nadiad,38,2025-06-06
+C1201,Retail farmer,Balasinor,28,2025-06-06
+C1202,Wholesale / dealer,Kapadvanj,40,2025-06-06
+C1203,Wholesale / dealer,Jesapura,1,2025-06-06
+C1204,Retail farmer,Kapadvanj,40,2025-06-07
+C1205,Retail farmer,Anand,42,2025-06-07
+C1206,Retail farmer,Mahudha,30,2025-06-07
+C1207,Retail farmer,Kapadvanj,40,2025-06-07
+C1208,Retail farmer,Jesapura,1,2025-06-07
+C1209,Retail farmer,Mahudha,30,2025-06-08
+C1210,Retail farmer,Thasra,9,2025-06-08
+C1211,Retail farmer,Thasra,9,2025-06-08
+C1212,Retail farmer,Dakor,12,2025-06-08
+C1213,Retail farmer,Dakor,12,2025-06-08
+C1214,Retail farmer,Kathlal,35,2025-06-09
+C1215,Retail farmer,Umreth,22,2025-06-09
+C1216,Wholesale / dealer,Balasinor,28,2025-06-09
+C1217,Retail farmer,Balasinor,28,2025-06-10
+C1218,Retail farmer,Nadiad,38,2025-06-11
+C1219,Retail farmer,Mahudha,30,2025-06-11
+C1220,Retail farmer,Thasra,9,2025-06-11
+C1221,Wholesale / dealer,Jesapura,1,2025-06-11
+C1222,Retail farmer,Nadiad,38,2025-06-11
+C1223,Retail farmer,Balasinor,28,2025-06-12
+C1224,Retail farmer,Dakor,12,2025-06-12
+C1225,Retail farmer,Anand,42,2025-06-12
+C1226,Retail farmer,Nadiad,38,2025-06-12
+C1227,Retail farmer,Thasra,9,2025-06-12
+C1228,Retail farmer,Sevalia,18,2025-06-12
+C1229,Retail farmer,Umreth,22,2025-06-13
+C1230,Retail farmer,Balasinor,28,2025-06-13
+C1231,Retail farmer,Mithapura,1,2025-06-13
+C1232,Retail farmer,Balasinor,28,2025-06-13
+C1233,Retail farmer,Dakor,12,2025-06-13
+C1234,Retail farmer,Sevalia,18,2025-06-14
+C1235,Retail farmer,Mahudha,30,2025-06-14
+C1236,Retail farmer,Nadiad,38,2025-06-14
+C1237,Retail farmer,Balasinor,28,2025-06-14
+C1238,Retail farmer,Dakor,12,2025-06-14
+C1239,Retail farmer,Mithapura,1,2025-06-15
+C1240,Wholesale / dealer,Dakor,12,2025-06-15
+C1241,Retail farmer,Jesapura,1,2025-06-15
+C1242,Home gardener,Mithapura,1,2025-06-16
+C1243,Retail farmer,Kathlal,35,2025-06-16
+C1244,Retail farmer,Nadiad,38,2025-06-17
+C1245,Home gardener,Kathlal,35,2025-06-17
+C1246,Retail farmer,Anand,42,2025-06-17
+C1247,Retail farmer,Balasinor,28,2025-06-17
+C1248,Retail farmer,Anand,42,2025-06-17
+C1249,Retail farmer,Kapadvanj,40,2025-06-17
+C1250,Retail farmer,Mithapura,1,2025-06-18
+C1251,Retail farmer,Kapadvanj,40,2025-06-18
+C1252,Retail farmer,Nadiad,38,2025-06-18
+C1253,Retail farmer,Nadiad,38,2025-06-18
+C1254,Retail farmer,Thasra,9,2025-06-18
+C1255,Retail farmer,Thasra,9,2025-06-18
+C1256,Wholesale / dealer,Balasinor,28,2025-06-18
+C1257,Home gardener,Thasra,9,2025-06-18
+C1258,Retail farmer,Jesapura,1,2025-06-19
+C1259,Retail farmer,Dakor,12,2025-06-19
+C1260,Retail farmer,Mithapura,1,2025-06-19
+C1261,Retail farmer,Thasra,9,2025-06-20
+C1262,Retail farmer,Nadiad,38,2025-06-21
+C1263,Retail farmer,Mahudha,30,2025-06-21
+C1264,Retail farmer,Sevalia,18,2025-06-21
+C1265,Retail farmer,Thasra,9,2025-06-21
+C1266,Retail farmer,Kapadvanj,40,2025-06-22
+C1267,Retail farmer,Anand,42,2025-06-22
+C1268,Retail farmer,Thasra,9,2025-06-22
+C1269,Retail farmer,Kathlal,35,2025-06-22
+C1270,Retail farmer,Sevalia,18,2025-06-22
+C1271,Home gardener,Jesapura,1,2025-06-23
+C1272,Retail farmer,Thasra,9,2025-06-24
+C1273,Retail farmer,Thasra,9,2025-06-24
+C1274,Retail farmer,Dakor,12,2025-06-24
+C1275,Retail farmer,Dakor,12,2025-06-25
+C1276,Retail farmer,Dakor,12,2025-06-25
+C1277,Retail farmer,Thasra,9,2025-06-25
+C1278,Retail farmer,Jesapura,1,2025-06-25
+C1279,Retail farmer,Anand,42,2025-06-26
+C1280,Retail farmer,Dakor,12,2025-06-26
+C1281,Retail farmer,Nadiad,38,2025-06-27
+C1282,Wholesale / dealer,Mithapura,1,2025-06-27
+C1283,Retail farmer,Umreth,22,2025-06-28
+C1284,Retail farmer,Mahudha,30,2025-06-28
+C1285,Retail farmer,Mahudha,30,2025-06-28
+C1286,Retail farmer,Thasra,9,2025-06-28
+C1287,Retail farmer,Balasinor,28,2025-06-28
+C1288,Retail farmer,Dakor,12,2025-06-28
+C1289,Retail farmer,Thasra,9,2025-06-28
+C1290,Retail farmer,Sevalia,18,2025-06-29
+C1291,Retail farmer,Balasinor,28,2025-06-29
+C1292,Retail farmer,Umreth,22,2025-06-29
+C1293,Home gardener,Jesapura,1,2025-06-29
+C1294,Retail farmer,Mithapura,1,2025-06-29
+C1295,Retail farmer,Jesapura,1,2025-06-30
+C1296,Retail farmer,Dakor,12,2025-06-30
+C1297,Retail farmer,Mahudha,30,2025-06-30
+C1298,Retail farmer,Dakor,12,2025-06-30
+C1299,Retail farmer,Nadiad,38,2025-06-30
+C1300,Home gardener,Kathlal,35,2025-06-30
+C1301,Retail farmer,Dakor,12,2025-06-30
+C1302,Retail farmer,Dakor,12,2025-07-01
+C1303,Retail farmer,Dakor,12,2025-07-01
+C1304,Retail farmer,Umreth,22,2025-07-01
+C1305,Retail farmer,Thasra,9,2025-07-01
+C1306,Wholesale / dealer,Nadiad,38,2025-07-01
+C1307,Retail farmer,Balasinor,28,2025-07-02
+C1308,Retail farmer,Umreth,22,2025-07-02
+C1309,Retail farmer,Anand,42,2025-07-02
+C1310,Retail farmer,Thasra,9,2025-07-02
+C1311,Retail farmer,Kathlal,35,2025-07-03
+C1312,Retail farmer,Thasra,9,2025-07-03
+C1313,Retail farmer,Umreth,22,2025-07-03
+C1314,Retail farmer,Mithapura,1,2025-07-03
+C1315,Retail farmer,Thasra,9,2025-07-03
+C1316,Retail farmer,Mithapura,1,2025-07-03
+C1317,Retail farmer,Dakor,12,2025-07-03
+C1318,Retail farmer,Thasra,9,2025-07-03
+C1319,Retail farmer,Sevalia,18,2025-07-03
+C1320,Retail farmer,Dakor,12,2025-07-04
+C1321,Retail farmer,Anand,42,2025-07-04
+C1322,Retail farmer,Jesapura,1,2025-07-04
+C1323,Retail farmer,Kapadvanj,40,2025-07-04
+C1324,Wholesale / dealer,Dakor,12,2025-07-04
+C1325,Retail farmer,Kathlal,35,2025-07-04
+C1326,Wholesale / dealer,Kapadvanj,40,2025-07-04
+C1327,Retail farmer,Kathlal,35,2025-07-04
+C1328,Retail farmer,Dakor,12,2025-07-05
+C1329,Retail farmer,Jesapura,1,2025-07-05
+C1330,Retail farmer,Jesapura,1,2025-07-05
+C1331,Retail farmer,Sevalia,18,2025-07-05
+C1332,Home gardener,Nadiad,38,2025-07-05
+C1333,Retail farmer,Jesapura,1,2025-07-05
+C1334,Retail farmer,Umreth,22,2025-07-06
+C1335,Retail farmer,Dakor,12,2025-07-06
+C1336,Retail farmer,Thasra,9,2025-07-06
+C1337,Retail farmer,Anand,42,2025-07-06
+C1338,Retail farmer,Mithapura,1,2025-07-06
+C1339,Retail farmer,Kathlal,35,2025-07-06
+C1340,Retail farmer,Thasra,9,2025-07-06
+C1341,Retail farmer,Sevalia,18,2025-07-06
+C1342,Home gardener,Thasra,9,2025-07-06
+C1343,Retail farmer,Umreth,22,2025-07-06
+C1344,Home gardener,Kathlal,35,2025-07-06
+C1345,Retail farmer,Kapadvanj,40,2025-07-06
+C1346,Retail farmer,Balasinor,28,2025-07-06
+C1347,Retail farmer,Kapadvanj,40,2025-07-07
+C1348,Retail farmer,Mahudha,30,2025-07-07
+C1349,Retail farmer,Nadiad,38,2025-07-07
+C1350,Retail farmer,Mahudha,30,2025-07-07
+C1351,Retail farmer,Nadiad,38,2025-07-07
+C1352,Home gardener,Dakor,12,2025-07-07
+C1353,Retail farmer,Balasinor,28,2025-07-07
+C1354,Retail farmer,Nadiad,38,2025-07-07
+C1355,Retail farmer,Balasinor,28,2025-07-08
+C1356,Wholesale / dealer,Balasinor,28,2025-07-08
+C1357,Retail farmer,Jesapura,1,2025-07-08
+C1358,Retail farmer,Nadiad,38,2025-07-08
+C1359,Retail farmer,Nadiad,38,2025-07-08
+C1360,Home gardener,Anand,42,2025-07-09
+C1361,Retail farmer,Sevalia,18,2025-07-09
+C1362,Wholesale / dealer,Umreth,22,2025-07-09
+C1363,Retail farmer,Sevalia,18,2025-07-09
+C1364,Retail farmer,Kapadvanj,40,2025-07-09
+C1365,Retail farmer,Balasinor,28,2025-07-09
+C1366,Retail farmer,Nadiad,38,2025-07-09
+C1367,Retail farmer,Thasra,9,2025-07-09
+C1368,Retail farmer,Dakor,12,2025-07-09
+C1369,Retail farmer,Thasra,9,2025-07-10
+C1370,Retail farmer,Dakor,12,2025-07-10
+C1371,Retail farmer,Sevalia,18,2025-07-10
+C1372,Home gardener,Mahudha,30,2025-07-11
+C1373,Retail farmer,Jesapura,1,2025-07-11
+C1374,Retail farmer,Jesapura,1,2025-07-11
+C1375,Retail farmer,Thasra,9,2025-07-11
+C1376,Retail farmer,Dakor,12,2025-07-11
+C1377,Retail farmer,Kathlal,35,2025-07-11
+C1378,Retail farmer,Mahudha,30,2025-07-11
+C1379,Retail farmer,Sevalia,18,2025-07-12
+C1380,Retail farmer,Thasra,9,2025-07-12
+C1381,Retail farmer,Balasinor,28,2025-07-12
+C1382,Retail farmer,Thasra,9,2025-07-12
+C1383,Retail farmer,Dakor,12,2025-07-12
+C1384,Wholesale / dealer,Dakor,12,2025-07-12
+C1385,Retail farmer,Thasra,9,2025-07-12
+C1386,Home gardener,Kapadvanj,40,2025-07-12
+C1387,Retail farmer,Umreth,22,2025-07-12
+C1388,Retail farmer,Nadiad,38,2025-07-12
+C1389,Wholesale / dealer,Mahudha,30,2025-07-13
+C1390,Retail farmer,Dakor,12,2025-07-13
+C1391,Retail farmer,Balasinor,28,2025-07-13
+C1392,Retail farmer,Umreth,22,2025-07-13
+C1393,Home gardener,Mithapura,1,2025-07-13
+C1394,Retail farmer,Nadiad,38,2025-07-13
+C1395,Retail farmer,Mahudha,30,2025-07-13
+C1396,Retail farmer,Jesapura,1,2025-07-13
+C1397,Wholesale / dealer,Umreth,22,2025-07-14
+C1398,Retail farmer,Jesapura,1,2025-07-14
+C1399,Home gardener,Anand,42,2025-07-14
+C1400,Retail farmer,Kathlal,35,2025-07-14
+C1401,Retail farmer,Jesapura,1,2025-07-14
+C1402,Retail farmer,Dakor,12,2025-07-14
+C1403,Retail farmer,Jesapura,1,2025-07-14
+C1404,Retail farmer,Kathlal,35,2025-07-14
+C1405,Retail farmer,Nadiad,38,2025-07-14
+C1406,Retail farmer,Nadiad,38,2025-07-15
+C1407,Retail farmer,Umreth,22,2025-07-15
+C1408,Retail farmer,Nadiad,38,2025-07-15
+C1409,Wholesale / dealer,Kapadvanj,40,2025-07-15
+C1410,Wholesale / dealer,Mithapura,1,2025-07-15
+C1411,Wholesale / dealer,Nadiad,38,2025-07-15
+C1412,Retail farmer,Jesapura,1,2025-07-15
+C1413,Retail farmer,Nadiad,38,2025-07-15
+C1414,Wholesale / dealer,Nadiad,38,2025-07-16
+C1415,Retail farmer,Kathlal,35,2025-07-16
+C1416,Retail farmer,Nadiad,38,2025-07-16
+C1417,Home gardener,Nadiad,38,2025-07-16
+C1418,Wholesale / dealer,Sevalia,18,2025-07-16
+C1419,Retail farmer,Balasinor,28,2025-07-16
+C1420,Home gardener,Anand,42,2025-07-16
+C1421,Wholesale / dealer,Nadiad,38,2025-07-17
+C1422,Home gardener,Sevalia,18,2025-07-17
+C1423,Retail farmer,Kathlal,35,2025-07-17
+C1424,Retail farmer,Dakor,12,2025-07-18
+C1425,Retail farmer,Thasra,9,2025-07-18
+C1426,Wholesale / dealer,Kathlal,35,2025-07-18
+C1427,Retail farmer,Dakor,12,2025-07-18
+C1428,Wholesale / dealer,Umreth,22,2025-07-18
+C1429,Retail farmer,Dakor,12,2025-07-18
+C1430,Retail farmer,Anand,42,2025-07-19
+C1431,Retail farmer,Dakor,12,2025-07-19
+C1432,Retail farmer,Umreth,22,2025-07-19
+C1433,Home gardener,Thasra,9,2025-07-20
+C1434,Retail farmer,Umreth,22,2025-07-20
+C1435,Wholesale / dealer,Umreth,22,2025-07-20
+C1436,Retail farmer,Dakor,12,2025-07-21
+C1437,Retail farmer,Sevalia,18,2025-07-21
+C1438,Retail farmer,Dakor,12,2025-07-21
+C1439,Home gardener,Thasra,9,2025-07-21
+C1440,Retail farmer,Jesapura,1,2025-07-21
+C1441,Retail farmer,Mahudha,30,2025-07-21
+C1442,Retail farmer,Kathlal,35,2025-07-22
+C1443,Retail farmer,Jesapura,1,2025-07-22
+C1444,Home gardener,Nadiad,38,2025-07-22
+C1445,Retail farmer,Anand,42,2025-07-22
+C1446,Retail farmer,Nadiad,38,2025-07-22
+C1447,Retail farmer,Balasinor,28,2025-07-22
+C1448,Retail farmer,Jesapura,1,2025-07-22
+C1449,Wholesale / dealer,Mithapura,1,2025-07-22
+C1450,Retail farmer,Nadiad,38,2025-07-23
+C1451,Home gardener,Mithapura,1,2025-07-23
+C1452,Home gardener,Jesapura,1,2025-07-23
+C1453,Retail farmer,Dakor,12,2025-07-23
+C1454,Retail farmer,Mithapura,1,2025-07-23
+C1455,Retail farmer,Dakor,12,2025-07-23
+C1456,Retail farmer,Dakor,12,2025-07-23
+C1457,Retail farmer,Kathlal,35,2025-07-23
+C1458,Home gardener,Thasra,9,2025-07-23
+C1459,Retail farmer,Kathlal,35,2025-07-23
+C1460,Retail farmer,Mahudha,30,2025-07-24
+C1461,Retail farmer,Umreth,22,2025-07-24
+C1462,Retail farmer,Mithapura,1,2025-07-24
+C1463,Home gardener,Jesapura,1,2025-07-24
+C1464,Retail farmer,Anand,42,2025-07-24
+C1465,Retail farmer,Mahudha,30,2025-07-25
+C1466,Wholesale / dealer,Nadiad,38,2025-07-25
+C1467,Retail farmer,Nadiad,38,2025-07-25
+C1468,Wholesale / dealer,Nadiad,38,2025-07-25
+C1469,Retail farmer,Mahudha,30,2025-07-25
+C1470,Retail farmer,Mahudha,30,2025-07-25
+C1471,Wholesale / dealer,Nadiad,38,2025-07-25
+C1472,Retail farmer,Balasinor,28,2025-07-25
+C1473,Retail farmer,Thasra,9,2025-07-25
+C1474,Retail farmer,Mithapura,1,2025-07-26
+C1475,Retail farmer,Sevalia,18,2025-07-26
+C1476,Retail farmer,Dakor,12,2025-07-26
+C1477,Retail farmer,Dakor,12,2025-07-26
+C1478,Retail farmer,Thasra,9,2025-07-26
+C1479,Retail farmer,Umreth,22,2025-07-26
+C1480,Retail farmer,Kathlal,35,2025-07-27
+C1481,Retail farmer,Nadiad,38,2025-07-27
+C1482,Retail farmer,Mithapura,1,2025-07-27
+C1483,Retail farmer,Anand,42,2025-07-27
+C1484,Retail farmer,Sevalia,18,2025-07-27
+C1485,Retail farmer,Jesapura,1,2025-07-27
+C1486,Home gardener,Mithapura,1,2025-07-27
+C1487,Retail farmer,Mithapura,1,2025-07-27
+C1488,Retail farmer,Jesapura,1,2025-07-27
+C1489,Retail farmer,Nadiad,38,2025-07-27
+C1490,Retail farmer,Anand,42,2025-07-28
+C1491,Retail farmer,Dakor,12,2025-07-28
+C1492,Retail farmer,Kathlal,35,2025-07-28
+C1493,Retail farmer,Kapadvanj,40,2025-07-28
+C1494,Retail farmer,Balasinor,28,2025-07-28
+C1495,Retail farmer,Sevalia,18,2025-07-28
+C1496,Retail farmer,Kathlal,35,2025-07-28
+C1497,Wholesale / dealer,Kapadvanj,40,2025-07-28
+C1498,Wholesale / dealer,Sevalia,18,2025-07-29
+C1499,Retail farmer,Kapadvanj,40,2025-07-29
+C1500,Retail farmer,Sevalia,18,2025-07-29
+C1501,Retail farmer,Thasra,9,2025-07-29
+C1502,Retail farmer,Anand,42,2025-07-29
+C1503,Retail farmer,Thasra,9,2025-07-29
+C1504,Retail farmer,Jesapura,1,2025-07-29
+C1505,Retail farmer,Thasra,9,2025-07-29
+C1506,Retail farmer,Dakor,12,2025-07-29
+C1507,Retail farmer,Umreth,22,2025-07-30
+C1508,Retail farmer,Mithapura,1,2025-07-30
+C1509,Home gardener,Dakor,12,2025-07-30
+C1510,Retail farmer,Mahudha,30,2025-07-30
+C1511,Wholesale / dealer,Thasra,9,2025-07-30
+C1512,Retail farmer,Dakor,12,2025-07-31
+C1513,Wholesale / dealer,Thasra,9,2025-07-31
+C1514,Retail farmer,Balasinor,28,2025-07-31
+C1515,Retail farmer,Jesapura,1,2025-07-31
+C1516,Retail farmer,Nadiad,38,2025-07-31
+C1517,Wholesale / dealer,Nadiad,38,2025-08-01
+C1518,Retail farmer,Umreth,22,2025-08-01
+C1519,Wholesale / dealer,Anand,42,2025-08-01
+C1520,Retail farmer,Thasra,9,2025-08-01
+C1521,Retail farmer,Kathlal,35,2025-08-01
+C1522,Retail farmer,Dakor,12,2025-08-01
+C1523,Retail farmer,Nadiad,38,2025-08-01
+C1524,Retail farmer,Kathlal,35,2025-08-01
+C1525,Retail farmer,Jesapura,1,2025-08-01
+C1526,Retail farmer,Umreth,22,2025-08-01
+C1527,Wholesale / dealer,Nadiad,38,2025-08-02
+C1528,Wholesale / dealer,Umreth,22,2025-08-02
+C1529,Retail farmer,Mahudha,30,2025-08-02
+C1530,Retail farmer,Sevalia,18,2025-08-02
+C1531,Retail farmer,Umreth,22,2025-08-02
+C1532,Retail farmer,Dakor,12,2025-08-02
+C1533,Retail farmer,Mahudha,30,2025-08-02
+C1534,Retail farmer,Umreth,22,2025-08-03
+C1535,Retail farmer,Jesapura,1,2025-08-03
+C1536,Retail farmer,Kathlal,35,2025-08-03
+C1537,Retail farmer,Jesapura,1,2025-08-03
+C1538,Retail farmer,Dakor,12,2025-08-03
+C1539,Home gardener,Thasra,9,2025-08-03
+C1540,Retail farmer,Jesapura,1,2025-08-03
+C1541,Retail farmer,Mithapura,1,2025-08-03
+C1542,Home gardener,Sevalia,18,2025-08-03
+C1543,Retail farmer,Mithapura,1,2025-08-03
+C1544,Retail farmer,Jesapura,1,2025-08-03
+C1545,Retail farmer,Kathlal,35,2025-08-03
+C1546,Retail farmer,Umreth,22,2025-08-03
+C1547,Wholesale / dealer,Kapadvanj,40,2025-08-04
+C1548,Retail farmer,Mahudha,30,2025-08-04
+C1549,Retail farmer,Anand,42,2025-08-04
+C1550,Retail farmer,Thasra,9,2025-08-04
+C1551,Retail farmer,Sevalia,18,2025-08-04
+C1552,Retail farmer,Dakor,12,2025-08-04
+C1553,Retail farmer,Mithapura,1,2025-08-04
+C1554,Home gardener,Balasinor,28,2025-08-04
+C1555,Retail farmer,Dakor,12,2025-08-04
+C1556,Wholesale / dealer,Dakor,12,2025-08-05
+C1557,Home gardener,Kapadvanj,40,2025-08-05
+C1558,Retail farmer,Nadiad,38,2025-08-05
+C1559,Home gardener,Kapadvanj,40,2025-08-05
+C1560,Retail farmer,Anand,42,2025-08-06
+C1561,Retail farmer,Thasra,9,2025-08-06
+C1562,Wholesale / dealer,Jesapura,1,2025-08-06
+C1563,Retail farmer,Thasra,9,2025-08-06
+C1564,Wholesale / dealer,Kathlal,35,2025-08-06
+C1565,Home gardener,Anand,42,2025-08-06
+C1566,Retail farmer,Kapadvanj,40,2025-08-06
+C1567,Wholesale / dealer,Mithapura,1,2025-08-06
+C1568,Retail farmer,Kapadvanj,40,2025-08-06
+C1569,Wholesale / dealer,Kathlal,35,2025-08-07
+C1570,Wholesale / dealer,Mithapura,1,2025-08-07
+C1571,Retail farmer,Sevalia,18,2025-08-07
+C1572,Retail farmer,Kathlal,35,2025-08-07
+C1573,Retail farmer,Kathlal,35,2025-08-07
+C1574,Retail farmer,Thasra,9,2025-08-07
+C1575,Retail farmer,Thasra,9,2025-08-07
+C1576,Retail farmer,Mahudha,30,2025-08-08
+C1577,Retail farmer,Kapadvanj,40,2025-08-08
+C1578,Home gardener,Mithapura,1,2025-08-08
+C1579,Retail farmer,Sevalia,18,2025-08-08
+C1580,Retail farmer,Nadiad,38,2025-08-08
+C1581,Retail farmer,Thasra,9,2025-08-08
+C1582,Retail farmer,Umreth,22,2025-08-08
+C1583,Home gardener,Sevalia,18,2025-08-09
+C1584,Home gardener,Nadiad,38,2025-08-09
+C1585,Retail farmer,Thasra,9,2025-08-09
+C1586,Retail farmer,Mithapura,1,2025-08-09
+C1587,Retail farmer,Anand,42,2025-08-09
+C1588,Retail farmer,Anand,42,2025-08-09
+C1589,Retail farmer,Dakor,12,2025-08-09
+C1590,Retail farmer,Mahudha,30,2025-08-09
+C1591,Home gardener,Mahudha,30,2025-08-09
+C1592,Retail farmer,Sevalia,18,2025-08-10
+C1593,Home gardener,Nadiad,38,2025-08-10
+C1594,Retail farmer,Thasra,9,2025-08-10
+C1595,Retail farmer,Kathlal,35,2025-08-10
+C1596,Retail farmer,Kapadvanj,40,2025-08-11
+C1597,Retail farmer,Dakor,12,2025-08-11
+C1598,Retail farmer,Kathlal,35,2025-08-11
+C1599,Retail farmer,Mithapura,1,2025-08-11
+C1600,Retail farmer,Dakor,12,2025-08-11
+C1601,Retail farmer,Sevalia,18,2025-08-11
+C1602,Retail farmer,Mahudha,30,2025-08-11
+C1603,Retail farmer,Jesapura,1,2025-08-12
+C1604,Retail farmer,Dakor,12,2025-08-12
+C1605,Retail farmer,Sevalia,18,2025-08-12
+C1606,Retail farmer,Thasra,9,2025-08-12
+C1607,Retail farmer,Dakor,12,2025-08-12
+C1608,Retail farmer,Sevalia,18,2025-08-12
+C1609,Retail farmer,Jesapura,1,2025-08-12
+C1610,Home gardener,Umreth,22,2025-08-12
+C1611,Wholesale / dealer,Thasra,9,2025-08-12
+C1612,Retail farmer,Nadiad,38,2025-08-13
+C1613,Home gardener,Mahudha,30,2025-08-13
+C1614,Retail farmer,Nadiad,38,2025-08-13
+C1615,Retail farmer,Mahudha,30,2025-08-13
+C1616,Retail farmer,Mithapura,1,2025-08-13
+C1617,Retail farmer,Mahudha,30,2025-08-14
+C1618,Retail farmer,Mithapura,1,2025-08-14
+C1619,Retail farmer,Dakor,12,2025-08-14
+C1620,Retail farmer,Umreth,22,2025-08-14
+C1621,Wholesale / dealer,Anand,42,2025-08-14
+C1622,Retail farmer,Nadiad,38,2025-08-14
+C1623,Retail farmer,Kapadvanj,40,2025-08-14
+C1624,Retail farmer,Kapadvanj,40,2025-08-14
+C1625,Home gardener,Dakor,12,2025-08-15
+C1626,Retail farmer,Balasinor,28,2025-08-15
+C1627,Home gardener,Umreth,22,2025-08-15
+C1628,Retail farmer,Dakor,12,2025-08-15
+C1629,Wholesale / dealer,Dakor,12,2025-08-15
+C1630,Retail farmer,Thasra,9,2025-08-15
+C1631,Retail farmer,Anand,42,2025-08-15
+C1632,Wholesale / dealer,Thasra,9,2025-08-15
+C1633,Retail farmer,Jesapura,1,2025-08-15
+C1634,Retail farmer,Jesapura,1,2025-08-16
+C1635,Retail farmer,Mahudha,30,2025-08-16
+C1636,Retail farmer,Mithapura,1,2025-08-16
+C1637,Retail farmer,Dakor,12,2025-08-16
+C1638,Retail farmer,Balasinor,28,2025-08-16
+C1639,Retail farmer,Mithapura,1,2025-08-16
+C1640,Retail farmer,Dakor,12,2025-08-16
+C1641,Wholesale / dealer,Balasinor,28,2025-08-16
+C1642,Retail farmer,Mithapura,1,2025-08-17
+C1643,Retail farmer,Thasra,9,2025-08-17
+C1644,Retail farmer,Anand,42,2025-08-17
+C1645,Retail farmer,Kathlal,35,2025-08-17
+C1646,Retail farmer,Dakor,12,2025-08-17
+C1647,Retail farmer,Umreth,22,2025-08-18
+C1648,Retail farmer,Dakor,12,2025-08-18
+C1649,Retail farmer,Sevalia,18,2025-08-18
+C1650,Retail farmer,Kathlal,35,2025-08-18
+C1651,Retail farmer,Kapadvanj,40,2025-08-18
+C1652,Retail farmer,Kapadvanj,40,2025-08-18
+C1653,Home gardener,Anand,42,2025-08-18
+C1654,Retail farmer,Dakor,12,2025-08-18
+C1655,Retail farmer,Kapadvanj,40,2025-08-18
+C1656,Retail farmer,Thasra,9,2025-08-19
+C1657,Retail farmer,Kapadvanj,40,2025-08-19
+C1658,Retail farmer,Nadiad,38,2025-08-19
+C1659,Retail farmer,Dakor,12,2025-08-19
+C1660,Retail farmer,Kathlal,35,2025-08-19
+C1661,Retail farmer,Thasra,9,2025-08-20
+C1662,Retail farmer,Umreth,22,2025-08-20
+C1663,Retail farmer,Nadiad,38,2025-08-20
+C1664,Retail farmer,Thasra,9,2025-08-20
+C1665,Retail farmer,Mithapura,1,2025-08-20
+C1666,Retail farmer,Mahudha,30,2025-08-21
+C1667,Retail farmer,Balasinor,28,2025-08-21
+C1668,Wholesale / dealer,Jesapura,1,2025-08-21
+C1669,Retail farmer,Thasra,9,2025-08-21
+C1670,Retail farmer,Mithapura,1,2025-08-21
+C1671,Retail farmer,Dakor,12,2025-08-21
+C1672,Wholesale / dealer,Dakor,12,2025-08-22
+C1673,Retail farmer,Thasra,9,2025-08-22
+C1674,Home gardener,Dakor,12,2025-08-22
+C1675,Retail farmer,Jesapura,1,2025-08-22
+C1676,Retail farmer,Mahudha,30,2025-08-22
+C1677,Retail farmer,Mithapura,1,2025-08-22
+C1678,Retail farmer,Thasra,9,2025-08-22
+C1679,Wholesale / dealer,Kapadvanj,40,2025-08-23
+C1680,Retail farmer,Jesapura,1,2025-08-23
+C1681,Wholesale / dealer,Kapadvanj,40,2025-08-23
+C1682,Wholesale / dealer,Balasinor,28,2025-08-23
+C1683,Retail farmer,Balasinor,28,2025-08-24
+C1684,Retail farmer,Anand,42,2025-08-24
+C1685,Retail farmer,Mithapura,1,2025-08-24
+C1686,Home gardener,Kathlal,35,2025-08-24
+C1687,Retail farmer,Thasra,9,2025-08-24
+C1688,Retail farmer,Thasra,9,2025-08-24
+C1689,Retail farmer,Thasra,9,2025-08-24
+C1690,Wholesale / dealer,Thasra,9,2025-08-24
+C1691,Home gardener,Nadiad,38,2025-08-24
+C1692,Retail farmer,Jesapura,1,2025-08-24
+C1693,Retail farmer,Jesapura,1,2025-08-24
+C1694,Retail farmer,Dakor,12,2025-08-24
+C1695,Wholesale / dealer,Kathlal,35,2025-08-24
+C1696,Retail farmer,Dakor,12,2025-08-24
+C1697,Wholesale / dealer,Balasinor,28,2025-08-24
+C1698,Retail farmer,Jesapura,1,2025-08-24
+C1699,Wholesale / dealer,Nadiad,38,2025-08-24
+C1700,Retail farmer,Thasra,9,2025-08-25
+C1701,Wholesale / dealer,Nadiad,38,2025-08-25
+C1702,Retail farmer,Thasra,9,2025-08-25
+C1703,Retail farmer,Thasra,9,2025-08-25
+C1704,Retail farmer,Nadiad,38,2025-08-25
+C1705,Wholesale / dealer,Thasra,9,2025-08-25
+C1706,Retail farmer,Thasra,9,2025-08-26
+C1707,Retail farmer,Umreth,22,2025-08-26
+C1708,Home gardener,Kathlal,35,2025-08-26
+C1709,Retail farmer,Kathlal,35,2025-08-26
+C1710,Home gardener,Kathlal,35,2025-08-26
+C1711,Home gardener,Umreth,22,2025-08-26
+C1712,Retail farmer,Nadiad,38,2025-08-26
+C1713,Retail farmer,Thasra,9,2025-08-27
+C1714,Retail farmer,Kapadvanj,40,2025-08-27
+C1715,Retail farmer,Mahudha,30,2025-08-27
+C1716,Home gardener,Nadiad,38,2025-08-27
+C1717,Retail farmer,Kathlal,35,2025-08-27
+C1718,Home gardener,Kathlal,35,2025-08-27
+C1719,Retail farmer,Umreth,22,2025-08-28
+C1720,Retail farmer,Dakor,12,2025-08-28
+C1721,Retail farmer,Anand,42,2025-08-28
+C1722,Retail farmer,Thasra,9,2025-08-28
+C1723,Retail farmer,Balasinor,28,2025-08-28
+C1724,Wholesale / dealer,Dakor,12,2025-08-29
+C1725,Retail farmer,Mahudha,30,2025-08-29
+C1726,Retail farmer,Kapadvanj,40,2025-08-29
+C1727,Retail farmer,Nadiad,38,2025-08-29
+C1728,Wholesale / dealer,Anand,42,2025-08-29
+C1729,Retail farmer,Jesapura,1,2025-08-30
+C1730,Retail farmer,Kathlal,35,2025-08-30
+C1731,Retail farmer,Dakor,12,2025-08-30
+C1732,Retail farmer,Thasra,9,2025-08-30
+C1733,Retail farmer,Anand,42,2025-08-31
+C1734,Retail farmer,Thasra,9,2025-08-31
+C1735,Retail farmer,Dakor,12,2025-08-31
+C1736,Wholesale / dealer,Anand,42,2025-08-31
+C1737,Retail farmer,Anand,42,2025-08-31
+C1738,Retail farmer,Jesapura,1,2025-09-01
+C1739,Retail farmer,Dakor,12,2025-09-01
+C1740,Retail farmer,Kathlal,35,2025-09-01
+C1741,Retail farmer,Sevalia,18,2025-09-01
+C1742,Retail farmer,Anand,42,2025-09-01
+C1743,Retail farmer,Thasra,9,2025-09-01
+C1744,Retail farmer,Kathlal,35,2025-09-01
+C1745,Retail farmer,Dakor,12,2025-09-02
+C1746,Retail farmer,Nadiad,38,2025-09-02
+C1747,Retail farmer,Sevalia,18,2025-09-02
+C1748,Retail farmer,Nadiad,38,2025-09-03
+C1749,Home gardener,Kapadvanj,40,2025-09-03
+C1750,Retail farmer,Balasinor,28,2025-09-03
+C1751,Retail farmer,Thasra,9,2025-09-03
+C1752,Retail farmer,Thasra,9,2025-09-04
+C1753,Retail farmer,Balasinor,28,2025-09-04
+C1754,Retail farmer,Thasra,9,2025-09-04
+C1755,Retail farmer,Sevalia,18,2025-09-05
+C1756,Retail farmer,Anand,42,2025-09-05
+C1757,Retail farmer,Kathlal,35,2025-09-05
+C1758,Retail farmer,Umreth,22,2025-09-05
+C1759,Wholesale / dealer,Jesapura,1,2025-09-06
+C1760,Retail farmer,Umreth,22,2025-09-06
+C1761,Retail farmer,Umreth,22,2025-09-06
+C1762,Retail farmer,Dakor,12,2025-09-06
+C1763,Retail farmer,Dakor,12,2025-09-06
+C1764,Retail farmer,Kapadvanj,40,2025-09-06
+C1765,Retail farmer,Mahudha,30,2025-09-06
+C1766,Retail farmer,Mahudha,30,2025-09-06
+C1767,Wholesale / dealer,Sevalia,18,2025-09-07
+C1768,Retail farmer,Umreth,22,2025-09-07
+C1769,Retail farmer,Kapadvanj,40,2025-09-07
+C1770,Retail farmer,Anand,42,2025-09-07
+C1771,Retail farmer,Mahudha,30,2025-09-07
+C1772,Wholesale / dealer,Nadiad,38,2025-09-07
+C1773,Retail farmer,Mahudha,30,2025-09-07
+C1774,Retail farmer,Nadiad,38,2025-09-07
+C1775,Retail farmer,Mithapura,1,2025-09-08
+C1776,Retail farmer,Sevalia,18,2025-09-08
+C1777,Wholesale / dealer,Mahudha,30,2025-09-08
+C1778,Wholesale / dealer,Dakor,12,2025-09-09
+C1779,Home gardener,Kapadvanj,40,2025-09-09
+C1780,Retail farmer,Jesapura,1,2025-09-09
+C1781,Retail farmer,Dakor,12,2025-09-09
+C1782,Retail farmer,Mithapura,1,2025-09-09
+C1783,Retail farmer,Nadiad,38,2025-09-09
+C1784,Retail farmer,Umreth,22,2025-09-10
+C1785,Retail farmer,Nadiad,38,2025-09-10
+C1786,Wholesale / dealer,Thasra,9,2025-09-11
+C1787,Retail farmer,Sevalia,18,2025-09-11
+C1788,Home gardener,Kathlal,35,2025-09-11
+C1789,Retail farmer,Balasinor,28,2025-09-11
+C1790,Retail farmer,Mithapura,1,2025-09-11
+C1791,Retail farmer,Dakor,12,2025-09-11
+C1792,Retail farmer,Nadiad,38,2025-09-12
+C1793,Retail farmer,Anand,42,2025-09-12
+C1794,Retail farmer,Kapadvanj,40,2025-09-12
+C1795,Home gardener,Umreth,22,2025-09-12
+C1796,Retail farmer,Thasra,9,2025-09-12
+C1797,Retail farmer,Thasra,9,2025-09-13
+C1798,Home gardener,Mahudha,30,2025-09-13
+C1799,Retail farmer,Thasra,9,2025-09-13
+C1800,Retail farmer,Kathlal,35,2025-09-13
+C1801,Wholesale / dealer,Mithapura,1,2025-09-13
+C1802,Retail farmer,Thasra,9,2025-09-13
+C1803,Retail farmer,Nadiad,38,2025-09-13
+C1804,Retail farmer,Thasra,9,2025-09-14
+C1805,Retail farmer,Sevalia,18,2025-09-14
+C1806,Retail farmer,Kapadvanj,40,2025-09-14
+C1807,Retail farmer,Thasra,9,2025-09-14
+C1808,Retail farmer,Nadiad,38,2025-09-14
+C1809,Retail farmer,Kathlal,35,2025-09-14
+C1810,Retail farmer,Dakor,12,2025-09-14
+C1811,Retail farmer,Mahudha,30,2025-09-14
+C1812,Retail farmer,Nadiad,38,2025-09-14
+C1813,Retail farmer,Mithapura,1,2025-09-15
+C1814,Retail farmer,Sevalia,18,2025-09-15
+C1815,Home gardener,Sevalia,18,2025-09-15
+C1816,Retail farmer,Balasinor,28,2025-09-15
+C1817,Retail farmer,Sevalia,18,2025-09-15
+C1818,Retail farmer,Jesapura,1,2025-09-16
+C1819,Retail farmer,Sevalia,18,2025-09-16
+C1820,Retail farmer,Kapadvanj,40,2025-09-16
+C1821,Retail farmer,Nadiad,38,2025-09-16
+C1822,Home gardener,Mithapura,1,2025-09-16
+C1823,Retail farmer,Mahudha,30,2025-09-17
+C1824,Retail farmer,Jesapura,1,2025-09-17
+C1825,Home gardener,Sevalia,18,2025-09-17
+C1826,Retail farmer,Mithapura,1,2025-09-17
+C1827,Retail farmer,Thasra,9,2025-09-17
+C1828,Retail farmer,Kathlal,35,2025-09-18
+C1829,Retail farmer,Nadiad,38,2025-09-18
+C1830,Retail farmer,Thasra,9,2025-09-19
+C1831,Retail farmer,Kapadvanj,40,2025-09-19
+C1832,Retail farmer,Kathlal,35,2025-09-20
+C1833,Retail farmer,Dakor,12,2025-09-20
+C1834,Retail farmer,Thasra,9,2025-09-20
+C1835,Retail farmer,Jesapura,1,2025-09-20
+C1836,Retail farmer,Mithapura,1,2025-09-20
+C1837,Retail farmer,Nadiad,38,2025-09-21
+C1838,Retail farmer,Nadiad,38,2025-09-21
+C1839,Retail farmer,Thasra,9,2025-09-21
+C1840,Retail farmer,Sevalia,18,2025-09-21
+C1841,Retail farmer,Sevalia,18,2025-09-21
+C1842,Retail farmer,Kathlal,35,2025-09-22
+C1843,Retail farmer,Sevalia,18,2025-09-22
+C1844,Wholesale / dealer,Mithapura,1,2025-09-22
+C1845,Retail farmer,Thasra,9,2025-09-22
+C1846,Retail farmer,Umreth,22,2025-09-23
+C1847,Retail farmer,Thasra,9,2025-09-23
+C1848,Retail farmer,Anand,42,2025-09-23
+C1849,Retail farmer,Thasra,9,2025-09-23
+C1850,Retail farmer,Thasra,9,2025-09-23
+C1851,Retail farmer,Umreth,22,2025-09-23
+C1852,Home gardener,Dakor,12,2025-09-23
+C1853,Wholesale / dealer,Mahudha,30,2025-09-24
+C1854,Retail farmer,Kapadvanj,40,2025-09-24
+C1855,Retail farmer,Anand,42,2025-09-24
+C1856,Home gardener,Sevalia,18,2025-09-24
+C1857,Home gardener,Anand,42,2025-09-25
+C1858,Retail farmer,Jesapura,1,2025-09-25
+C1859,Retail farmer,Nadiad,38,2025-09-25
+C1860,Retail farmer,Thasra,9,2025-09-25
+C1861,Retail farmer,Sevalia,18,2025-09-26
+C1862,Retail farmer,Sevalia,18,2025-09-26
+C1863,Wholesale / dealer,Dakor,12,2025-09-26
+C1864,Wholesale / dealer,Nadiad,38,2025-09-26
+C1865,Home gardener,Nadiad,38,2025-09-26
+C1866,Retail farmer,Balasinor,28,2025-09-26
+C1867,Retail farmer,Kathlal,35,2025-09-26
+C1868,Wholesale / dealer,Nadiad,38,2025-09-26
+C1869,Retail farmer,Umreth,22,2025-09-27
+C1870,Retail farmer,Umreth,22,2025-09-27
+C1871,Retail farmer,Kathlal,35,2025-09-27
+C1872,Retail farmer,Anand,42,2025-09-27
+C1873,Retail farmer,Mithapura,1,2025-09-27
+C1874,Retail farmer,Thasra,9,2025-09-27
+C1875,Wholesale / dealer,Mahudha,30,2025-09-27
+C1876,Retail farmer,Thasra,9,2025-09-28
+C1877,Retail farmer,Kapadvanj,40,2025-09-28
+C1878,Retail farmer,Mahudha,30,2025-09-28
+C1879,Retail farmer,Balasinor,28,2025-09-28
+C1880,Retail farmer,Umreth,22,2025-09-29
+C1881,Wholesale / dealer,Umreth,22,2025-09-29
+C1882,Retail farmer,Jesapura,1,2025-09-29
+C1883,Retail farmer,Umreth,22,2025-09-29
+C1884,Wholesale / dealer,Dakor,12,2025-09-29
+C1885,Retail farmer,Anand,42,2025-09-29
+C1886,Retail farmer,Mithapura,1,2025-09-29
+C1887,Home gardener,Mithapura,1,2025-09-30
+C1888,Retail farmer,Umreth,22,2025-09-30
+C1889,Wholesale / dealer,Mahudha,30,2025-09-30
+C1890,Retail farmer,Dakor,12,2025-10-01
+C1891,Retail farmer,Mahudha,30,2025-10-01
+C1892,Retail farmer,Kathlal,35,2025-10-01
+C1893,Retail farmer,Mithapura,1,2025-10-01
+C1894,Retail farmer,Nadiad,38,2025-10-02
+C1895,Wholesale / dealer,Jesapura,1,2025-10-02
+C1896,Retail farmer,Balasinor,28,2025-10-02
+C1897,Retail farmer,Thasra,9,2025-10-02
+C1898,Retail farmer,Nadiad,38,2025-10-03
+C1899,Retail farmer,Kathlal,35,2025-10-03
+C1900,Retail farmer,Dakor,12,2025-10-03
+C1901,Retail farmer,Kathlal,35,2025-10-03
+C1902,Retail farmer,Thasra,9,2025-10-03
+C1903,Retail farmer,Nadiad,38,2025-10-03
+C1904,Retail farmer,Kapadvanj,40,2025-10-03
+C1905,Retail farmer,Kapadvanj,40,2025-10-04
+C1906,Retail farmer,Anand,42,2025-10-05
+C1907,Retail farmer,Sevalia,18,2025-10-05
+C1908,Home gardener,Umreth,22,2025-10-06
+C1909,Retail farmer,Kapadvanj,40,2025-10-06
+C1910,Retail farmer,Kathlal,35,2025-10-06
+C1911,Retail farmer,Umreth,22,2025-10-06
+C1912,Retail farmer,Nadiad,38,2025-10-07
+C1913,Retail farmer,Mahudha,30,2025-10-07
+C1914,Retail farmer,Dakor,12,2025-10-07
+C1915,Retail farmer,Nadiad,38,2025-10-08
+C1916,Retail farmer,Sevalia,18,2025-10-08
+C1917,Retail farmer,Umreth,22,2025-10-08
+C1918,Retail farmer,Kapadvanj,40,2025-10-08
+C1919,Retail farmer,Anand,42,2025-10-08
+C1920,Home gardener,Thasra,9,2025-10-09
+C1921,Retail farmer,Jesapura,1,2025-10-09
+C1922,Retail farmer,Sevalia,18,2025-10-10
+C1923,Retail farmer,Umreth,22,2025-10-10
+C1924,Home gardener,Anand,42,2025-10-10
+C1925,Home gardener,Balasinor,28,2025-10-11
+C1926,Retail farmer,Thasra,9,2025-10-11
+C1927,Retail farmer,Nadiad,38,2025-10-11
+C1928,Retail farmer,Thasra,9,2025-10-12
+C1929,Wholesale / dealer,Umreth,22,2025-10-12
+C1930,Retail farmer,Thasra,9,2025-10-12
+C1931,Retail farmer,Dakor,12,2025-10-12
+C1932,Retail farmer,Nadiad,38,2025-10-12
+C1933,Wholesale / dealer,Dakor,12,2025-10-13
+C1934,Retail farmer,Mithapura,1,2025-10-13
+C1935,Retail farmer,Mahudha,30,2025-10-14
+C1936,Retail farmer,Umreth,22,2025-10-14
+C1937,Retail farmer,Umreth,22,2025-10-14
+C1938,Retail farmer,Nadiad,38,2025-10-15
+C1939,Retail farmer,Kapadvanj,40,2025-10-16
+C1940,Retail farmer,Anand,42,2025-10-16
+C1941,Retail farmer,Kathlal,35,2025-10-16
+C1942,Retail farmer,Anand,42,2025-10-16
+C1943,Retail farmer,Thasra,9,2025-10-17
+C1944,Retail farmer,Anand,42,2025-10-17
+C1945,Retail farmer,Thasra,9,2025-10-17
+C1946,Retail farmer,Sevalia,18,2025-10-17
+C1947,Retail farmer,Thasra,9,2025-10-17
+C1948,Retail farmer,Thasra,9,2025-10-17
+C1949,Retail farmer,Mithapura,1,2025-10-17
+C1950,Home gardener,Thasra,9,2025-10-17
+C1951,Retail farmer,Nadiad,38,2025-10-17
+C1952,Retail farmer,Nadiad,38,2025-10-17
+C1953,Retail farmer,Thasra,9,2025-10-18
+C1954,Retail farmer,Kapadvanj,40,2025-10-18
+C1955,Retail farmer,Sevalia,18,2025-10-19
+C1956,Retail farmer,Kathlal,35,2025-10-19
+C1957,Retail farmer,Balasinor,28,2025-10-19
+C1958,Retail farmer,Mahudha,30,2025-10-20
+C1959,Retail farmer,Mithapura,1,2025-10-20
+C1960,Retail farmer,Umreth,22,2025-10-20
+C1961,Retail farmer,Dakor,12,2025-10-20
+C1962,Retail farmer,Balasinor,28,2025-10-20
+C1963,Home gardener,Kathlal,35,2025-10-20
+C1964,Retail farmer,Sevalia,18,2025-10-20
+C1965,Retail farmer,Thasra,9,2025-10-20
+C1966,Retail farmer,Umreth,22,2025-10-21
+C1967,Home gardener,Balasinor,28,2025-10-21
+C1968,Retail farmer,Thasra,9,2025-10-21
+C1969,Retail farmer,Mithapura,1,2025-10-21
+C1970,Retail farmer,Dakor,12,2025-10-21
+C1971,Retail farmer,Jesapura,1,2025-10-22
+C1972,Wholesale / dealer,Mithapura,1,2025-10-22
+C1973,Retail farmer,Dakor,12,2025-10-22
+C1974,Retail farmer,Thasra,9,2025-10-22
+C1975,Wholesale / dealer,Jesapura,1,2025-10-22
+C1976,Retail farmer,Anand,42,2025-10-23
+C1977,Wholesale / dealer,Anand,42,2025-10-23
+C1978,Retail farmer,Jesapura,1,2025-10-23
+C1979,Retail farmer,Jesapura,1,2025-10-23
+C1980,Retail farmer,Nadiad,38,2025-10-23
+C1981,Home gardener,Mithapura,1,2025-10-24
+C1982,Retail farmer,Sevalia,18,2025-10-24
+C1983,Home gardener,Jesapura,1,2025-10-25
+C1984,Retail farmer,Kathlal,35,2025-10-26
+C1985,Home gardener,Thasra,9,2025-10-26
+C1986,Retail farmer,Thasra,9,2025-10-26
+C1987,Retail farmer,Sevalia,18,2025-10-27
+C1988,Retail farmer,Balasinor,28,2025-10-28
+C1989,Retail farmer,Jesapura,1,2025-10-28
+C1990,Retail farmer,Kathlal,35,2025-10-28
+C1991,Retail farmer,Kapadvanj,40,2025-10-28
+C1992,Retail farmer,Dakor,12,2025-10-28
+C1993,Retail farmer,Umreth,22,2025-10-29
+C1994,Retail farmer,Dakor,12,2025-10-29
+C1995,Retail farmer,Nadiad,38,2025-10-29
+C1996,Retail farmer,Jesapura,1,2025-10-30
+C1997,Retail farmer,Sevalia,18,2025-10-31
+C1998,Home gardener,Dakor,12,2025-10-31
+C1999,Retail farmer,Umreth,22,2025-10-31
+C2000,Retail farmer,Anand,42,2025-11-02
+C2001,Retail farmer,Umreth,22,2025-11-02
+C2002,Retail farmer,Mithapura,1,2025-11-02
+C2003,Retail farmer,Dakor,12,2025-11-03
+C2004,Home gardener,Mithapura,1,2025-11-03
+C2005,Retail farmer,Sevalia,18,2025-11-03
+C2006,Retail farmer,Anand,42,2025-11-04
+C2007,Retail farmer,Dakor,12,2025-11-04
+C2008,Retail farmer,Dakor,12,2025-11-05
+C2009,Retail farmer,Anand,42,2025-11-05
+C2010,Retail farmer,Mithapura,1,2025-11-06
+C2011,Retail farmer,Mahudha,30,2025-11-06
+C2012,Retail farmer,Thasra,9,2025-11-07
+C2013,Retail farmer,Balasinor,28,2025-11-07
+C2014,Retail farmer,Umreth,22,2025-11-07
+C2015,Retail farmer,Umreth,22,2025-11-07
+C2016,Retail farmer,Dakor,12,2025-11-08
+C2017,Retail farmer,Sevalia,18,2025-11-08
+C2018,Retail farmer,Jesapura,1,2025-11-09
+C2019,Retail farmer,Nadiad,38,2025-11-09
+C2020,Retail farmer,Jesapura,1,2025-11-09
+C2021,Retail farmer,Nadiad,38,2025-11-10
+C2022,Home gardener,Anand,42,2025-11-10
+C2023,Wholesale / dealer,Thasra,9,2025-11-10
+C2024,Retail farmer,Mahudha,30,2025-11-11
+C2025,Retail farmer,Mithapura,1,2025-11-12
+C2026,Home gardener,Thasra,9,2025-11-12
+C2027,Retail farmer,Sevalia,18,2025-11-12
+C2028,Retail farmer,Thasra,9,2025-11-12
+C2029,Retail farmer,Nadiad,38,2025-11-13
+C2030,Retail farmer,Thasra,9,2025-11-13
+C2031,Retail farmer,Jesapura,1,2025-11-13
+C2032,Retail farmer,Umreth,22,2025-11-14
+C2033,Retail farmer,Mithapura,1,2025-11-15
+C2034,Wholesale / dealer,Sevalia,18,2025-11-15
+C2035,Retail farmer,Nadiad,38,2025-11-15
+C2036,Home gardener,Umreth,22,2025-11-17
+C2037,Retail farmer,Dakor,12,2025-11-17
+C2038,Retail farmer,Jesapura,1,2025-11-17
+C2039,Retail farmer,Dakor,12,2025-11-18
+C2040,Retail farmer,Dakor,12,2025-11-18
+C2041,Retail farmer,Kapadvanj,40,2025-11-19
+C2042,Retail farmer,Kathlal,35,2025-11-21
+C2043,Retail farmer,Dakor,12,2025-11-21
+C2044,Retail farmer,Mahudha,30,2025-11-21
+C2045,Retail farmer,Dakor,12,2025-11-24
+C2046,Home gardener,Dakor,12,2025-11-24
+C2047,Retail farmer,Kapadvanj,40,2025-11-24
+C2048,Wholesale / dealer,Dakor,12,2025-11-25
+C2049,Home gardener,Mithapura,1,2025-11-25
+C2050,Home gardener,Dakor,12,2025-11-25
+C2051,Wholesale / dealer,Sevalia,18,2025-11-26
+C2052,Retail farmer,Thasra,9,2025-11-27
+C2053,Home gardener,Thasra,9,2025-11-27
+C2054,Retail farmer,Dakor,12,2025-11-27
+C2055,Wholesale / dealer,Mithapura,1,2025-11-28
+C2056,Retail farmer,Dakor,12,2025-11-28
+C2057,Retail farmer,Sevalia,18,2025-11-28
+C2058,Retail farmer,Thasra,9,2025-11-29
+C2059,Retail farmer,Mithapura,1,2025-11-29
+C2060,Retail farmer,Umreth,22,2025-11-30
+C2061,Retail farmer,Mithapura,1,2025-11-30
+C2062,Wholesale / dealer,Umreth,22,2025-11-30
+C2063,Retail farmer,Thasra,9,2025-12-01
+C2064,Retail farmer,Thasra,9,2025-12-01
+C2065,Retail farmer,Jesapura,1,2025-12-03
+C2066,Home gardener,Umreth,22,2025-12-04
+C2067,Retail farmer,Sevalia,18,2025-12-06
+C2068,Retail farmer,Umreth,22,2025-12-07
+C2069,Retail farmer,Mahudha,30,2025-12-07
+C2070,Retail farmer,Kapadvanj,40,2025-12-07
+C2071,Home gardener,Dakor,12,2025-12-08
+C2072,Retail farmer,Thasra,9,2025-12-09
+C2073,Home gardener,Dakor,12,2025-12-09
+C2074,Retail farmer,Thasra,9,2025-12-11
+C2075,Retail farmer,Jesapura,1,2025-12-11
+C2076,Wholesale / dealer,Jesapura,1,2025-12-13
+C2077,Retail farmer,Anand,42,2025-12-13
+C2078,Retail farmer,Nadiad,38,2025-12-16
+C2079,Retail farmer,Jesapura,1,2025-12-17
+C2080,Retail farmer,Dakor,12,2025-12-17
+C2081,Retail farmer,Dakor,12,2025-12-17
+C2082,Retail farmer,Mithapura,1,2025-12-17
+C2083,Wholesale / dealer,Balasinor,28,2025-12-17
+C2084,Retail farmer,Anand,42,2025-12-17
+C2085,Wholesale / dealer,Kathlal,35,2025-12-17
+C2086,Retail farmer,Mahudha,30,2025-12-17
+C2087,Home gardener,Anand,42,2025-12-17
+C2088,Retail farmer,Dakor,12,2025-12-18
+C2089,Retail farmer,Mahudha,30,2025-12-19
+C2090,Retail farmer,Dakor,12,2025-12-20
+C2091,Retail farmer,Mithapura,1,2025-12-20
+C2092,Retail farmer,Dakor,12,2025-12-21
+C2093,Retail farmer,Kapadvanj,40,2025-12-21
+C2094,Retail farmer,Sevalia,18,2025-12-22
+C2095,Retail farmer,Mithapura,1,2025-12-23
+C2096,Retail farmer,Jesapura,1,2025-12-24
+C2097,Retail farmer,Balasinor,28,2025-12-25
+C2098,Retail farmer,Dakor,12,2025-12-26
+C2099,Retail farmer,Dakor,12,2025-12-28
+C2100,Home gardener,Kapadvanj,40,2025-12-28
+C2101,Retail farmer,Mithapura,1,2025-12-31
+C2102,Wholesale / dealer,Kapadvanj,40,2025-12-31
+C2103,Wholesale / dealer,Jesapura,1,2026-01-01
+C2104,Wholesale / dealer,Dakor,12,2026-01-02
+C2105,Home gardener,Mithapura,1,2026-01-03
+C2106,Retail farmer,Mithapura,1,2026-01-04
+C2107,Retail farmer,Anand,42,2026-01-04
+C2108,Retail farmer,Mahudha,30,2026-01-06
+C2109,Retail farmer,Dakor,12,2026-01-06
+C2110,Retail farmer,Anand,42,2026-01-06
+C2111,Retail farmer,Balasinor,28,2026-01-07
+C2112,Retail farmer,Kapadvanj,40,2026-01-10
+C2113,Retail farmer,Kapadvanj,40,2026-01-10
+C2114,Retail farmer,Nadiad,38,2026-01-11
+C2115,Retail farmer,Sevalia,18,2026-01-12
+C2116,Wholesale / dealer,Sevalia,18,2026-01-14
+C2117,Retail farmer,Dakor,12,2026-01-15
+C2118,Retail farmer,Thasra,9,2026-01-15
+C2119,Wholesale / dealer,Nadiad,38,2026-01-16
+C2120,Retail farmer,Jesapura,1,2026-01-16
+C2121,Retail farmer,Mahudha,30,2026-01-17
+C2122,Retail farmer,Jesapura,1,2026-01-17
+C2123,Wholesale / dealer,Dakor,12,2026-01-18
+C2124,Retail farmer,Nadiad,38,2026-01-19
+C2125,Retail farmer,Thasra,9,2026-01-20
+C2126,Home gardener,Kathlal,35,2026-01-21
+C2127,Retail farmer,Anand,42,2026-01-22
+C2128,Retail farmer,Mithapura,1,2026-01-22
+C2129,Retail farmer,Kapadvanj,40,2026-01-24
+C2130,Home gardener,Jesapura,1,2026-01-24
+C2131,Retail farmer,Mahudha,30,2026-01-27
+C2132,Retail farmer,Kapadvanj,40,2026-01-27
+C2133,Retail farmer,Balasinor,28,2026-01-27
+C2134,Retail farmer,Mahudha,30,2026-01-28
+C2135,Retail farmer,Nadiad,38,2026-01-28
+C2136,Retail farmer,Kapadvanj,40,2026-01-28
+C2137,Wholesale / dealer,Umreth,22,2026-01-29
+C2138,Home gardener,Kathlal,35,2026-01-30
+C2139,Retail farmer,Nadiad,38,2026-01-31
+C2140,Retail farmer,Umreth,22,2026-01-31
+C2141,Retail farmer,Anand,42,2026-01-31
+C2142,Retail farmer,Umreth,22,2026-02-03
+C2143,Retail farmer,Mahudha,30,2026-02-03
+C2144,Retail farmer,Thasra,9,2026-02-04
+C2145,Retail farmer,Mithapura,1,2026-02-05
+C2146,Home gardener,Mithapura,1,2026-02-06
+C2147,Retail farmer,Kathlal,35,2026-02-06
+C2148,Retail farmer,Thasra,9,2026-02-07
+C2149,Retail farmer,Anand,42,2026-02-07
+C2150,Retail farmer,Umreth,22,2026-02-08
+C2151,Retail farmer,Jesapura,1,2026-02-09
+C2152,Retail farmer,Dakor,12,2026-02-11
+C2153,Retail farmer,Jesapura,1,2026-02-11
+C2154,Retail farmer,Jesapura,1,2026-02-13
+C2155,Retail farmer,Dakor,12,2026-02-14
+C2156,Retail farmer,Kathlal,35,2026-02-15
+C2157,Retail farmer,Mithapura,1,2026-02-15
+C2158,Retail farmer,Dakor,12,2026-02-16
+C2159,Retail farmer,Balasinor,28,2026-02-17
+C2160,Retail farmer,Thasra,9,2026-02-17
+C2161,Wholesale / dealer,Thasra,9,2026-02-18
+C2162,Retail farmer,Nadiad,38,2026-02-18
+C2163,Retail farmer,Kathlal,35,2026-02-19
+C2164,Wholesale / dealer,Sevalia,18,2026-02-19
+C2165,Retail farmer,Jesapura,1,2026-02-19
+C2166,Retail farmer,Nadiad,38,2026-02-21
+C2167,Retail farmer,Nadiad,38,2026-02-21
+C2168,Retail farmer,Anand,42,2026-02-22
+C2169,Home gardener,Thasra,9,2026-02-23
+C2170,Retail farmer,Thasra,9,2026-02-25
+C2171,Retail farmer,Mithapura,1,2026-02-25
+C2172,Retail farmer,Sevalia,18,2026-02-26
+C2173,Home gardener,Anand,42,2026-02-27
+C2174,Wholesale / dealer,Anand,42,2026-02-27
+C2175,Retail farmer,Sevalia,18,2026-03-01
+C2176,Retail farmer,Thasra,9,2026-03-02
+C2177,Wholesale / dealer,Balasinor,28,2026-03-03
+C2178,Wholesale / dealer,Dakor,12,2026-03-05
+C2179,Home gardener,Umreth,22,2026-03-05
+C2180,Retail farmer,Mithapura,1,2026-03-06
+C2181,Home gardener,Nadiad,38,2026-03-06
+C2182,Retail farmer,Jesapura,1,2026-03-06
+C2183,Retail farmer,Balasinor,28,2026-03-07
+C2184,Home gardener,Kathlal,35,2026-03-07
+C2185,Home gardener,Anand,42,2026-03-07
+C2186,Retail farmer,Umreth,22,2026-03-08
+C2187,Home gardener,Dakor,12,2026-03-08
+C2188,Wholesale / dealer,Balasinor,28,2026-03-08
+C2189,Home gardener,Thasra,9,2026-03-09
+C2190,Retail farmer,Mithapura,1,2026-03-10
+C2191,Retail farmer,Dakor,12,2026-03-11
+C2192,Retail farmer,Thasra,9,2026-03-11
+C2193,Retail farmer,Kathlal,35,2026-03-12
+C2194,Retail farmer,Umreth,22,2026-03-13
+C2195,Retail farmer,Anand,42,2026-03-13
+C2196,Retail farmer,Mithapura,1,2026-03-13
+C2197,Retail farmer,Umreth,22,2026-03-13
+C2198,Wholesale / dealer,Nadiad,38,2026-03-14
+C2199,Retail farmer,Sevalia,18,2026-03-14
+C2200,Retail farmer,Mithapura,1,2026-03-15
+C2201,Wholesale / dealer,Jesapura,1,2026-03-16
+C2202,Retail farmer,Dakor,12,2026-03-17
+C2203,Retail farmer,Dakor,12,2026-03-17
+C2204,Retail farmer,Jesapura,1,2026-03-17
+C2205,Home gardener,Dakor,12,2026-03-18
+C2206,Retail farmer,Balasinor,28,2026-03-18
+C2207,Retail farmer,Kathlal,35,2026-03-18
+C2208,Retail farmer,Umreth,22,2026-03-18
+C2209,Retail farmer,Nadiad,38,2026-03-21
+C2210,Retail farmer,Jesapura,1,2026-03-21
+C2211,Home gardener,Dakor,12,2026-03-22
+C2212,Retail farmer,Anand,42,2026-03-22
+C2213,Retail farmer,Dakor,12,2026-03-23
+C2214,Retail farmer,Anand,42,2026-03-23
+C2215,Retail farmer,Thasra,9,2026-03-24
+C2216,Wholesale / dealer,Balasinor,28,2026-03-24
+C2217,Retail farmer,Sevalia,18,2026-03-24
+C2218,Retail farmer,Jesapura,1,2026-03-26
+C2219,Retail farmer,Kathlal,35,2026-03-27
+C2220,Retail farmer,Nadiad,38,2026-03-27
+C2221,Retail farmer,Thasra,9,2026-03-28
+C2222,Home gardener,Dakor,12,2026-03-28
+C2223,Retail farmer,Dakor,12,2026-03-28
+C2224,Retail farmer,Mahudha,30,2026-03-29
+C2225,Retail farmer,Jesapura,1,2026-03-30
+C2226,Retail farmer,Thasra,9,2026-04-01
+C2227,Retail farmer,Mahudha,30,2026-04-01
+C2228,Retail farmer,Kathlal,35,2026-04-02
+C2229,Retail farmer,Nadiad,38,2026-04-03
+C2230,Retail farmer,Mithapura,1,2026-04-03
+C2231,Wholesale / dealer,Jesapura,1,2026-04-04
+C2232,Retail farmer,Kathlal,35,2026-04-04
+C2233,Retail farmer,Dakor,12,2026-04-04
+C2234,Retail farmer,Dakor,12,2026-04-05
+C2235,Retail farmer,Nadiad,38,2026-04-05
+C2236,Retail farmer,Mithapura,1,2026-04-05
+C2237,Retail farmer,Umreth,22,2026-04-09
+C2238,Home gardener,Anand,42,2026-04-09
+C2239,Wholesale / dealer,Thasra,9,2026-04-10
+C2240,Retail farmer,Dakor,12,2026-04-10
+C2241,Retail farmer,Balasinor,28,2026-04-10
+C2242,Home gardener,Anand,42,2026-04-11
+C2243,Retail farmer,Kapadvanj,40,2026-04-11
+C2244,Retail farmer,Mahudha,30,2026-04-12
+C2245,Retail farmer,Sevalia,18,2026-04-12
+C2246,Retail farmer,Thasra,9,2026-04-13
+C2247,Wholesale / dealer,Dakor,12,2026-04-13
+C2248,Retail farmer,Sevalia,18,2026-04-13
+C2249,Retail farmer,Jesapura,1,2026-04-14
+C2250,Wholesale / dealer,Kapadvanj,40,2026-04-14
+C2251,Retail farmer,Anand,42,2026-04-14
+C2252,Retail farmer,Mithapura,1,2026-04-15
+C2253,Retail farmer,Anand,42,2026-04-15
+C2254,Retail farmer,Kathlal,35,2026-04-16
+C2255,Home gardener,Kapadvanj,40,2026-04-19
+C2256,Retail farmer,Kapadvanj,40,2026-04-19
+C2257,Retail farmer,Dakor,12,2026-04-19
+C2258,Retail farmer,Mahudha,30,2026-04-20
+C2259,Retail farmer,Dakor,12,2026-04-20
+C2260,Retail farmer,Anand,42,2026-04-24
+C2261,Retail farmer,Kathlal,35,2026-04-25
+C2262,Retail farmer,Nadiad,38,2026-04-25
+C2263,Retail farmer,Thasra,9,2026-04-28
+C2264,Retail farmer,Dakor,12,2026-04-29
+C2265,Retail farmer,Mahudha,30,2026-04-30
+C2266,Retail farmer,Mithapura,1,2026-04-30
+C2267,Retail farmer,Kathlal,35,2026-05-01
+C2268,Retail farmer,Kapadvanj,40,2026-05-02
+C2269,Retail farmer,Thasra,9,2026-05-03
+C2270,Retail farmer,Nadiad,38,2026-05-03
+C2271,Retail farmer,Dakor,12,2026-05-03
+C2272,Retail farmer,Kathlal,35,2026-05-04
+C2273,Retail farmer,Umreth,22,2026-05-04
+C2274,Retail farmer,Sevalia,18,2026-05-05
+C2275,Retail farmer,Anand,42,2026-05-05
+C2276,Retail farmer,Dakor,12,2026-05-07
+C2277,Retail farmer,Mithapura,1,2026-05-07
+C2278,Retail farmer,Anand,42,2026-05-08
+C2279,Retail farmer,Anand,42,2026-05-09
+C2280,Retail farmer,Kathlal,35,2026-05-09
+C2281,Retail farmer,Kathlal,35,2026-05-10
+C2282,Retail farmer,Umreth,22,2026-05-10
+C2283,Home gardener,Umreth,22,2026-05-11
+C2284,Home gardener,Nadiad,38,2026-05-12
+C2285,Retail farmer,Kathlal,35,2026-05-12
+C2286,Retail farmer,Sevalia,18,2026-05-12
+C2287,Retail farmer,Kapadvanj,40,2026-05-13
+C2288,Retail farmer,Kapadvanj,40,2026-05-14
+C2289,Home gardener,Anand,42,2026-05-14
+C2290,Retail farmer,Nadiad,38,2026-05-15
+C2291,Retail farmer,Nadiad,38,2026-05-15
+C2292,Home gardener,Anand,42,2026-05-15
+C2293,Retail farmer,Nadiad,38,2026-05-16
+C2294,Wholesale / dealer,Umreth,22,2026-05-16
+C2295,Retail farmer,Sevalia,18,2026-05-16
+C2296,Wholesale / dealer,Anand,42,2026-05-18
+C2297,Retail farmer,Balasinor,28,2026-05-18
+C2298,Retail farmer,Dakor,12,2026-05-19
+C2299,Wholesale / dealer,Sevalia,18,2026-05-19
+C2300,Retail farmer,Balasinor,28,2026-05-20
+C2301,Retail farmer,Dakor,12,2026-05-20
+C2302,Retail farmer,Thasra,9,2026-05-21
+C2303,Retail farmer,Thasra,9,2026-05-22
+C2304,Retail farmer,Jesapura,1,2026-05-23
+C2305,Retail farmer,Kapadvanj,40,2026-05-23
+C2306,Retail farmer,Balasinor,28,2026-05-23
+C2307,Retail farmer,Mithapura,1,2026-05-23
+C2308,Retail farmer,Jesapura,1,2026-05-23
+C2309,Retail farmer,Anand,42,2026-05-24
+C2310,Retail farmer,Kathlal,35,2026-05-24
+C2311,Retail farmer,Jesapura,1,2026-05-24
+C2312,Retail farmer,Sevalia,18,2026-05-24
+C2313,Retail farmer,Balasinor,28,2026-05-25
+C2314,Retail farmer,Dakor,12,2026-05-25
+C2315,Retail farmer,Mithapura,1,2026-05-26
+C2316,Retail farmer,Umreth,22,2026-05-27
+C2317,Retail farmer,Thasra,9,2026-05-28
+C2318,Retail farmer,Kathlal,35,2026-05-28
+C2319,Retail farmer,Jesapura,1,2026-05-29
+C2320,Retail farmer,Kapadvanj,40,2026-05-29
+C2321,Retail farmer,Nadiad,38,2026-05-29
+C2322,Home gardener,Balasinor,28,2026-05-30
+C2323,Retail farmer,Mithapura,1,2026-05-31
+C2324,Retail farmer,Jesapura,1,2026-06-01
+C2325,Retail farmer,Mithapura,1,2026-06-02
+C2326,Retail farmer,Anand,42,2026-06-02
+C2327,Retail farmer,Dakor,12,2026-06-02
+C2328,Retail farmer,Kathlal,35,2026-06-02
+C2329,Retail farmer,Kapadvanj,40,2026-06-03
+C2330,Retail farmer,Kapadvanj,40,2026-06-03
+C2331,Retail farmer,Kapadvanj,40,2026-06-03
+C2332,Retail farmer,Dakor,12,2026-06-03
+C2333,Retail farmer,Kapadvanj,40,2026-06-03
+C2334,Retail farmer,Kapadvanj,40,2026-06-04
+C2335,Retail farmer,Balasinor,28,2026-06-04
+C2336,Retail farmer,Mahudha,30,2026-06-04
+C2337,Retail farmer,Dakor,12,2026-06-04
+C2338,Retail farmer,Jesapura,1,2026-06-04
+C2339,Retail farmer,Thasra,9,2026-06-04
+C2340,Wholesale / dealer,Kapadvanj,40,2026-06-05
+C2341,Retail farmer,Jesapura,1,2026-06-05
+C2342,Retail farmer,Mithapura,1,2026-06-05
+C2343,Retail farmer,Mithapura,1,2026-06-05
+C2344,Retail farmer,Thasra,9,2026-06-05
+C2345,Retail farmer,Mithapura,1,2026-06-06
+C2346,Retail farmer,Dakor,12,2026-06-07
+C2347,Home gardener,Umreth,22,2026-06-07
+C2348,Retail farmer,Nadiad,38,2026-06-07
+C2349,Retail farmer,Nadiad,38,2026-06-07
+C2350,Retail farmer,Thasra,9,2026-06-07
+C2351,Home gardener,Kathlal,35,2026-06-07
+C2352,Retail farmer,Thasra,9,2026-06-08
+C2353,Retail farmer,Kapadvanj,40,2026-06-08
+C2354,Wholesale / dealer,Balasinor,28,2026-06-08
+C2355,Retail farmer,Nadiad,38,2026-06-08
+C2356,Home gardener,Thasra,9,2026-06-08
+C2357,Retail farmer,Mithapura,1,2026-06-08
+C2358,Wholesale / dealer,Mahudha,30,2026-06-08
+C2359,Retail farmer,Thasra,9,2026-06-09
+C2360,Retail farmer,Mahudha,30,2026-06-09
+C2361,Retail farmer,Sevalia,18,2026-06-09
+C2362,Retail farmer,Umreth,22,2026-06-09
+C2363,Wholesale / dealer,Kathlal,35,2026-06-10
+C2364,Retail farmer,Mithapura,1,2026-06-10
+C2365,Home gardener,Dakor,12,2026-06-10
+C2366,Retail farmer,Balasinor,28,2026-06-10
+C2367,Retail farmer,Kathlal,35,2026-06-10
+C2368,Home gardener,Kathlal,35,2026-06-10
+C2369,Retail farmer,Balasinor,28,2026-06-10
+C2370,Home gardener,Kathlal,35,2026-06-10
+C2371,Home gardener,Umreth,22,2026-06-11
+C2372,Retail farmer,Dakor,12,2026-06-11
+C2373,Retail farmer,Anand,42,2026-06-11
+C2374,Retail farmer,Mithapura,1,2026-06-12
+C2375,Retail farmer,Mahudha,30,2026-06-12
+C2376,Wholesale / dealer,Balasinor,28,2026-06-12
+C2377,Retail farmer,Balasinor,28,2026-06-12
+C2378,Retail farmer,Kapadvanj,40,2026-06-12
+C2379,Retail farmer,Sevalia,18,2026-06-12
+C2380,Retail farmer,Sevalia,18,2026-06-12
+C2381,Retail farmer,Sevalia,18,2026-06-12
+C2382,Retail farmer,Dakor,12,2026-06-13
+C2383,Retail farmer,Sevalia,18,2026-06-13
+C2384,Retail farmer,Anand,42,2026-06-13
+C2385,Retail farmer,Kapadvanj,40,2026-06-13
+C2386,Retail farmer,Umreth,22,2026-06-13
+C2387,Retail farmer,Nadiad,38,2026-06-13
+C2388,Retail farmer,Kapadvanj,40,2026-06-14
+C2389,Retail farmer,Mahudha,30,2026-06-14
+C2390,Wholesale / dealer,Thasra,9,2026-06-14
+C2391,Retail farmer,Jesapura,1,2026-06-14
+C2392,Retail farmer,Nadiad,38,2026-06-14
+C2393,Retail farmer,Dakor,12,2026-06-14
+C2394,Retail farmer,Mahudha,30,2026-06-14
+C2395,Retail farmer,Sevalia,18,2026-06-14
+C2396,Home gardener,Nadiad,38,2026-06-14
+C2397,Retail farmer,Nadiad,38,2026-06-15
+C2398,Retail farmer,Dakor,12,2026-06-15
+C2399,Retail farmer,Jesapura,1,2026-06-15
+C2400,Retail farmer,Dakor,12,2026-06-15
+C2401,Retail farmer,Thasra,9,2026-06-15
+C2402,Retail farmer,Mahudha,30,2026-06-15
+C2403,Retail farmer,Nadiad,38,2026-06-15
+C2404,Retail farmer,Jesapura,1,2026-06-15
+C2405,Retail farmer,Nadiad,38,2026-06-15
+C2406,Retail farmer,Mahudha,30,2026-06-15
+C2407,Retail farmer,Umreth,22,2026-06-15
+C2408,Retail farmer,Thasra,9,2026-06-15
+C2409,Retail farmer,Thasra,9,2026-06-15
+C2410,Retail farmer,Kathlal,35,2026-06-15
+C2411,Home gardener,Umreth,22,2026-06-16
+C2412,Retail farmer,Nadiad,38,2026-06-16
+C2413,Retail farmer,Thasra,9,2026-06-16
+C2414,Retail farmer,Nadiad,38,2026-06-16
+C2415,Retail farmer,Balasinor,28,2026-06-17
+C2416,Retail farmer,Nadiad,38,2026-06-17
+C2417,Wholesale / dealer,Kapadvanj,40,2026-06-17
+C2418,Retail farmer,Anand,42,2026-06-17
+C2419,Home gardener,Dakor,12,2026-06-18
+C2420,Retail farmer,Anand,42,2026-06-18
+C2421,Retail farmer,Nadiad,38,2026-06-19
+C2422,Retail farmer,Anand,42,2026-06-19
+C2423,Retail farmer,Thasra,9,2026-06-19
+C2424,Retail farmer,Kathlal,35,2026-06-19
+C2425,Retail farmer,Umreth,22,2026-06-20
+C2426,Wholesale / dealer,Umreth,22,2026-06-20
+C2427,Home gardener,Dakor,12,2026-06-20
+C2428,Home gardener,Mahudha,30,2026-06-20
+C2429,Retail farmer,Dakor,12,2026-06-20
+C2430,Wholesale / dealer,Mahudha,30,2026-06-21
+C2431,Retail farmer,Mahudha,30,2026-06-21
+C2432,Wholesale / dealer,Balasinor,28,2026-06-21
+C2433,Retail farmer,Nadiad,38,2026-06-21
+C2434,Retail farmer,Umreth,22,2026-06-22
+C2435,Retail farmer,Umreth,22,2026-06-22
+C2436,Retail farmer,Nadiad,38,2026-06-22
+C2437,Retail farmer,Kathlal,35,2026-06-22
+C2438,Retail farmer,Kapadvanj,40,2026-06-23
+C2439,Retail farmer,Mahudha,30,2026-06-23
+C2440,Retail farmer,Kathlal,35,2026-06-23
+C2441,Home gardener,Anand,42,2026-06-23
+C2442,Retail farmer,Umreth,22,2026-06-23
+C2443,Retail farmer,Anand,42,2026-06-23
+C2444,Retail farmer,Nadiad,38,2026-06-24
+C2445,Retail farmer,Sevalia,18,2026-06-24
+C2446,Retail farmer,Sevalia,18,2026-06-24
+C2447,Retail farmer,Mithapura,1,2026-06-24
+C2448,Home gardener,Dakor,12,2026-06-24
+C2449,Retail farmer,Mithapura,1,2026-06-24
+C2450,Retail farmer,Dakor,12,2026-06-24
+C2451,Retail farmer,Mahudha,30,2026-06-25
+C2452,Home gardener,Thasra,9,2026-06-25
+C2453,Wholesale / dealer,Umreth,22,2026-06-26
+C2454,Retail farmer,Balasinor,28,2026-06-26
+C2455,Retail farmer,Anand,42,2026-06-27
+C2456,Wholesale / dealer,Thasra,9,2026-06-27
+C2457,Home gardener,Kapadvanj,40,2026-06-27
+C2458,Retail farmer,Anand,42,2026-06-27
+C2459,Retail farmer,Dakor,12,2026-06-28
+C2460,Retail farmer,Kathlal,35,2026-06-28
+C2461,Retail farmer,Sevalia,18,2026-06-28
+C2462,Retail farmer,Kapadvanj,40,2026-06-28
+C2463,Wholesale / dealer,Kathlal,35,2026-06-28
+C2464,Retail farmer,Umreth,22,2026-06-28
+C2465,Home gardener,Thasra,9,2026-06-29
+C2466,Wholesale / dealer,Nadiad,38,2026-06-29
+C2467,Retail farmer,Thasra,9,2026-06-29
+C2468,Home gardener,Mahudha,30,2026-06-29
+C2469,Home gardener,Mithapura,1,2026-06-30
+C2470,Wholesale / dealer,Nadiad,38,2026-06-30
+C2471,Home gardener,Thasra,9,2026-06-30
+C2472,Home gardener,Jesapura,1,2026-06-30
+C2473,Retail farmer,Jesapura,1,2026-06-30
+C2474,Wholesale / dealer,Mithapura,1,2026-06-30
+C2475,Wholesale / dealer,Nadiad,38,2026-07-01
+C2476,Home gardener,Mahudha,30,2026-07-01
+C2477,Retail farmer,Dakor,12,2026-07-01
+C2478,Home gardener,Mithapura,1,2026-07-01
+C2479,Retail farmer,Thasra,9,2026-07-01
+C2480,Retail farmer,Anand,42,2026-07-01
+C2481,Retail farmer,Jesapura,1,2026-07-02
+C2482,Retail farmer,Mahudha,30,2026-07-02
+C2483,Retail farmer,Sevalia,18,2026-07-02
+C2484,Wholesale / dealer,Umreth,22,2026-07-02
+C2485,Retail farmer,Balasinor,28,2026-07-02
+C2486,Retail farmer,Mahudha,30,2026-07-02
+C2487,Wholesale / dealer,Balasinor,28,2026-07-02
+C2488,Retail farmer,Anand,42,2026-07-03
+C2489,Retail farmer,Kathlal,35,2026-07-03
+C2490,Retail farmer,Balasinor,28,2026-07-03
+C2491,Wholesale / dealer,Kapadvanj,40,2026-07-03
+C2492,Retail farmer,Mithapura,1,2026-07-03
+C2493,Retail farmer,Mahudha,30,2026-07-03
+C2494,Wholesale / dealer,Thasra,9,2026-07-03
+C2495,Retail farmer,Kapadvanj,40,2026-07-03
+C2496,Retail farmer,Anand,42,2026-07-04
+C2497,Retail farmer,Umreth,22,2026-07-04
+C2498,Retail farmer,Umreth,22,2026-07-04
+C2499,Retail farmer,Mahudha,30,2026-07-04
+C2500,Retail farmer,Mahudha,30,2026-07-04
+C2501,Retail farmer,Nadiad,38,2026-07-04
+C2502,Retail farmer,Jesapura,1,2026-07-04
+C2503,Retail farmer,Dakor,12,2026-07-05
+C2504,Retail farmer,Thasra,9,2026-07-05
+C2505,Retail farmer,Thasra,9,2026-07-05
+C2506,Retail farmer,Mahudha,30,2026-07-05
+C2507,Retail farmer,Balasinor,28,2026-07-05
+C2508,Retail farmer,Kathlal,35,2026-07-05
+C2509,Retail farmer,Sevalia,18,2026-07-06
+C2510,Retail farmer,Kathlal,35,2026-07-06
+C2511,Retail farmer,Mithapura,1,2026-07-06
+C2512,Wholesale / dealer,Mahudha,30,2026-07-06
+C2513,Wholesale / dealer,Balasinor,28,2026-07-06
+C2514,Retail farmer,Mithapura,1,2026-07-07
+C2515,Wholesale / dealer,Mahudha,30,2026-07-07
+C2516,Retail farmer,Umreth,22,2026-07-07
+C2517,Retail farmer,Thasra,9,2026-07-07
+C2518,Retail farmer,Kathlal,35,2026-07-07
+C2519,Wholesale / dealer,Dakor,12,2026-07-07
+C2520,Retail farmer,Thasra,9,2026-07-07
+C2521,Retail farmer,Kapadvanj,40,2026-07-08
+C2522,Retail farmer,Nadiad,38,2026-07-08
+C2523,Retail farmer,Anand,42,2026-07-08
+C2524,Wholesale / dealer,Nadiad,38,2026-07-08
+C2525,Retail farmer,Mithapura,1,2026-07-08
+C2526,Retail farmer,Mithapura,1,2026-07-08
+C2527,Wholesale / dealer,Nadiad,38,2026-07-08
+C2528,Retail farmer,Umreth,22,2026-07-09
+C2529,Retail farmer,Anand,42,2026-07-09
+C2530,Retail farmer,Dakor,12,2026-07-09
+C2531,Home gardener,Kathlal,35,2026-07-09
+C2532,Wholesale / dealer,Dakor,12,2026-07-09
+C2533,Retail farmer,Dakor,12,2026-07-09
+C2534,Retail farmer,Thasra,9,2026-07-09
+C2535,Home gardener,Kapadvanj,40,2026-07-09
+C2536,Retail farmer,Dakor,12,2026-07-09
+C2537,Retail farmer,Nadiad,38,2026-07-10
+C2538,Retail farmer,Kathlal,35,2026-07-10
+C2539,Retail farmer,Umreth,22,2026-07-10
+C2540,Retail farmer,Sevalia,18,2026-07-10
+C2541,Retail farmer,Thasra,9,2026-07-10
+C2542,Retail farmer,Umreth,22,2026-07-10
+C2543,Retail farmer,Dakor,12,2026-07-11
+C2544,Retail farmer,Mithapura,1,2026-07-11
+C2545,Retail farmer,Dakor,12,2026-07-11
+C2546,Wholesale / dealer,Dakor,12,2026-07-11
+C2547,Retail farmer,Jesapura,1,2026-07-11
+C2548,Home gardener,Mithapura,1,2026-07-12
+C2549,Retail farmer,Thasra,9,2026-07-12
+C2550,Retail farmer,Balasinor,28,2026-07-12
+C2551,Wholesale / dealer,Thasra,9,2026-07-12
+C2552,Retail farmer,Jesapura,1,2026-07-12
+C2553,Retail farmer,Kathlal,35,2026-07-12
+C2554,Retail farmer,Balasinor,28,2026-07-12
+C2555,Retail farmer,Kathlal,35,2026-07-12
+C2556,Retail farmer,Mithapura,1,2026-07-12
+C2557,Retail farmer,Nadiad,38,2026-07-13
+C2558,Retail farmer,Kathlal,35,2026-07-13
+C2559,Retail farmer,Mahudha,30,2026-07-13
+C2560,Retail farmer,Dakor,12,2026-07-13
+C2561,Retail farmer,Thasra,9,2026-07-13
+C2562,Home gardener,Mithapura,1,2026-07-13
+C2563,Retail farmer,Anand,42,2026-07-13
+C2564,Retail farmer,Dakor,12,2026-07-14
+C2565,Retail farmer,Nadiad,38,2026-07-14
+C2566,Retail farmer,Mithapura,1,2026-07-14
+C2567,Retail farmer,Anand,42,2026-07-14
+C2568,Retail farmer,Umreth,22,2026-07-14
+C2569,Retail farmer,Thasra,9,2026-07-14
+C2570,Retail farmer,Mithapura,1,2026-07-14
+C2571,Retail farmer,Dakor,12,2026-07-14
+C2572,Retail farmer,Mithapura,1,2026-07-15
+C2573,Retail farmer,Mithapura,1,2026-07-15
+C2574,Retail farmer,Balasinor,28,2026-07-15
+C2575,Wholesale / dealer,Thasra,9,2026-07-15
+C2576,Retail farmer,Dakor,12,2026-07-15
+C2577,Retail farmer,Thasra,9,2026-07-15
+C2578,Retail farmer,Thasra,9,2026-07-15
+C2579,Retail farmer,Dakor,12,2026-07-16
+C2580,Retail farmer,Umreth,22,2026-07-17
+C2581,Retail farmer,Mahudha,30,2026-07-17
+C2582,Home gardener,Anand,42,2026-07-17
+C2583,Retail farmer,Kathlal,35,2026-07-17
+C2584,Retail farmer,Sevalia,18,2026-07-17
+C2585,Retail farmer,Jesapura,1,2026-07-18
+C2586,Retail farmer,Balasinor,28,2026-07-18
+C2587,Retail farmer,Kathlal,35,2026-07-18
+C2588,Retail farmer,Mahudha,30,2026-07-18
+C2589,Wholesale / dealer,Kathlal,35,2026-07-18
+C2590,Home gardener,Mithapura,1,2026-07-18
+C2591,Home gardener,Sevalia,18,2026-07-18
+C2592,Retail farmer,Nadiad,38,2026-07-19
+C2593,Retail farmer,Anand,42,2026-07-19
+C2594,Home gardener,Mithapura,1,2026-07-19
+C2595,Retail farmer,Sevalia,18,2026-07-19
+C2596,Retail farmer,Kapadvanj,40,2026-07-19
+C2597,Retail farmer,Thasra,9,2026-07-19
+C2598,Retail farmer,Thasra,9,2026-07-19
+C2599,Home gardener,Thasra,9,2026-07-19
+C2600,Home gardener,Dakor,12,2026-07-19
+C2601,Home gardener,Dakor,12,2026-07-19
+C2602,Retail farmer,Mithapura,1,2026-07-20
+C2603,Retail farmer,Sevalia,18,2026-07-20
+C2604,Retail farmer,Jesapura,1,2026-07-20
+C2605,Home gardener,Jesapura,1,2026-07-20
+C2606,Retail farmer,Mithapura,1,2026-07-20
+C2607,Retail farmer,Kathlal,35,2026-07-20
+C2608,Wholesale / dealer,Thasra,9,2026-07-20
+C2609,Retail farmer,Kathlal,35,2026-07-20
+C2610,Retail farmer,Sevalia,18,2026-07-20
+C2611,Wholesale / dealer,Sevalia,18,2026-07-21
+C2612,Home gardener,Thasra,9,2026-07-21
+C2613,Retail farmer,Nadiad,38,2026-07-21
+C2614,Home gardener,Nadiad,38,2026-07-21
+C2615,Retail farmer,Dakor,12,2026-07-21
+C2616,Retail farmer,Thasra,9,2026-07-22
+C2617,Wholesale / dealer,Nadiad,38,2026-07-22
+C2618,Retail farmer,Thasra,9,2026-07-22
+C2619,Retail farmer,Mithapura,1,2026-07-22
+C2620,Retail farmer,Jesapura,1,2026-07-22
+C2621,Retail farmer,Mithapura,1,2026-07-22
+C2622,Wholesale / dealer,Umreth,22,2026-07-22
+C2623,Home gardener,Sevalia,18,2026-07-23
+C2624,Wholesale / dealer,Balasinor,28,2026-07-23
+C2625,Retail farmer,Thasra,9,2026-07-23
+C2626,Retail farmer,Umreth,22,2026-07-23
+C2627,Retail farmer,Thasra,9,2026-07-23
+C2628,Retail farmer,Sevalia,18,2026-07-23
+C2629,Retail farmer,Umreth,22,2026-07-23
+C2630,Retail farmer,Mithapura,1,2026-07-23
+C2631,Retail farmer,Jesapura,1,2026-07-24
+C2632,Retail farmer,Sevalia,18,2026-07-24
+C2633,Wholesale / dealer,Nadiad,38,2026-07-24
+C2634,Retail farmer,Kathlal,35,2026-07-24
+C2635,Retail farmer,Kapadvanj,40,2026-07-24
+C2636,Retail farmer,Kapadvanj,40,2026-07-24
+C2637,Retail farmer,Mahudha,30,2026-07-24
+C2638,Retail farmer,Mahudha,30,2026-07-24
+C2639,Retail farmer,Mahudha,30,2026-07-24
+C2640,Retail farmer,Mithapura,1,2026-07-24
+C2641,Retail farmer,Sevalia,18,2026-07-25
+C2642,Retail farmer,Mithapura,1,2026-07-25
+C2643,Retail farmer,Kapadvanj,40,2026-07-25
+C2644,Retail farmer,Dakor,12,2026-07-25
+C2645,Wholesale / dealer,Anand,42,2026-07-25
+C2646,Home gardener,Thasra,9,2026-07-25
+C2647,Retail farmer,Jesapura,1,2026-07-25
+C2648,Home gardener,Thasra,9,2026-07-25
+C2649,Home gardener,Dakor,12,2026-07-25
+C2650,Retail farmer,Kapadvanj,40,2026-07-25
+C2651,Wholesale / dealer,Sevalia,18,2026-07-25
+C2652,Wholesale / dealer,Dakor,12,2026-07-25
+C2653,Retail farmer,Jesapura,1,2026-07-26
+C2654,Retail farmer,Mahudha,30,2026-07-26
+C2655,Home gardener,Thasra,9,2026-07-26
+C2656,Home gardener,Mahudha,30,2026-07-26
+C2657,Retail farmer,Nadiad,38,2026-07-27
+C2658,Retail farmer,Thasra,9,2026-07-27
+C2659,Retail farmer,Anand,42,2026-07-27
+C2660,Retail farmer,Jesapura,1,2026-07-27
+C2661,Retail farmer,Anand,42,2026-07-27
+C2662,Home gardener,Thasra,9,2026-07-27
+C2663,Retail farmer,Mithapura,1,2026-07-27
+C2664,Home gardener,Anand,42,2026-07-27
+C2665,Retail farmer,Mahudha,30,2026-07-27
+C2666,Retail farmer,Anand,42,2026-07-28
+C2667,Retail farmer,Mahudha,30,2026-07-28
+C2668,Retail farmer,Mahudha,30,2026-07-28
+C2669,Home gardener,Jesapura,1,2026-07-28
+C2670,Retail farmer,Nadiad,38,2026-07-28
+C2671,Retail farmer,Jesapura,1,2026-07-28
+C2672,Retail farmer,Umreth,22,2026-07-28
+C2673,Retail farmer,Thasra,9,2026-07-28
+C2674,Retail farmer,Sevalia,18,2026-07-29
+C2675,Retail farmer,Dakor,12,2026-07-29
+C2676,Retail farmer,Jesapura,1,2026-07-29
+C2677,Wholesale / dealer,Umreth,22,2026-07-29
+C2678,Retail farmer,Thasra,9,2026-07-29
+C2679,Retail farmer,Umreth,22,2026-07-29
+C2680,Retail farmer,Sevalia,18,2026-07-29
+C2681,Retail farmer,Dakor,12,2026-07-29
+C2682,Retail farmer,Kapadvanj,40,2026-07-29
+C2683,Retail farmer,Umreth,22,2026-07-29
+C2684,Home gardener,Sevalia,18,2026-07-29
+C2685,Retail farmer,Sevalia,18,2026-07-29
+C2686,Retail farmer,Mithapura,1,2026-07-29
+C2687,Retail farmer,Anand,42,2026-07-29
+C2688,Wholesale / dealer,Mahudha,30,2026-07-30
+C2689,Retail farmer,Jesapura,1,2026-07-30
+C2690,Retail farmer,Kathlal,35,2026-07-30
+C2691,Retail farmer,Thasra,9,2026-07-30
+C2692,Retail farmer,Umreth,22,2026-07-30
+C2693,Retail farmer,Mithapura,1,2026-07-30
+C2694,Retail farmer,Thasra,9,2026-07-30
+C2695,Retail farmer,Dakor,12,2026-07-30
+C2696,Retail farmer,Kapadvanj,40,2026-07-30
+C2697,Home gardener,Kathlal,35,2026-07-31
+C2698,Wholesale / dealer,Dakor,12,2026-07-31
+C2699,Retail farmer,Thasra,9,2026-07-31
+C2700,Retail farmer,Dakor,12,2026-07-31
+C2701,Retail farmer,Balasinor,28,2026-07-31
+C2702,Retail farmer,Kathlal,35,2026-07-31
+C2703,Wholesale / dealer,Thasra,9,2026-07-31
+C2704,Retail farmer,Sevalia,18,2026-07-31
+C2705,Home gardener,Nadiad,38,2026-07-31
+C2706,Retail farmer,Thasra,9,2026-07-31
+C2707,Retail farmer,Anand,42,2026-07-31
+C2708,Retail farmer,Thasra,9,2026-07-31
+C2709,Retail farmer,Balasinor,28,2026-08-01
+C2710,Retail farmer,Thasra,9,2026-08-01
+C2711,Retail farmer,Dakor,12,2026-08-01
+C2712,Retail farmer,Anand,42,2026-08-01
+C2713,Retail farmer,Mahudha,30,2026-08-01
+C2714,Retail farmer,Mithapura,1,2026-08-01
+C2715,Retail farmer,Jesapura,1,2026-08-01
+C2716,Retail farmer,Thasra,9,2026-08-01
+C2717,Retail farmer,Umreth,22,2026-08-01
+C2718,Retail farmer,Thasra,9,2026-08-01
+C2719,Retail farmer,Thasra,9,2026-08-01
+C2720,Retail farmer,Mithapura,1,2026-08-02
+C2721,Retail farmer,Sevalia,18,2026-08-02
+C2722,Retail farmer,Umreth,22,2026-08-02
+C2723,Retail farmer,Umreth,22,2026-08-02
+C2724,Home gardener,Dakor,12,2026-08-02
+C2725,Wholesale / dealer,Mithapura,1,2026-08-02
+C2726,Retail farmer,Dakor,12,2026-08-02
+C2727,Retail farmer,Dakor,12,2026-08-02
+C2728,Retail farmer,Anand,42,2026-08-02
+C2729,Home gardener,Nadiad,38,2026-08-02
+C2730,Retail farmer,Anand,42,2026-08-02
+C2731,Retail farmer,Umreth,22,2026-08-02
+C2732,Wholesale / dealer,Dakor,12,2026-08-02
+C2733,Retail farmer,Sevalia,18,2026-08-02
+C2734,Retail farmer,Mithapura,1,2026-08-03
+C2735,Retail farmer,Dakor,12,2026-08-03
+C2736,Retail farmer,Nadiad,38,2026-08-03
+C2737,Retail farmer,Jesapura,1,2026-08-03
+C2738,Retail farmer,Dakor,12,2026-08-03
+C2739,Retail farmer,Thasra,9,2026-08-03
+C2740,Retail farmer,Balasinor,28,2026-08-03
+C2741,Retail farmer,Balasinor,28,2026-08-03
+C2742,Retail farmer,Thasra,9,2026-08-03
+C2743,Retail farmer,Nadiad,38,2026-08-03
+C2744,Retail farmer,Umreth,22,2026-08-03
+C2745,Retail farmer,Kathlal,35,2026-08-03
+C2746,Retail farmer,Balasinor,28,2026-08-03
+C2747,Wholesale / dealer,Kapadvanj,40,2026-08-03
+C2748,Retail farmer,Kapadvanj,40,2026-08-03
+C2749,Retail farmer,Umreth,22,2026-08-03
+C2750,Retail farmer,Kapadvanj,40,2026-08-03
+C2751,Wholesale / dealer,Kathlal,35,2026-08-04
+C2752,Retail farmer,Kathlal,35,2026-08-04
+C2753,Retail farmer,Jesapura,1,2026-08-04
+C2754,Home gardener,Thasra,9,2026-08-04
+C2755,Retail farmer,Nadiad,38,2026-08-04
+C2756,Retail farmer,Anand,42,2026-08-04
+C2757,Retail farmer,Jesapura,1,2026-08-04
+C2758,Retail farmer,Kapadvanj,40,2026-08-04
+C2759,Retail farmer,Sevalia,18,2026-08-04
+C2760,Retail farmer,Sevalia,18,2026-08-04
+C2761,Retail farmer,Anand,42,2026-08-04
+C2762,Retail farmer,Mithapura,1,2026-08-05
+C2763,Home gardener,Dakor,12,2026-08-05
+C2764,Wholesale / dealer,Mithapura,1,2026-08-05
+C2765,Retail farmer,Dakor,12,2026-08-05
+C2766,Home gardener,Sevalia,18,2026-08-05
+C2767,Retail farmer,Mahudha,30,2026-08-05
+C2768,Home gardener,Dakor,12,2026-08-05
+C2769,Retail farmer,Dakor,12,2026-08-05
+C2770,Retail farmer,Thasra,9,2026-08-06
+C2771,Retail farmer,Dakor,12,2026-08-06
+C2772,Retail farmer,Sevalia,18,2026-08-06
+C2773,Wholesale / dealer,Anand,42,2026-08-06
+C2774,Wholesale / dealer,Thasra,9,2026-08-07
+C2775,Retail farmer,Sevalia,18,2026-08-07
+C2776,Home gardener,Jesapura,1,2026-08-07
+C2777,Retail farmer,Kathlal,35,2026-08-07
+C2778,Retail farmer,Kathlal,35,2026-08-07
+C2779,Retail farmer,Dakor,12,2026-08-07
+C2780,Retail farmer,Nadiad,38,2026-08-07
+C2781,Retail farmer,Kapadvanj,40,2026-08-07
+C2782,Retail farmer,Jesapura,1,2026-08-08
+C2783,Retail farmer,Jesapura,1,2026-08-08
+C2784,Retail farmer,Mithapura,1,2026-08-08
+C2785,Retail farmer,Thasra,9,2026-08-08
+C2786,Retail farmer,Kathlal,35,2026-08-08
+C2787,Retail farmer,Thasra,9,2026-08-08
+C2788,Retail farmer,Umreth,22,2026-08-08
+C2789,Home gardener,Umreth,22,2026-08-08
+C2790,Retail farmer,Dakor,12,2026-08-08
+C2791,Retail farmer,Mahudha,30,2026-08-08
+C2792,Retail farmer,Dakor,12,2026-08-08
+C2793,Retail farmer,Jesapura,1,2026-08-09
+C2794,Retail farmer,Anand,42,2026-08-09
+C2795,Wholesale / dealer,Nadiad,38,2026-08-09
+C2796,Retail farmer,Thasra,9,2026-08-09
+C2797,Retail farmer,Kapadvanj,40,2026-08-09
+C2798,Retail farmer,Dakor,12,2026-08-09
+C2799,Retail farmer,Kapadvanj,40,2026-08-09
+C2800,Retail farmer,Jesapura,1,2026-08-09
+C2801,Retail farmer,Jesapura,1,2026-08-09
+C2802,Retail farmer,Dakor,12,2026-08-10
+C2803,Retail farmer,Dakor,12,2026-08-10
+C2804,Wholesale / dealer,Umreth,22,2026-08-10
+C2805,Retail farmer,Thasra,9,2026-08-10
+C2806,Retail farmer,Sevalia,18,2026-08-10
+C2807,Retail farmer,Thasra,9,2026-08-10
+C2808,Retail farmer,Thasra,9,2026-08-10
+C2809,Wholesale / dealer,Anand,42,2026-08-10
+C2810,Home gardener,Mithapura,1,2026-08-10
+C2811,Retail farmer,Anand,42,2026-08-10
+C2812,Wholesale / dealer,Kathlal,35,2026-08-10
+C2813,Retail farmer,Kathlal,35,2026-08-11
+C2814,Retail farmer,Thasra,9,2026-08-11
+C2815,Retail farmer,Thasra,9,2026-08-11
+C2816,Retail farmer,Nadiad,38,2026-08-11
+C2817,Retail farmer,Thasra,9,2026-08-11
+C2818,Retail farmer,Sevalia,18,2026-08-11
+C2819,Home gardener,Kapadvanj,40,2026-08-11
+C2820,Retail farmer,Mahudha,30,2026-08-11
+C2821,Retail farmer,Thasra,9,2026-08-11
+C2822,Retail farmer,Mithapura,1,2026-08-11
+C2823,Wholesale / dealer,Kathlal,35,2026-08-12
+C2824,Wholesale / dealer,Balasinor,28,2026-08-12
+C2825,Retail farmer,Jesapura,1,2026-08-12
+C2826,Retail farmer,Thasra,9,2026-08-12
+C2827,Retail farmer,Kapadvanj,40,2026-08-12
+C2828,Retail farmer,Jesapura,1,2026-08-12
+C2829,Retail farmer,Sevalia,18,2026-08-12
+C2830,Wholesale / dealer,Dakor,12,2026-08-12
+C2831,Retail farmer,Sevalia,18,2026-08-12
+C2832,Retail farmer,Nadiad,38,2026-08-13
+C2833,Retail farmer,Anand,42,2026-08-13
+C2834,Home gardener,Nadiad,38,2026-08-13
+C2835,Wholesale / dealer,Thasra,9,2026-08-13
+C2836,Retail farmer,Balasinor,28,2026-08-13
+C2837,Retail farmer,Mahudha,30,2026-08-13
+C2838,Home gardener,Thasra,9,2026-08-13
+C2839,Retail farmer,Balasinor,28,2026-08-13
+C2840,Retail farmer,Kapadvanj,40,2026-08-13
+C2841,Retail farmer,Mithapura,1,2026-08-14
+C2842,Retail farmer,Anand,42,2026-08-14
+C2843,Retail farmer,Thasra,9,2026-08-14
+C2844,Wholesale / dealer,Umreth,22,2026-08-14
+C2845,Retail farmer,Sevalia,18,2026-08-14
+C2846,Retail farmer,Jesapura,1,2026-08-14
+C2847,Retail farmer,Mahudha,30,2026-08-14
+C2848,Retail farmer,Mahudha,30,2026-08-14
+C2849,Retail farmer,Kathlal,35,2026-08-15
+C2850,Retail farmer,Balasinor,28,2026-08-15
+C2851,Retail farmer,Umreth,22,2026-08-15
+C2852,Retail farmer,Thasra,9,2026-08-15
+C2853,Retail farmer,Anand,42,2026-08-15
+C2854,Retail farmer,Jesapura,1,2026-08-15
+C2855,Retail farmer,Mithapura,1,2026-08-15
+C2856,Wholesale / dealer,Balasinor,28,2026-08-15
+C2857,Retail farmer,Thasra,9,2026-08-15
+C2858,Retail farmer,Anand,42,2026-08-16
+C2859,Retail farmer,Thasra,9,2026-08-16
+C2860,Retail farmer,Umreth,22,2026-08-16
+C2861,Retail farmer,Thasra,9,2026-08-16
+C2862,Wholesale / dealer,Thasra,9,2026-08-16
+C2863,Retail farmer,Umreth,22,2026-08-16
+C2864,Retail farmer,Jesapura,1,2026-08-16
+C2865,Retail farmer,Jesapura,1,2026-08-16
+C2866,Retail farmer,Thasra,9,2026-08-16
+C2867,Retail farmer,Anand,42,2026-08-16
+C2868,Retail farmer,Sevalia,18,2026-08-17
+C2869,Retail farmer,Balasinor,28,2026-08-17
+C2870,Retail farmer,Jesapura,1,2026-08-17
+C2871,Retail farmer,Mahudha,30,2026-08-17
+C2872,Home gardener,Thasra,9,2026-08-17
+C2873,Retail farmer,Thasra,9,2026-08-17
+C2874,Wholesale / dealer,Kathlal,35,2026-08-17
+C2875,Wholesale / dealer,Jesapura,1,2026-08-17
+C2876,Wholesale / dealer,Balasinor,28,2026-08-18
+C2877,Retail farmer,Kapadvanj,40,2026-08-18
+C2878,Retail farmer,Anand,42,2026-08-18
+C2879,Wholesale / dealer,Nadiad,38,2026-08-18
+C2880,Wholesale / dealer,Dakor,12,2026-08-18
+C2881,Retail farmer,Umreth,22,2026-08-18
+C2882,Retail farmer,Thasra,9,2026-08-18
+C2883,Retail farmer,Mahudha,30,2026-08-18
+C2884,Retail farmer,Jesapura,1,2026-08-18
+C2885,Retail farmer,Jesapura,1,2026-08-18
+C2886,Retail farmer,Jesapura,1,2026-08-19
+C2887,Retail farmer,Kapadvanj,40,2026-08-19
+C2888,Wholesale / dealer,Mithapura,1,2026-08-19
+C2889,Retail farmer,Mahudha,30,2026-08-19
+C2890,Wholesale / dealer,Dakor,12,2026-08-19
+C2891,Retail farmer,Nadiad,38,2026-08-19
+C2892,Retail farmer,Mahudha,30,2026-08-19
+C2893,Retail farmer,Dakor,12,2026-08-19
+C2894,Retail farmer,Dakor,12,2026-08-20
+C2895,Retail farmer,Jesapura,1,2026-08-20
+C2896,Retail farmer,Thasra,9,2026-08-20
+C2897,Retail farmer,Anand,42,2026-08-20
+C2898,Wholesale / dealer,Balasinor,28,2026-08-20
+C2899,Retail farmer,Sevalia,18,2026-08-20
+C2900,Home gardener,Sevalia,18,2026-08-20
+C2901,Retail farmer,Thasra,9,2026-08-20
+C2902,Retail farmer,Kapadvanj,40,2026-08-20
+C2903,Retail farmer,Thasra,9,2026-08-20
+C2904,Retail farmer,Anand,42,2026-08-21
+C2905,Retail farmer,Thasra,9,2026-08-21
+C2906,Retail farmer,Umreth,22,2026-08-21
+C2907,Retail farmer,Dakor,12,2026-08-21
+C2908,Home gardener,Thasra,9,2026-08-21
+C2909,Wholesale / dealer,Sevalia,18,2026-08-21
+C2910,Retail farmer,Dakor,12,2026-08-21
+C2911,Retail farmer,Nadiad,38,2026-08-21
+C2912,Home gardener,Thasra,9,2026-08-21
+C2913,Wholesale / dealer,Umreth,22,2026-08-21
+C2914,Retail farmer,Jesapura,1,2026-08-22
+C2915,Retail farmer,Sevalia,18,2026-08-22
+C2916,Retail farmer,Sevalia,18,2026-08-22
+C2917,Retail farmer,Umreth,22,2026-08-22
+C2918,Retail farmer,Umreth,22,2026-08-22
+C2919,Retail farmer,Umreth,22,2026-08-22
+C2920,Retail farmer,Sevalia,18,2026-08-23
+C2921,Retail farmer,Sevalia,18,2026-08-23
+C2922,Retail farmer,Thasra,9,2026-08-23
+C2923,Retail farmer,Thasra,9,2026-08-23
+C2924,Home gardener,Dakor,12,2026-08-23
+C2925,Retail farmer,Umreth,22,2026-08-23
+C2926,Home gardener,Umreth,22,2026-08-23
+C2927,Retail farmer,Sevalia,18,2026-08-23
+C2928,Retail farmer,Mahudha,30,2026-08-23
+C2929,Wholesale / dealer,Thasra,9,2026-08-24
+C2930,Home gardener,Umreth,22,2026-08-24
+C2931,Retail farmer,Umreth,22,2026-08-24
+C2932,Home gardener,Anand,42,2026-08-24
+C2933,Retail farmer,Mahudha,30,2026-08-24
+C2934,Retail farmer,Mithapura,1,2026-08-24
+C2935,Retail farmer,Kapadvanj,40,2026-08-24
+C2936,Retail farmer,Mahudha,30,2026-08-24
+C2937,Retail farmer,Balasinor,28,2026-08-24
+C2938,Retail farmer,Mahudha,30,2026-08-25
+C2939,Retail farmer,Mithapura,1,2026-08-25
+C2940,Retail farmer,Dakor,12,2026-08-25
+C2941,Retail farmer,Jesapura,1,2026-08-25
+C2942,Retail farmer,Anand,42,2026-08-25
+C2943,Retail farmer,Dakor,12,2026-08-25
+C2944,Retail farmer,Mithapura,1,2026-08-25
+C2945,Retail farmer,Sevalia,18,2026-08-25
+C2946,Retail farmer,Mithapura,1,2026-08-26
+C2947,Retail farmer,Mahudha,30,2026-08-26
+C2948,Retail farmer,Dakor,12,2026-08-26
+C2949,Retail farmer,Jesapura,1,2026-08-26
+C2950,Retail farmer,Kathlal,35,2026-08-26
+C2951,Home gardener,Umreth,22,2026-08-26
+C2952,Retail farmer,Balasinor,28,2026-08-26
+C2953,Retail farmer,Nadiad,38,2026-08-26
+C2954,Retail farmer,Balasinor,28,2026-08-26
+C2955,Home gardener,Anand,42,2026-08-26
+C2956,Retail farmer,Nadiad,38,2026-08-27
+C2957,Home gardener,Dakor,12,2026-08-27
+C2958,Retail farmer,Umreth,22,2026-08-27
+C2959,Retail farmer,Thasra,9,2026-08-27
+C2960,Home gardener,Kathlal,35,2026-08-27
+C2961,Retail farmer,Mahudha,30,2026-08-27
+C2962,Retail farmer,Kapadvanj,40,2026-08-27
+C2963,Retail farmer,Nadiad,38,2026-08-27
+C2964,Retail farmer,Anand,42,2026-08-28
+C2965,Wholesale / dealer,Mahudha,30,2026-08-28
+C2966,Retail farmer,Anand,42,2026-08-28
+C2967,Retail farmer,Sevalia,18,2026-08-28
+C2968,Retail farmer,Balasinor,28,2026-08-28
+C2969,Wholesale / dealer,Kathlal,35,2026-08-28
+C2970,Retail farmer,Kapadvanj,40,2026-08-28
+C2971,Wholesale / dealer,Thasra,9,2026-08-28
+C2972,Wholesale / dealer,Kapadvanj,40,2026-08-29
+C2973,Retail farmer,Balasinor,28,2026-08-29
+C2974,Retail farmer,Jesapura,1,2026-08-29
+C2975,Retail farmer,Thasra,9,2026-08-29
+C2976,Retail farmer,Dakor,12,2026-08-29
+C2977,Retail farmer,Sevalia,18,2026-08-29
+C2978,Home gardener,Mahudha,30,2026-08-29
+C2979,Wholesale / dealer,Umreth,22,2026-08-29
+C2980,Retail farmer,Dakor,12,2026-08-29
+C2981,Retail farmer,Thasra,9,2026-08-29
+C2982,Retail farmer,Sevalia,18,2026-08-29
+C2983,Retail farmer,Sevalia,18,2026-08-29
+C2984,Retail farmer,Balasinor,28,2026-08-29
+C2985,Retail farmer,Dakor,12,2026-08-29
+C2986,Retail farmer,Mahudha,30,2026-08-29
+C2987,Retail farmer,Dakor,12,2026-08-29
+C2988,Retail farmer,Mithapura,1,2026-08-30
+C2989,Retail farmer,Umreth,22,2026-08-30
+C2990,Retail farmer,Balasinor,28,2026-08-30
+C2991,Wholesale / dealer,Nadiad,38,2026-08-30
+C2992,Home gardener,Mahudha,30,2026-08-30
+C2993,Retail farmer,Sevalia,18,2026-08-30
+C2994,Wholesale / dealer,Nadiad,38,2026-08-30
+C2995,Retail farmer,Umreth,22,2026-08-31
+C2996,Retail farmer,Kathlal,35,2026-08-31
+C2997,Retail farmer,Thasra,9,2026-08-31
+C2998,Home gardener,Dakor,12,2026-08-31
+C2999,Retail farmer,Umreth,22,2026-08-31
+C3000,Retail farmer,Mahudha,30,2026-08-31
+C3001,Retail farmer,Thasra,9,2026-08-31
