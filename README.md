@@ -169,4 +169,4 @@ akshar-nursery-analytics/
 **Heta Chavda** · Data Analytics
 
 <a href="https://github.com/hetachavda"><img src="https://img.shields.io/badge/GitHub-hetachavda-181717?logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/hetachavda/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
