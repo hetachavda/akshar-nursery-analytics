@@ -142,7 +142,7 @@ images in this README. You can also open the notebook directly in Jupyter, VS Co
 
 ```
 akshar-nursery-analytics/
-├── assets/            banner and dashboard images for this README
+├── assets/            README banner, dashboard image and logo kit
 ├── website/           business website
 ├── dashboard/         full dashboard (11 charts + sowing plan)
 ├── notebooks/         main analysis notebook, saved with outputs

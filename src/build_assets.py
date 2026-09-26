@@ -20,12 +20,9 @@ def esc(s):
 # ------------------------------------------------------------------ banner
 dots = "".join(f'<circle cx="{820 + c * 34 + (r % 2) * 17}" cy="{22 + r * 30}" r="9" fill="#ffffff" opacity="{0.025 + 0.015 * ((r + c) % 3)}"/>'
                for r in range(10) for c in range(12))
-sprout = f'''<g transform="translate(64,62)">
-  <rect width="64" height="64" rx="16" fill="{PAPER}"/>
-  <path d="M32 54 V28" stroke="{LEAF2}" stroke-width="4" stroke-linecap="round"/>
-  <path d="M32 33 C18 33 12 22 13 13 C25 13 32 21 32 33Z" fill="{LEAF}"/>
-  <path d="M32 27 C46 27 52 16 51 7 C39 7 32 15 32 27Z" fill="{LEAF2}"/>
-</g>'''
+MARK = open(ROOT / "assets" / "logo" / "akshar_icon.svg", encoding="utf-8").read()
+MARK = MARK[MARK.index(">", MARK.index("<g")) + 1:MARK.rindex("</g>")]
+sprout = f'<g transform="translate(64,62) scale({64/240})">' + MARK + "</g>"
 tags = ["Website", "Python", "SQL", "Dashboard", "Real business"]
 tx = 64; tag_svg = ""
 for t in tags:
@@ -62,8 +59,9 @@ kpis = [
 ]
 parts = [f'<rect width="{W}" height="{H}" fill="{PAPER}"/>',
          f'<rect width="{W}" height="78" fill="{SOIL}"/>',
-         f'<text x="36" y="36" font-size="13" font-weight="600" fill="{LEAF2}">SALES &amp; OPERATIONS DASHBOARD</text>',
-         f'<text x="36" y="62" font-size="22" font-weight="800" fill="#F3F5EA">Akshar Farm And Nursery</text>',
+         f'<g transform="translate(34,14) scale({50/240})">' + MARK.replace('id="akmc"', 'id="akmd"').replace('#akmc', '#akmd') + '</g>',
+         f'<text x="98" y="36" font-size="13" font-weight="600" fill="{LEAF2}">SALES &amp; OPERATIONS DASHBOARD</text>',
+         f'<text x="98" y="62" font-size="22" font-weight="800" fill="#F3F5EA">Akshar Farm And Nursery</text>',
          f'<text x="{W - 36}" y="52" font-size="13" text-anchor="end" fill="#CFC7B8">Simulated transactions · real business, crops &amp; varieties</text>']
 cw = (W - 72 - 5 * 14) / 6
 for i, (lab, val, note) in enumerate(kpis):

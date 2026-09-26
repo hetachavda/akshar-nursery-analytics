@@ -10,6 +10,8 @@ ROOT = Path(__file__).resolve().parents[1]
 K = json.loads((ROOT / "reports" / "kpis.json").read_text(encoding="utf-8"))
 FIG = ROOT / "reports" / "figures"
 OUT = ROOT / "dashboard" / "index.html"
+LOGO = (ROOT / "assets" / "logo" / "akshar_icon.svg").read_text(encoding="utf-8")
+FAV = base64.b64encode((ROOT / "assets" / "logo" / "akshar_favicon_512.png").read_bytes()).decode()
 REPO_URL = "https://github.com/hetachavda/akshar-nursery-analytics"   # change after creating the repo
 
 def img(name, alt):
@@ -72,6 +74,7 @@ page = f"""<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Akshar Farm And Nursery | Sales and Operations Dashboard</title>
+<link rel="icon" type="image/png" href="data:image/png;base64,{FAV}">
 <meta name="description" content="Data analysis dashboard for a seedling nursery in Kheda, Gujarat: seasonality, crops, customers, production efficiency and a sowing plan.">
 <style>
 :root{{--soil:#4A3426;--leaf:#4F7F2A;--leaf2:#86B04A;--marigold:#E39B12;--paper:#F4F6EC;--card:#fff;--ink:#2A2019;--muted:#6B5E4E;--line:#E2DFD2;
@@ -80,7 +83,8 @@ page = f"""<!DOCTYPE html>
 body{{margin:0;background:var(--paper);color:var(--ink);font-family:"Segoe UI",system-ui,-apple-system,Roboto,sans-serif;line-height:1.5}}
 .wrap{{width:min(1180px,100% - 2rem);margin-inline:auto}}
 header{{background:var(--soil);color:#F3F5EA;padding:2.2rem 0 2rem}}
-header .eyebrow{{color:var(--leaf2);font-weight:600;margin:0 0 .3rem}}
+header .eyebrow{{color:var(--leaf2);font-weight:600;margin:0}}
+.logo-row{{display:flex;align-items:center;gap:.8rem;margin-bottom:.6rem}} .logo-row svg{{flex:none;margin:-6px}}
 h1{{margin:0;font-size:clamp(1.6rem,3.4vw,2.4rem);line-height:1.15}}
 header p{{margin:.6rem 0 0;color:#D5CEBF;max-width:70ch}}
 .links{{display:flex;gap:.6rem;flex-wrap:wrap;margin-top:1.1rem}}
@@ -114,7 +118,7 @@ footer{{margin:3rem 0 0;padding:1.5rem 0 2rem;color:var(--muted);font-size:.9rem
 <body>
 <header>
   <div class="wrap">
-    <p class="eyebrow">Data analysis project</p>
+    <div class="logo-row">{LOGO.replace('width="320" height="320"', 'width="56" height="56"')}<p class="eyebrow">Data analysis project</p></div>
     <h1>Akshar Farm And Nursery: Sales and Operations Dashboard</h1>
     <p>Seedling nursery in Jesapura Mithapura, Kheda, Gujarat. Seasonality, crop and variety performance, customers, production efficiency and a sowing plan for September to December 2026.</p>
     <div class="links">
